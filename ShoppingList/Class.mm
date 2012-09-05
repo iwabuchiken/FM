@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1341288879718" ID="ID_1919212289" MODIFIED="1341288890140" TEXT="Class">
-<node CREATED="1341233043546" FOLDED="true" HGAP="32" ID="ID_139854400" MODIFIED="1341288560640" POSITION="right" TEXT="ShoppingItem.java" VSHIFT="-44">
+<node CREATED="1341233043546" HGAP="32" ID="ID_139854400" MODIFIED="1346291915468" POSITION="right" TEXT="ShoppingItem.java" VSHIFT="-44">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1341233049437" ID="ID_1283747708" MODIFIED="1341280593468" TEXT="store: String">
 <icon BUILTIN="button_ok"/>
