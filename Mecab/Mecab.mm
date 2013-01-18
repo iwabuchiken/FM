@@ -286,11 +286,18 @@
 </node>
 <node CREATED="1358153381585" ID="ID_1853309214" MODIFIED="1358153382627" TEXT="02">
 <node CREATED="1358153389728" ID="ID_1011816738" MODIFIED="1358163814710" TEXT="&#x5b89;&#x88c5; &quot;Wubi&quot; =&gt; &#x5728;&#x684c;&#x9762;&#x4e0a;&#x6784;&#x5efa; Mecab">
+<node CREATED="1358301907607" ID="ID_666247530" MODIFIED="1358301939445" TEXT="01">
+<icon BUILTIN="idea"/>
 <node CREATED="1358163836308" ID="ID_1559749046" LINK="http://www.ubuntu.com/download/desktop/windows-installer" MODIFIED="1358163853640" TEXT="&#x4e0b;&#x8f7d; Wubi.exe">
 <node CREATED="1358164253396" ID="ID_622248738" MODIFIED="1358164289714" TEXT="&#x4e0b;&#x8f7d; =&gt; 32&#x4f4d;&#x7248;&#x672c;">
 <node CREATED="1358164295907" ID="ID_971610398" LINK="http://askubuntu.com/questions/35879/how-do-i-force-wubi-to-download-and-install-32-bit-version" MODIFIED="1358164310947" TEXT="How do I force Wubi to download and install 32 bit version?"/>
 </node>
 <node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" HGAP="34" ID="ID_626052967" MODIFIED="1343379046046" TEXT="NNN(n@)" VSHIFT="19"/>
+</node>
+</node>
+<node CREATED="1358301915446" ID="ID_1660443762" MODIFIED="1358301939445" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1358301917606" ID="ID_1256863853" MODIFIED="1358301935427" TEXT="&#x5b89;&#x88c5; Wubi"/>
 </node>
 </node>
 </node>
