@@ -7,8 +7,18 @@
 <node CREATED="1358328831167" ID="ID_297083155" LINK="/home/iwabuchiken/ws/Mathematics/head.pdf" MODIFIED="1358328956899" TEXT="Set theory">
 <node CREATED="1358328958479" ID="ID_1453128623" LINK="https://www.google.co.jp/search?q=stanford+free+course+online&amp;aq=1&amp;oq=stanford+free+course&amp;aqs=chrome.2.0j57j0l2.8744&amp;sugexp=chrome,mod=0&amp;sourceid=chrome&amp;client=ubuntu&amp;channel=cs&amp;ie=UTF-8#hl=ja&amp;client=ubuntu&amp;hs=UZk&amp;tbo=d&amp;channel=cs&amp;sclient=psy-ab&amp;q=free+course+online+set+theory&amp;oq=free+course+online+set+theory&amp;gs_l=serp.3...105970.109267.0.109509.13.13.0.0.0.0.398.1663.8j4j0j1.13.0...0.0...1c.1.-_IcKoGUJmU&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;bvm=bv.41018144,d.dGI&amp;fp=55164de4e9dfad14&amp;biw=1535&amp;bih=1088" MODIFIED="1358328982299" TEXT="=&gt; REF"/>
 </node>
-<node CREATED="1358330990177" ID="ID_799089742" MODIFIED="1358331009906" TEXT="&quot;A natural way to specify a set is to take the collection of all objects with&quot;">
+<node CREATED="1358689128933" ID="ID_1358764691" MODIFIED="1358689131063" TEXT="s-1">
+<node CREATED="1358330990177" ID="ID_799089742" MODIFIED="1358689118508" TEXT="&quot;A natural way to specify a set is to take the collection of all objects with&quot;">
+<icon BUILTIN="idea"/>
+<node CREATED="1358689245644" ID="ID_323629399" MODIFIED="1358689246696" TEXT="e">
+<node CREATED="1358689241051" ID="ID_1394454015" MODIFIED="1358689241051" TEXT="22:40:34 01/20/2013"/>
+</node>
+</node>
+</node>
+<node CREATED="1358689133296" ID="ID_1876513190" MODIFIED="1358689134554" TEXT="s-2">
+<node CREATED="1358689119794" ID="ID_1899182776" MODIFIED="1358689122609" TEXT="Axiom of Complements.">
 <node BACKGROUND_COLOR="#000eff" COLOR="#fefefe" CREATED="1358263902941" ID="ID_1866542272" MODIFIED="1358263956302" TEXT="N(@)"/>
+</node>
 </node>
 </node>
 </node>
