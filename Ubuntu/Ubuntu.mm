@@ -1,0 +1,291 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1358261878772" ID="ID_896084300" MODIFIED="1358294287181" TEXT="Ubuntu">
+<node CREATED="1358261952606" ID="ID_831745886" MODIFIED="1358297625573" POSITION="right" TEXT="LOG">
+<node CREATED="1358298555391" FOLDED="true" ID="ID_95318728" MODIFIED="1358298561741" TEXT="DONE">
+<node CREATED="1358261961649" ID="ID_763834157" MODIFIED="1358297635356" TEXT="D-1">
+<icon BUILTIN="idea"/>
+<node CREATED="1358263865403" ID="ID_1240446265" MODIFIED="1358294291707" TEXT="&#x8bbe;&#x7f6e;: git"/>
+<node CREATED="1358261961649" ID="ID_1230554744" MODIFIED="1358297930302" TEXT="D-1-1">
+<icon BUILTIN="idea"/>
+<node CREATED="1358262276966" ID="ID_1134345264" MODIFIED="1358262370402" TEXT="&#x521b;&#x5efa;: ssh&#x5bc6;&#x94a5;; &#x5c06;&#x5bc6;&#x94a5;&#x6ce8;&#x518c;&#x5230; git &#x7f51;&#x7ad9;"/>
+</node>
+</node>
+</node>
+<node CREATED="1358261961649" ID="ID_240851801" MODIFIED="1358298416670" TEXT="D-2">
+<icon BUILTIN="idea"/>
+<node CREATED="1358261989504" ID="ID_1475415042" MODIFIED="1358297930304" TEXT="&#x5b89;&#x88c5;&#x667a;&#x80fd;&#x624b;&#x673a; Photon (ISW11M) &#x7684;&#x9a71;&#x52a8;&#x7a0b;&#x5e8f;">
+<node COLOR="#ff0600" CREATED="1358298156758" ID="ID_772068821" MODIFIED="1358298189519" TEXT="&#x95ee;&#x9898;">
+<node CREATED="1358298218618" ID="ID_29475459" MODIFIED="1358298392534" TEXT="&#x6469;&#x6258;&#x7f57;&#x62c9; mo2tuo1luo1la1 &#x7f51;&#x7ad9;&#x4e0d;&#x7ed9; Linux &#x63d0;&#x4f9b;&#x9a71; qu1 &#x52a8;&#x7a0b;&#x5e8f;"/>
+</node>
+</node>
+</node>
+<node CREATED="1358261961649" ID="ID_1043522666" MODIFIED="1358299974618" TEXT="D-3">
+<node CREATED="1358299967286" FOLDED="true" ID="ID_793663396" MODIFIED="1358581803331" TEXT="FM">
+<node CREATED="1358299969877" ID="ID_571710955" MODIFIED="1358301009889" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1358298449887" ID="ID_284166330" MODIFIED="1358298537345" TEXT="&#x5207;&#x6362;&#x5230;Windows&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x6309;&#x4e0b;&#x201c;FM&#x201d;git&#x7684;&#x76ee;&#x5f55;&#xff0c;&#x8fd4;&#x56de;&#x5230;Ubuntu&#xff0c;&#x514b;&#x9686;&#x201c;FM&#x201d;"/>
+</node>
+<node CREATED="1358300929622" ID="ID_1117378372" MODIFIED="1358301009889" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1358299984470" ID="ID_87664533" MODIFIED="1358300935103" TEXT="&#x6dfb;&#x52a0; &quot;Ubuntu&quot; &#x5730;&#x56fe;&#x5230; FM &#x76ee;&#x5f55;">
+<node COLOR="#ff0600" CREATED="1358298156758" ID="ID_1993171481" MODIFIED="1358300833496" TEXT="&#x95ee;&#x9898;">
+<icon BUILTIN="idea"/>
+<node CREATED="1358300145686" ID="ID_899049879" MODIFIED="1358300318233" TEXT="&#x4ece; gitk &#x7a97;&#x53e3;&#x5c1d;&#x8bd5;&#x5f00;&#x59cb; gui =&#x300b; &#x5728;&#x547d;&#x4ee4;&#x884c;&#x4e2d;&#x51fa;&#x73b0;&#x4fe1;&#x606f;">
+<node CREATED="1358300460389" ID="ID_92201983" LINK="/home/iwabuchiken/ws/FM/log/error_20130116.log" MODIFIED="1358300476110" TEXT="DOC"/>
+</node>
+<node CREATED="1358300508694" ID="ID_1483359593" MODIFIED="1358300521257" TEXT="&#x5c1d;&#x8bd5;">
+<node CREATED="1358300565638" ID="ID_844690446" LINK="http://www8.atwiki.jp/git_jp/m/pages/34.html" MODIFIED="1358300616370" TEXT="&#x5efa;&#x8bae;"/>
+<node COLOR="#3ba440" CREATED="1358300764566" ID="ID_84916131" MODIFIED="1358300829037" TEXT="&#x89e3;&#x51b3;&#x4e86;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1358301000659" ID="ID_284660718" MODIFIED="1358301153022" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1358300939574" ID="ID_1981392277" MODIFIED="1358300998655" TEXT="&#x63d0;&#x4ea4;&#x5e76;&#x63a8;&#x9001;"/>
+</node>
+</node>
+</node>
+<node CREATED="1358261961649" ID="ID_409742063" MODIFIED="1358809036447" TEXT="D-4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1358299134727" ID="ID_63385924" MODIFIED="1358299134727" TEXT="&#x5b89;&#x88c5;">
+<node CREATED="1358303389747" ID="ID_174945930" MODIFIED="1358303417945" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1358299139909" ID="ID_1172818522" MODIFIED="1358303412342" TEXT="Linux: tree"/>
+</node>
+<node CREATED="1358303392451" ID="ID_1955298942" MODIFIED="1358303417945" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1358262219299" ID="ID_1818583361" MODIFIED="1358303412342" TEXT="Eclipse">
+<node CREATED="1358301567766" ID="ID_1676969871" LINK="http://symfoware.blog68.fc2.com/blog-entry-937.html" MODIFIED="1358301572595" TEXT="INFO"/>
+</node>
+</node>
+<node CREATED="1358303394162" ID="ID_1278210634" MODIFIED="1358303394986" TEXT="03">
+<node CREATED="1358302230326" ID="ID_1486176682" MODIFIED="1358302239128" TEXT="&quot;TimeCalculator&quot;">
+<node CREATED="1358302239638" ID="ID_1283198832" MODIFIED="1358302240328" TEXT="01">
+<node CREATED="1358298449887" ID="ID_1061957269" MODIFIED="1358302353977" TEXT="&#x5207;&#x6362;&#x5230;Windows&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x63a8;&#x9001; TC &#x5230; GitHub &#x7f51;&#x7ad9;&#xff0c; &#x514b;&#x9686;&#x5230; Ubuntu"/>
+</node>
+</node>
+</node>
+<node CREATED="1358303395214" ID="ID_1941975783" MODIFIED="1358303396456" TEXT="04">
+<node CREATED="1358303849571" FOLDED="true" ID="ID_393195618" MODIFIED="1358581799523" TEXT="Eclipse plugin">
+<node CREATED="1358303855827" ID="ID_1239471509" MODIFIED="1358303859944" TEXT="VisualSwing">
+<node COLOR="#ff0600" CREATED="1358298156758" ID="ID_37091562" MODIFIED="1358305943725" TEXT="&#x95ee;&#x9898;">
+<icon BUILTIN="idea"/>
+<node CREATED="1358304367139" ID="ID_1675388089" MODIFIED="1358304400038" TEXT="&quot;plugins&quot; &#x76ee;&#x5f55; =&#x300b; &#x54ea;&#x513f;&#xff1f;"/>
+<node CREATED="1358300508694" ID="ID_420952238" MODIFIED="1358300521257" TEXT="&#x5c1d;&#x8bd5;">
+<node CREATED="1358304422867" ID="ID_481073718" LINK="http://ubuntuforums.org/showthread.php?t=1381914" MODIFIED="1358304426477" TEXT="REF"/>
+<node CREATED="1358305204852" ID="ID_799696234" MODIFIED="1358305352993" TEXT="&#x590d;&#x5236;&#x5e76;&#x7c98;&#x8d34;&#x6240;&#x6709; jar &#x6587;&#x4ef6;&#x5230; eclipse home &#x76ee;&#x5f55;&#x5728;&#x5185;&#x7684; dropins &#x76ee;&#x5f55;"/>
+<node CREATED="1358305537988" ID="ID_231038745" MODIFIED="1358305538903" TEXT="&#x7ed3;&#x679c;">
+<node CREATED="1358305527332" ID="ID_730357652" MODIFIED="1358305528845" TEXT="eclipse &#x7f16;&#x8f91;&#x5668;&#x5728;&#x5185;&#x7684;&#x9519;&#x8bef;&#x4fe1;&#x606f; =&#x300b; &#x6d88;&#x5931;&#x4e86;"/>
+</node>
+</node>
+</node>
+<node COLOR="#ff0600" CREATED="1358298156758" ID="ID_144594867" MODIFIED="1358305943725" TEXT="&#x95ee;&#x9898;">
+<icon BUILTIN="idea"/>
+<node CREATED="1358306057001" ID="ID_804476428" MODIFIED="1358306057001" TEXT="&#x5982;&#x4f55;&#x663e;&#x793a;&#x9690;&#x85cf;&#x6587;&#x4ef6;&#x5230;&#x6587;&#x4ef6;&#x6d4f;&#x89c8;&#x5668;&#x5185;"/>
+<node COLOR="#3ba440" CREATED="1358300764566" ID="ID_1277834915" MODIFIED="1358300829037" TEXT="&#x89e3;&#x51b3;&#x4e86;">
+<node CREATED="1358306076661" ID="ID_1789130833" LINK="http://www.howtogeek.com/howto/ubuntu/view-hidden-files-and-folders-in-ubuntu-file-browser/" MODIFIED="1358306079017" TEXT="REF"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1358303396703" ID="ID_1812440138" MODIFIED="1358600802250" TEXT="05">
+<icon BUILTIN="idea"/>
+<node CREATED="1358305795541" ID="ID_1980159391" MODIFIED="1358305863223" TEXT="&#x521b;&#x9020;&#x5728; linux &#x4e0a;&#x4f7f;&#x7528;&#x7684; makejar.bat =&gt; makejar_ubuntu.bat">
+<node CREATED="1358306096740" FOLDED="true" ID="ID_1819705089" MODIFIED="1358600829056" TEXT="01">
+<node CREATED="1358306099236" ID="ID_1893640453" MODIFIED="1358306133233" TEXT="&#x5982;&#x4f55;&#x5199;sh&#x811a;&#x672c;&#xff1f;">
+<node CREATED="1358467780153" ID="ID_1370279794" MODIFIED="1358467782911" TEXT="01">
+<node CREATED="1358467877490" ID="ID_557156178" MODIFIED="1358467877490" TEXT="&#x83b7;&#x5f97;&#x53c2;&#x6570;&#x4ece;&#x547d;&#x4ee4;&#x884c;">
+<node CREATED="1358468592166" ID="ID_823622591" MODIFIED="1358470592581" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358468595399" ID="ID_149961718" LINK="http://library.gnome.org/users/gedit/stable/gedit-change-default-font.html.en" MODIFIED="1358468715616" TEXT="&#x5982;&#x4f55;&#x6539;&#x53d8;gedit &#x7684;&#x5b57;&#x4f53;&#x5927;&#x5c0f;"/>
+</node>
+<node CREATED="1358471445304" ID="ID_32092969" MODIFIED="1358471600577" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358471565499" ID="ID_870043851" LINK="http://suhothayan.blogspot.jp/2010/10/vi-arrow-keys-not-woking-in-ubuntu.html" MODIFIED="1358471597496" TEXT="vim &#x7f16;&#x8f91;&#x5668;&#xff1a;&#x6309;&#x4e0b;&#x7bad;&#x5934;&#x952e; =&gt; &apos;A&apos;&#x3001;&#x7b49;&#x7b49;&#x5c31;&#x51fa;&#x73b0;"/>
+</node>
+<node CREATED="1358470594265" ID="ID_225263606" MODIFIED="1358470783616" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358470752381" ID="ID_596156395" LINK="http://ubuntuforums.org/showthread.php?t=1697690" MODIFIED="1358470804876" TEXT="&#x5982;&#x4f55;&#x7f29;&#x77ed; bash &#x547d;&#x4ee4;&#x884c;&#x63d0;&#x793a;&#x5185;&#x7684;&#x8def;&#x5f84;&#x8868;&#x793a;&#xff08;&#x88ab;&#x7f29;&#x77ed;&#x7684;&#xff0c; &#x4e0d;&#x5b8c;&#x6574;&#x7684;&#xff09;"/>
+</node>
+<node CREATED="1358470889512" ID="ID_650894803" MODIFIED="1358471081813" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358470893392" ID="ID_1859914712" LINK="http://ubuntuforums.org/showthread.php?t=1512677" MODIFIED="1358470923229" TEXT="&#x5982;&#x4f55;&#x5728; vi &#x7f16;&#x8f91;&#x5668;&#x4e2d;&#x663e;&#x793a;&#x884c;&#x53f7;"/>
+</node>
+<node CREATED="1358472574169" ID="ID_626927164" MODIFIED="1358473187101" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358472618744" ID="ID_458255138" LINK="http://askubuntu.com/questions/60218/how-to-add-a-directory-to-my-path" MODIFIED="1358473183822" TEXT="&#x5982;&#x4f55;&#x6dfb;&#x52a0;&#x65b0;&#x8def;&#x5f84;&#x5230; bash"/>
+</node>
+<node CREATED="1358473189753" ID="ID_704152049" MODIFIED="1358494408108" TEXT="DO">
+<icon BUILTIN="idea"/>
+<node CREATED="1358473202425" ID="ID_24415553" MODIFIED="1358473232174" TEXT="&#x5b89;&#x88c5; PyDev &#x5230; Eclipse"/>
+</node>
+<node CREATED="1358474918052" ID="ID_570557153" MODIFIED="1358474957270" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358474920740" ID="ID_1128117182" LINK="http://stackoverflow.com/questions/1421357/how-do-i-get-the-operating-system-name-in-a-friendly-manner-using-python-2-5" MODIFIED="1358474953128" TEXT="&#x5982;&#x4f55;&#x77e5;&#x9053;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x540d;&#x79f0;"/>
+</node>
+<node CREATED="1358474973571" ID="ID_1392043771" MODIFIED="1358475560315" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358474976772" ID="ID_134823605" MODIFIED="1358474978393" TEXT="bash">
+<node CREATED="1358474979028" ID="ID_1849503561" LINK="http://crazedmonkey.com/blog/programming/multiple-expression-if-statement-in-bash.html" MODIFIED="1358475556651" TEXT="&#x5982;&#x4f55;&#x811a;&#x672c;&#x5728; if &#x53e5;&#x5b50;&#x4e2d; &quot;or&quot;"/>
+</node>
+</node>
+<node CREATED="1358475571955" ID="ID_1907526006" MODIFIED="1358476384354" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358475693774" ID="ID_1271672762" LINK="http://www.cyberciti.biz/faq/linux-unix-appleosx-bash-script-extract-parameters-before-last-args/" MODIFIED="1358476381602" TEXT="&#x5982;&#x4f55;&#x628a;&#x6240;&#x6709;&#x53c2;&#x6570;&#x653e;&#x5728;&#x4e00;&#x4e2a;&#x6570;&#x7ec4;&#x91cc;"/>
+</node>
+<node CREATED="1358476495637" ID="ID_300223701" MODIFIED="1358476505384" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358476498312" ID="ID_1947948474" LINK="http://itpro.nikkeibp.co.jp/article/COLUMN/20060228/231046/?ST=oss" MODIFIED="1358476644212" TEXT="&#x5982;&#x4f55;&#x5728; bash &#x811a;&#x672c;&#x91cc;&#x9003;&#x8131; $ &#x5b57;&#x7b26;"/>
+</node>
+<node CREATED="1358476629573" ID="ID_558654158" MODIFIED="1358476800652" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358476631743" ID="ID_1082066971" LINK="https://live.gnome.org/Gedit/KeyboardShortcuts" MODIFIED="1358479417841" TEXT="gedit &#x7a0b;&#x5e8f;&#x7684;&#x6377;jie2&#x5f84;&#x6709;&#x4ec0;&#x4e48;&#xff1f;"/>
+</node>
+<node CREATED="1358476788309" ID="ID_1016594736" MODIFIED="1358478698913" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358476790203" ID="ID_1135718991" LINK="http://www.cyberciti.biz/faq/bash-for-loop-array/" MODIFIED="1358478696675" TEXT="for &#x53e5;&#x5b50;&#x7684;&#x8bed;&#x6cd5;&#x662f;&#x600e;&#x6837;&#x7684;"/>
+</node>
+<node CREATED="1358478700673" ID="ID_959153513" MODIFIED="1358481339979" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358478762400" ID="ID_1244515717" MODIFIED="1358478762400" TEXT="&#x5982;&#x4f55;&#x8f6c;&#x6362; Windows &#x6587;&#x4ef6; &#x5230; Unix &#x6587;&#x4ef6;">
+<node CREATED="1358479213014" ID="ID_1184282796" MODIFIED="1358479213659" TEXT="iwabuchiken@ubuntu:bin$ sudo apt-get install dos2unix "/>
+</node>
+</node>
+<node CREATED="1358479351367" ID="ID_280436572" MODIFIED="1358494258170" TEXT="DO">
+<icon BUILTIN="idea"/>
+<node CREATED="1358479377078" ID="ID_998956955" LINK="http://www.kkaneko.com/rinkou/javaintro/cdt.html" MODIFIED="1358494255321" TEXT="&#x4e0b;&#x8f7d;&#x5e76;&#x5b89;&#x88c5; &quot;CDT&quot; Eclipse &#x63d2;cha1&#x4ef6;"/>
+</node>
+<node CREATED="1358481716776" ID="ID_839319831" MODIFIED="1358481744231" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358481719057" ID="ID_382147290" LINK="http://www.linuxjournal.com/content/bash-arrays" MODIFIED="1358481737660" TEXT="&#x5982;&#x4f55;&#x5206;&#x5272;&#x5b57;&#x7b26;&#x4e32;&#xff0c;&#x5e76;&#x628a;&#x5b83;&#x4eec;&#x653e;&#x5230;&#x4e00;&#x4e2a;&#x6570;&#x7ec4;&#x91cc;">
+<node CREATED="1358481809811" ID="ID_396287561" LINK="http://www.codecoffee.com/tipsforlinux/articles/26-2.html" MODIFIED="1358481817995" TEXT="&#x5173;&#x4e8e;&#x53cd;&#x5f15;&#x53f7;"/>
+<node CREATED="1358481871544" ID="ID_1472838815" LINK="http://stackoverflow.com/questions/2871181/bash-string-replacing-a-some-char-with-another" MODIFIED="1358481880962" TEXT="&#x5173;&#x4e8e;&#x66f4;&#x6362;"/>
+</node>
+</node>
+<node CREATED="1358481342984" ID="ID_1752461974" MODIFIED="1358481344368" TEXT="?">
+<node CREATED="1358481552421" ID="ID_479956141" LINK="http://superuser.com/questions/42362/gnome-terminal-process-name-in-tab-title" MODIFIED="1358481582796" TEXT="&#x5982;&#x4f55;&#x66f4;&#x6539;&#x62a4;&#x8033; hu1er3 &#x6807;&#x9898;&#x7684;&#x5b57;&#x7b26;&#x4e32;">
+<node CREATED="1358481612102" ID="ID_80707592" MODIFIED="1358481645857" TEXT="&#x641c;&#x7d22;&#x8bcd; =&gt; &quot;ubuntu bash terminal change tab name&quot;"/>
+</node>
+</node>
+<node CREATED="1358493532985" ID="ID_1118593515" MODIFIED="1358494226549" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358493534923" ID="ID_1871396777" MODIFIED="1358493534923" TEXT="&#x5982;&#x4f55;&#x5728; bash &#x7ec8;&#x7aef;&#x91cc;&#x4f7f;&#x7528;&#x989c;&#x8272;">
+<node CREATED="1358493925458" ID="ID_644125158" LINK="ubuntu bash terminal use color" MODIFIED="1358493990948" TEXT="&#x5173;&#x4e8e;&#x7ec8;&#x7aef;&#x914d;&#x7f6e;"/>
+<node CREATED="1358494055651" ID="ID_992886636" LINK="http://unix.stackexchange.com/questions/44266/how-to-colorize-output-of-githttp://unix.stackexchange.com/questions/44266/how-to-colorize-output-of-git" MODIFIED="1358494062464" TEXT=".gitconfig"/>
+</node>
+</node>
+<node CREATED="1358494275485" ID="ID_1392814569" MODIFIED="1358506829270" TEXT="DO">
+<icon BUILTIN="idea"/>
+<node CREATED="1358494277458" ID="ID_118098714" MODIFIED="1358494369721" TEXT="&#x542f;&#x7528; gedit &#x4f7f;&#x7528;&#x6b63;&#x5219;&#x8868;&#x8fbe;&#x5f0f;">
+<node CREATED="1358494665873" ID="ID_625004394" LINK="http://ubuntuforums.org/showthread.php?t=857570" MODIFIED="1358494726628" TEXT="&#x63d2;&#x4ef6;&#x76ee;&#x5f55;"/>
+<node CREATED="1358495651956" ID="ID_1172974445" LINK="http://d.hatena.ne.jp/ino46/20100926/1285512600" MODIFIED="1358495682789" TEXT="&#x6559;&#x7a0b;">
+<node COLOR="#ff0000" CREATED="1358495683535" ID="ID_11716890" MODIFIED="1358495703414" TEXT="&#x95ee;&#x9898;">
+<node CREATED="1358495734617" ID="ID_629029787" MODIFIED="1358495737553" TEXT="&#x4e0d;&#x4f1a;&#x663e;&#x793a;&#x5728;&#x63d2;&#x4ef6;&#x5217;&#x8868;"/>
+</node>
+</node>
+<node CREATED="1358495651956" ID="ID_1193058631" LINK="http://askubuntu.com/questions/173785/install-regex-plugin-for-gedit" MODIFIED="1358496164395" TEXT="&#x6559;&#x7a0b;">
+<node COLOR="#ff0000" CREATED="1358495683535" ID="ID_397837855" MODIFIED="1358495703414" TEXT="&#x95ee;&#x9898;">
+<node CREATED="1358495734617" ID="ID_200216686" MODIFIED="1358495737553" TEXT="&#x4e0d;&#x4f1a;&#x663e;&#x793a;&#x5728;&#x63d2;&#x4ef6;&#x5217;&#x8868;"/>
+</node>
+</node>
+<node CREATED="1358496625827" ID="ID_1173314571" LINK="ubuntu 12.10 gedit plugin regex" MODIFIED="1358496703620" TEXT="&#x6559;&#x7a0b;">
+<node CREATED="1358496660367" ID="ID_1397967004" MODIFIED="1358496697572" TEXT="&#x641c;&#x7d22;&#x8bcd;: ubuntu 12.10 gedit plugin regex"/>
+</node>
+</node>
+</node>
+<node CREATED="1358518501727" ID="ID_1529255090" MODIFIED="1358518713736" TEXT="DO">
+<icon BUILTIN="idea"/>
+<node CREATED="1358518561243" ID="ID_1565131837" MODIFIED="1358518567178" TEXT="&#x5c06;&#x8fd9;&#x4e2a;&#x6587;&#x4ef6;&#x6539;&#x7f16;&#x4e3a;&#x53ef;&#x6267;&#x884c;&#x7684;: g">
+<node CREATED="1358518710074" ID="ID_1174386520" MODIFIED="1358518710074" TEXT="sudo chmod 755 /home/iwabuchiken/ws/ws_eclipse/G_nbp_new/g"/>
+</node>
+</node>
+<node CREATED="1358518773809" ID="ID_1582807451" MODIFIED="1358518867779" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358518836760" ID="ID_1739397594" MODIFIED="1358518836760" TEXT="&#x5982;&#x4f55;&#x5728; ls &#x7684;&#x5217;&#x8868;&#x91cc;&#xff0c; &#x8868;&#x793a;&#x53ea;&#x53ef;&#x6267;&#x884c;&#x6587;&#x4ef6;">
+<node CREATED="1358518853281" ID="ID_279134788" LINK="http://www.linuxquestions.org/questions/linux-newbie-8/show-only-executable-files-of-a-system-folder-627736/" MODIFIED="1358518863349" TEXT="ashokJ"/>
+</node>
+</node>
+<node CREATED="1358518722512" ID="ID_1906727112" MODIFIED="1358519470963" TEXT="DO">
+<icon BUILTIN="idea"/>
+<node CREATED="1358518745604" ID="ID_240602949" MODIFIED="1358518745604" TEXT="&#x521b;&#x5efa;git&#x7684;&#x522b;&#x540d;">
+<node CREATED="1358518914641" ID="ID_1578612990" LINK="http://tobysoft.net/wiki/index.php?git%2F%A5%B3%A5%DE%A5%F3%A5%C9%A4%CE%BE%CA%CE%AC(alias)%C0%DF%C4%EA%A4%F2%A4%B9%A4%EB%CA%FD%CB%A1" MODIFIED="1358518923278" TEXT="git config --global alias.co checkout"/>
+<node CREATED="1358519458845" ID="ID_432039593" MODIFIED="1358519466651" TEXT="s co b l"/>
+</node>
+</node>
+<node CREATED="1358520093441" ID="ID_923938662" MODIFIED="1358581829618" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358520171983" ID="ID_1864425808" MODIFIED="1358520194052" TEXT="&#x5982;&#x4f55;&#x4f7f;&#x7528; gedit &#x7684;&#x66f4;&#x6362;&#x529f;&#x80fd;">
+<node CREATED="1358581898232" ID="ID_1274233067" MODIFIED="1358582011476" TEXT="=&gt; &#x83dc;&#x5355;&#x680f;&#x5185;&#x7684;&#x641c;&#x7d22;&#x83dc;&#x5355;"/>
+</node>
+</node>
+<node CREATED="1358506961997" ID="ID_1582327605" MODIFIED="1358600241598" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1358506963816" ID="ID_897430713" LINK="http://shellscript.sunone.me/function.html" MODIFIED="1358600236679" TEXT="&#x5728; bash &#x811a;&#x672c;&#x91cc;&#xff0c; &#x5982;&#x4f55;&#x5199;&#x51fd;&#x6570; han2shu4"/>
+</node>
+<node CREATED="1358479102743" ID="ID_863095722" LINK="http://waterlan.home.xs4all.nl/dos2unix.html" MODIFIED="1358518752572" TEXT="?"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1358600695338" ID="ID_250031506" MODIFIED="1358600791411" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1358600728899" ID="ID_471310175" MODIFIED="1358600728899" TEXT="&#x8fd0;&#x884c;sh&#x6587;&#x4ef6;">
+<node CREATED="1358600747851" ID="ID_213652467" MODIFIED="1358600747851" TEXT="&#x7ed3;&#x679c;">
+<node CREATED="1358600788383" ID="ID_1652951606" MODIFIED="1358600788383" TEXT="&#x65f6;&#x95f4;&#x8ba1;&#x7b97;&#x5668;&#x5f00;&#x59cb;&#x4e86;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1358305799780" ID="ID_1928969741" MODIFIED="1358600816756" TEXT="06">
+<icon BUILTIN="idea"/>
+<node CREATED="1358303384121" ID="ID_408535292" MODIFIED="1358303385395" TEXT="G_nbp_new"/>
+</node>
+<node CREATED="1358305803508" ID="ID_678621009" MODIFIED="1358305804490" TEXT="07"/>
+</node>
+</node>
+<node CREATED="1358261961649" ID="ID_1059836654" MODIFIED="1358866076175" TEXT="D-5">
+<icon BUILTIN="idea"/>
+<node CREATED="1358809009787" ID="ID_1239268578" MODIFIED="1358809022900" TEXT="Thread in bash script">
+<node BACKGROUND_COLOR="#000eff" COLOR="#fefefe" CREATED="1358263902941" ID="ID_1866542272" MODIFIED="1358263956302" TEXT="N(@)"/>
+</node>
+<node CREATED="1358809042974" ID="ID_773889738" LINK="http://opennomad.com/content/parallelism-or-multiple-threads-bash" MODIFIED="1358809057760" TEXT="Resouce">
+<node CREATED="1358809058322" ID="ID_74392279" MODIFIED="1358809074226" TEXT="Search: ubuntu bash script thread"/>
+</node>
+</node>
+</node>
+<node CREATED="1358261959327" ID="ID_1273118506" MODIFIED="1358294291714" POSITION="right" TEXT="TODO">
+<node CREATED="1358263888893" FOLDED="true" ID="ID_1317000552" MODIFIED="1358302208854" TEXT="COPIED">
+<node CREATED="1358261961649" ID="ID_1537363458" MODIFIED="1358297930307" TEXT="D-1">
+<node CREATED="1358263865403" ID="ID_81345580" MODIFIED="1358263869891" TEXT="&#x8bbe;&#x7f6e;: git"/>
+</node>
+<node CREATED="1358261961649" ID="ID_803015273" MODIFIED="1358297930309" TEXT="D-1-1">
+<node CREATED="1358262276966" ID="ID_694887928" MODIFIED="1358262370402" TEXT="&#x521b;&#x5efa;: ssh&#x5bc6;&#x94a5;; &#x5c06;&#x5bc6;&#x94a5;&#x6ce8;&#x518c;&#x5230; git &#x7f51;&#x7ad9;"/>
+</node>
+<node CREATED="1358261961649" ID="ID_1896597257" MODIFIED="1358297617953" TEXT="D-2">
+<node CREATED="1358261989504" ID="ID_350898019" MODIFIED="1358262199904" TEXT="&#x5b89;&#x88c5;&#x667a;&#x80fd;&#x624b;&#x673a; Photon (ISW11M) &#x7684;&#x9a71;&#x52a8;&#x7a0b;&#x5e8f;"/>
+</node>
+<node CREATED="1358261961649" ID="ID_1980138139" MODIFIED="1358298547010" TEXT="D-3">
+<node CREATED="1358298449887" ID="ID_592902797" MODIFIED="1358298537345" TEXT="&#x5207;&#x6362;&#x5230;Windows&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x6309;&#x4e0b;&#x201c;FM&#x201d;git&#x7684;&#x76ee;&#x5f55;&#xff0c;&#x8fd4;&#x56de;&#x5230;Ubuntu&#xff0c;&#x514b;&#x9686;&#x201c;FM&#x201d;"/>
+</node>
+<node CREATED="1358261961649" ID="ID_1036118860" MODIFIED="1358299178031" TEXT="D-4">
+<node CREATED="1358299134727" ID="ID_623685869" MODIFIED="1358299134727" TEXT="&#x5b89;&#x88c5;">
+<node CREATED="1358299139909" ID="ID_329651581" MODIFIED="1358299145289" TEXT="Linux: tree"/>
+<node CREATED="1358262219299" ID="ID_856856667" MODIFIED="1358302189645" TEXT="Eclipse"/>
+</node>
+</node>
+<node CREATED="1358261961649" ID="ID_334488487" MODIFIED="1358301322072" TEXT="D-5">
+<node CREATED="1358809009787" ID="ID_1447316503" MODIFIED="1358809022900" TEXT="Thread in bash script"/>
+</node>
+</node>
+<node CREATED="1358261961649" ID="ID_77035233" MODIFIED="1358261963156" TEXT="D-">
+<node CREATED="1358479165216" ID="ID_1617717169" MODIFIED="1358479165216" TEXT="dos2unix &#x7684;&#x6e90;&#x4ee3;&#x7801;&#x662f;&#x600e;&#x6837;&#x7684;"/>
+</node>
+<node CREATED="1358261961649" ID="ID_1614687524" MODIFIED="1358261963156" TEXT="D-"/>
+</node>
+<node CREATED="1358301017584" ID="ID_1846168596" LINK="../Activity_log.mm" MODIFIED="1358301029803" POSITION="left" TEXT="UP"/>
+</node>
+</map>

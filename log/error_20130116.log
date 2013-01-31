@@ -1,0 +1,13 @@
+iwabuchiken@ubuntu:~/ws/FM$ man fg
+No manual entry for fg
+iwabuchiken@ubuntu:~/ws/FM$ fg 1
+gitk
+iwabuchiken@ubuntu:~/ws/FM$ gitk
+git: 'gui' is not a git command. See 'git --help'.
+
+Did you mean one of these?
+	grep
+	init
+	pull
+	push
+

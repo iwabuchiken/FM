@@ -1,0 +1,300 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1357703471591" ID="ID_1130848348" MODIFIED="1357703612452" TEXT="Time calculator(Java)">
+<node CREATED="1357703526965" ID="ID_449892322" LINK="../../Activity_log.mm" MODIFIED="1357703542105" POSITION="left" TEXT="UP"/>
+<node CREATED="1357703613444" ID="ID_1934874512" MODIFIED="1357703615459" POSITION="right" TEXT="LOG">
+<node CREATED="1357703619028" ID="ID_85158487" MODIFIED="1357703631075" TEXT="D-1">
+<node CREATED="1357703623444" FOLDED="true" ID="ID_63342170" LINK="http://zetcode.com/tutorials/javaswingtutorial/firstprograms/" MODIFIED="1357830340371" TEXT="Swing tutorial">
+<node CREATED="1357705905445" ID="ID_891659628" MODIFIED="1357712507851" TEXT="Example.java">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1357705909813" ID="ID_21334271" MODIFIED="1357712507852" TEXT="E2.java">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1357705975206" ID="ID_269505909" MODIFIED="1357712507851" TEXT="E_3_menu_toolbar.java">
+<icon BUILTIN="idea"/>
+<node CREATED="1357705983092" ID="ID_1128995317" LINK="http://www.fotoui.com/base/pngicons/page/8/" MODIFIED="1357705989960" TEXT="ICON"/>
+<node CREATED="1357710120815" ID="ID_1080228555" LINK="http://www.pictureresize.org/online-images-converter.html" MODIFIED="1357710127799" TEXT="image file converter"/>
+</node>
+<node CREATED="1357709435766" ID="ID_341712892" LINK="http://www.skylit.com/javamethods/faqs/createjar.html" MODIFIED="1357710640129" TEXT="Create an executable jar">
+<icon BUILTIN="idea"/>
+<node CREATED="1357710028213" ID="ID_896511618" LINK="http://www.wikihow.com/Run-a-.Jar-Java-File" MODIFIED="1357710032746" TEXT="REF"/>
+<node CREATED="1357712587190" ID="ID_407006194" MODIFIED="1357784275084" TEXT="Steps">
+<node CREATED="1357712589382" ID="ID_1418517678" MODIFIED="1357712604595" TEXT="&#x30d1;&#x30c3;&#x30b1;&#x30fc;&#x30b8;&#x30c7;&#x30a3;&#x30ec;&#x30af;&#x30c8;&#x30ea;&#x306e;&#x3042;&#x308b;&#x30c7;&#x30a3;&#x30ec;&#x30af;&#x30c8;&#x30ea;&#x3078;&#x79fb;&#x308b;"/>
+<node CREATED="1357712605078" ID="ID_234672600" MODIFIED="1357712614274" TEXT="manifest.txt &#x3092;&#x4f5c;&#x6210;&#x3059;&#x308b;"/>
+<node CREATED="1357712614854" ID="ID_742697458" MODIFIED="1357784614440" TEXT="C:\WORKS\WS\WS_Android\Time_calculator\bin&gt;jar cvfm [Jar file name] manifest.txt [p1/E_ 3_menu_toolbar*.class] [p1/*.jpg]"/>
+<node CREATED="1357712649541" ID="ID_1536625602" MODIFIED="1357712681651" TEXT="&#x51fa;&#x6765;&#x4e0a;&#x304c;&#x3063;&#x305f; jar &#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x306e;&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x540d;&#x3092;&#x3001;&#x30b3;&#x30de;&#x30f3;&#x30c9;&#x30e9;&#x30a4;&#x30f3;&#x3078;&#x5165;&#x308c;&#x308b;&#xff1a;&#x3000;C:\WORKS\WS\WS_Android\Time_calculator\bin&gt;p1_E3.jar"/>
+<node CREATED="1357712683365" ID="ID_1356866076" MODIFIED="1357712692052" TEXT="=&gt;&#x3000;&#x30d7;&#x30ed;&#x30b0;&#x30e9;&#x30e0;&#x304c;&#x59cb;&#x307e;&#x308b;"/>
+</node>
+</node>
+<node CREATED="1357710640918" ID="ID_307575290" MODIFIED="1357830334908" TEXT="D-1-4">
+<node CREATED="1357710646006" ID="ID_934151642" LINK="http://zetcode.com/tutorials/javaswingtutorial/swingevents/" MODIFIED="1357710655076" TEXT="Event">
+<node CREATED="1357712440473" ID="ID_857336773" MODIFIED="1357712440473" TEXT="E_4_events.java"/>
+</node>
+<node CREATED="1357712492470" ID="ID_71185230" LINK="http://zetcode.com/tutorials/javaswingtutorial/swingevents/" MODIFIED="1357712501385" TEXT="&quot;Multiple sources&quot;"/>
+<node CREATED="1357786962026" ID="ID_1677676370" MODIFIED="1357788853794" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1357785604473" ID="ID_542779822" MODIFIED="1357785606617" TEXT="01">
+<node CREATED="1357785607929" ID="ID_1174849494" MODIFIED="1357785615624" TEXT="3&#x3064;&#x306e;&#x30dc;&#x30bf;&#x30f3;&#x3092;&#x4f5c;&#x308b;"/>
+<node CREATED="1357785616010" ID="ID_1429268815" MODIFIED="1357785624265" TEXT="&#x5404;&#x30dc;&#x30bf;&#x30f3;&#x306b;&#x3001;&#x30e1;&#x30bd;&#x30c3;&#x30c9;&#x3092;&#x4ed8;&#x3051;&#x308b;"/>
+</node>
+<node CREATED="1357785625865" ID="ID_357568383" MODIFIED="1357785627064" TEXT="02">
+<node CREATED="1357785627769" ID="ID_1840505787" MODIFIED="1357785653177" TEXT="list &#x306e;&#x4e2d;&#x306e;&#x3001;&#x6642;&#x523b;&#x306e;&#x30e9;&#x30d9;&#x30eb;&#x304b;&#x3089;&#x3001;&#x30df;&#x30ea;&#x79d2;&#x3092;&#x5f97;&#x308b;">
+<node CREATED="1357787442010" ID="ID_886322116" LINK="http://www.javadrive.jp/start/calendar/index3.html" MODIFIED="1357787444794" TEXT="REF"/>
+<node CREATED="1357787453002" ID="ID_1128587022" LINK="http://stackoverflow.com/questions/7735705/how-to-convert-date-format-to-milliseconds" MODIFIED="1357787455887" TEXT="REF"/>
+<node CREATED="1357787468297" ID="ID_1693906528" LINK="http://docs.oracle.com/javase/6/docs/api/java/util/Calendar.html#constructor_summary" MODIFIED="1357787475452" TEXT="REF">
+<node CREATED="1357787476570" ID="ID_291343812" MODIFIED="1357787479289" TEXT="Java doc"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1357787032250" ID="ID_1837381655" MODIFIED="1357787037289" TEXT="v-1.1">
+<node CREATED="1357787046281" ID="ID_337282953" MODIFIED="1357787047431" TEXT="01">
+<node CREATED="1357787049177" ID="ID_1064233074" MODIFIED="1357787079305" TEXT="&#x30ea;&#x30b9;&#x30c8;&#x3068;&#x30e2;&#x30c7;&#x30eb;&#x3092;&#x3082;&#x3046;&#x4e00;&#x3064;&#x4f5c;&#x308b;&#xff1b;&#x305d;&#x3061;&#x3089;&#x306b;&#x3001;2&#x3064;&#x306e;&#x6642;&#x9593;&#x306e;&#x5dee;&#x3092;&#x8868;&#x793a;&#x3059;&#x308b;"/>
+<node CREATED="1357787503337" ID="ID_874314903" MODIFIED="1357787516185" TEXT="&#x30af;&#x30ea;&#x30c3;&#x30d7;&#x30dc;&#x30fc;&#x30c9;&#x306b;&#x8cbc;&#x308a;&#x4ed8;&#x3051;&#x308b;&#x306b;&#x306f;&#xff1f;">
+<node CREATED="1357788344170" ID="ID_664893939" LINK="http://www.ne.jp/asahi/hishidama/home/tech/java/clipboard.html#clipboard" MODIFIED="1357788349554" TEXT="REF"/>
+</node>
+</node>
+<node CREATED="1357787591850" ID="ID_995141335" MODIFIED="1357787593802" TEXT="02">
+<node CREATED="1357787594474" ID="ID_1296227407" MODIFIED="1357787613002" TEXT="&#x30dc;&#x30bf;&#x30f3;&#x3092;&#x3082;&#x3046;&#x4e00;&#x3064;&#xff1a;&quot;Get diff&quot;">
+<node CREATED="1357787765465" ID="ID_1077136909" MODIFIED="1357787767194" TEXT="NO"/>
+</node>
+<node CREATED="1357787768858" ID="ID_342261372" MODIFIED="1357787780362" TEXT="&#x6642;&#x9593;&#x5dee;&#x306e;&#x30ea;&#x30b9;&#x30c8;&#x306b;&#x3001;&#x30ea;&#x30b9;&#x30ca;&#x30fc;&#x3092;&#x3064;&#x3051;&#x308b;"/>
+</node>
+</node>
+<node CREATED="1357788911738" ID="ID_937071764" MODIFIED="1357788913466" TEXT="v-1.2">
+<node CREATED="1357788914458" ID="ID_1939121097" MODIFIED="1357788915562" TEXT="01">
+<node CREATED="1357788916970" ID="ID_1294736289" MODIFIED="1357789977025" TEXT="&#x30ea;&#x30b9;&#x30c8;&#x306b;&#x3001;&#x30b9;&#x30af;&#x30ed;&#x30fc;&#x30eb;&#x3092;&#x3064;&#x3051;&#x308b;">
+<icon BUILTIN="stop-sign"/>
+<node COLOR="#ff0000" CREATED="1357789844186" ID="ID_1918365495" MODIFIED="1357789972134" TEXT="PROBLEM">
+<node CREATED="1357789848731" ID="ID_1264532036" MODIFIED="1357789965482" TEXT="ScrollPane &#x306b; JList &#x30aa;&#x30d6;&#x30b8;&#x30a7;&#x30af;&#x30c8;&#x3092; add &#x3059;&#x308b;&#x3000;=&gt;&#x3000;&#x30a6;&#x30a3;&#x30f3;&#x30c9;&#x30a6;&#x306b;&#x306f;&#x3001;&#x4f55;&#x3082;&#x8868;&#x793a;&#x3055;&#x308c;&#x306a;&#x3044;"/>
+</node>
+</node>
+</node>
+<node CREATED="1357789978762" ID="ID_1448401265" MODIFIED="1357789981297" TEXT="02">
+<node CREATED="1357789982650" ID="ID_783971883" MODIFIED="1357790077042" TEXT="&#x6642;&#x9593;&#x5dee;&#x3092;&#x3001;&#x30df;&#x30ea;&#x79d2;&#x5f62;&#x5f0f;&#x3067;&#x3001;&#x8868;&#x793a;&#x3059;&#x308b;&#xff08;&#x73fe;&#x72b6;&#x3001;&#x7d42;&#x4e86;&#x6642;&#x523b;&#x306e;&#x305d;&#x308c;&#x3092;&#x8868;&#x793a;&#x3057;&#x3066;&#x3044;&#x308b;&#xff09;">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1357790077851" ID="ID_465125568" MODIFIED="1357790079865" TEXT="03">
+<node CREATED="1357790081450" ID="ID_763853907" MODIFIED="1357790107177" TEXT="&#x6642;&#x9593;&#x5dee;&#x306e;&#x30df;&#x30ea;&#x79d2;&#x3092;&#x3001;&#x30c7;&#x30b8;&#x30bf;&#x30eb;&#x5f62;&#x5f0f;&#x306b;&#x5909;&#x63db;&#x3059;&#x308b;&#xff1b;&#x8868;&#x793a;&#x3059;&#x308b;&#xff08;XX:XX:XX&#xff09;"/>
+</node>
+</node>
+<node CREATED="1357791595852" ID="ID_1081999976" MODIFIED="1357793078935" TEXT="v-1.3">
+<icon BUILTIN="idea"/>
+<node CREATED="1357791602043" ID="ID_1826397169" MODIFIED="1357792387748" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1357791603451" ID="ID_1532875608" MODIFIED="1357791621403" TEXT="Get time &#x3067;&#x3001;&#x30c7;&#x30b8;&#x30bf;&#x30eb;&#x5f62;&#x5f0f;&#x306e;&#x6642;&#x523b;&#x306e;&#x307f;&#x3092;&#x3001;&#x51fa;&#x3059;">
+<node CREATED="1357791673707" ID="ID_1926068447" MODIFIED="1357791676235" TEXT="CODES">
+<node CREATED="1357791676934" ID="ID_411164655" MODIFIED="1357792044864" TEXT="actionPerformed_get_time()">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1357791689723" ID="ID_903391414" MODIFIED="1357792282372" TEXT="actionPerformed_cal()">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1357791794747" ID="ID_942531527" MODIFIED="1357791796251" TEXT="NEW">
+<node CREATED="1357791797041" ID="ID_1839527809" MODIFIED="1357791837012" TEXT="get_TimeLabel(long millSec)">
+<icon BUILTIN="idea"/>
+<node CREATED="1357791808155" ID="ID_673103788" MODIFIED="1357791808155" TEXT="C:\WORKS\WS\WS_Android~\IC\src\ic\utils\Methods.java"/>
+</node>
+<node CREATED="1357791826699" ID="ID_1411413952" MODIFIED="1357791837012" TEXT="getMillSeconds_now()">
+<icon BUILTIN="idea"/>
+<node CREATED="1357791808155" ID="ID_570244102" MODIFIED="1357791808155" TEXT="C:\WORKS\WS\WS_Android~\IC\src\ic\utils\Methods.java"/>
+</node>
+</node>
+<node CREATED="1357791676934" ID="ID_1539468674" MODIFIED="1357792356258" TEXT="actionPerformed_get_time()">
+<icon BUILTIN="idea"/>
+<node CREATED="1357792293163" ID="ID_1789780108" MODIFIED="1357792311707" TEXT="&#x30ea;&#x30b9;&#x30c8;&#x9577;&#x304c;&#xff14;&#x3092;&#x8d85;&#x3048;&#x305f;&#x3089;&#x3001;1&#x3064;&#x3060;&#x3051;&#x3001;&#x524a;&#x9664;&#x3059;&#x308b;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1357792365884" ID="ID_1014092526" MODIFIED="1357793075864" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1357792375291" ID="ID_1586731568" MODIFIED="1357792497566" TEXT="&#x6642;&#x523b;&#x306e;&#x30ea;&#x30b9;&#x30c8;&#x306b;&#x3082;&#x3001;&#x30ea;&#x30b9;&#x30ca;&#x30fc;&#x3092;&#x3064;&#x3051;&#x308b;">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1357792498283" ID="ID_1918169543" MODIFIED="1357792525180" TEXT="&#x6642;&#x523b;&#x306e;&#x6587;&#x5b57;&#x306e;&#x5927;&#x304d;&#x3055;&#x3000;=&gt;&#x3000;&#x73fe;&#x884c;&#x306e;&#x3001;3&#x5272;&#x5897;&#x306b;">
+<node CREATED="1357792658491" ID="ID_1558156133" LINK="http://www.mitchy-world.jp/java/swing/jlist/jlist02.htm" MODIFIED="1357792662299" TEXT="REF"/>
+<node CREATED="1357793061499" ID="ID_1933197478" LINK="http://sanjaal.com/java/tag/java-list-of-all-font-names/" MODIFIED="1357793068335" TEXT="&#x30d5;&#x30a9;&#x30f3;&#x30c8;&#x540d;&#x3092;&#x77e5;&#x308a;&#x305f;&#x3044;"/>
+</node>
+</node>
+</node>
+<node CREATED="1357793085212" ID="ID_673500291" MODIFIED="1357793714456" TEXT="VERSION=1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1357793471084" ID="ID_323921131" MODIFIED="1357793711846" TEXT="&#x30bf;&#x30b0;&#x3092;&#x3064;&#x3051;&#x3088;&#x3046;">
+<icon BUILTIN="idea"/>
+<node CREATED="1357793476235" ID="ID_675866150" LINK="http://git-scm.com/book/ja/Git-%E3%81%AE%E5%9F%BA%E6%9C%AC-%E3%82%BF%E3%82%B0" MODIFIED="1357793478779" TEXT="REF"/>
+</node>
+<node CREATED="1357793716428" ID="ID_1255381042" MODIFIED="1357799364854" TEXT="jar &#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x3092;&#x4f5c;&#x308b;">
+<icon BUILTIN="idea"/>
+<node CREATED="1357793952666" ID="ID_1953809724" MODIFIED="1357796188726" TEXT="&#x30d0;&#x30c3;&#x30c1;&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x3092;&#x4f5c;&#x308d;&#x3046;">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1357794713965" ID="ID_1830299381" LINK="http://d.hatena.ne.jp/cloned/20080822" MODIFIED="1357794716614" TEXT="REF"/>
+</node>
+<node CREATED="1357796189372" ID="ID_1224719888" MODIFIED="1357798515490" TEXT="Java&#x3067;&#x3001;jar &#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x3092;&#x4f5c;&#x308b;&#x30d7;&#x30ed;&#x30b0;&#x30e9;&#x30e0;&#x3001;&#x4f5c;&#x308d;&#x3046;">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1357798517180" ID="ID_275740107" MODIFIED="1357798526766" TEXT="=&gt;&#x3000;&#x30d0;&#x30c3;&#x30c1;&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x306b;&#x3057;&#x3088;&#x3046;"/>
+</node>
+<node CREATED="1357793952666" ID="ID_1664190421" MODIFIED="1357799249459" TEXT="&#x30d0;&#x30c3;&#x30c1;&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x3092;&#x4f5c;&#x308d;&#x3046;">
+<icon BUILTIN="idea"/>
+<node CREATED="1357798541293" ID="ID_1925103566" LINK="http://stackoverflow.com/questions/132799/how-can-you-echo-a-newline-in-batch-files" MODIFIED="1357798554189" TEXT="&#x7a7a;&#x306e;&#x884c;&#x3092;&#x51fa;&#x529b;"/>
+<node CREATED="1357799170797" ID="ID_1255243884" LINK="http://tamatamablog.blog.so-net.ne.jp/2011-11-23" MODIFIED="1357799193107" TEXT="&#x30c7;&#x30a3;&#x30ec;&#x30af;&#x30c8;&#x30ea;&#x5185;&#x306e;&#x3001;&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x30ea;&#x30b9;&#x30c8;"/>
+<node CREATED="1357799261444" ID="ID_1996621346" MODIFIED="1357799281342" TEXT="C:\WORKS\WS\WS_Android\Time_calculator\makejar.bat"/>
+</node>
+</node>
+</node>
+<node CREATED="1357799379645" ID="ID_1015713517" MODIFIED="1357799407566" TEXT="&#x30d1;&#x30b9;&#x3092;&#x8ffd;&#x52a0;&#x3057;&#x3066;&#x304a;&#x3053;&#x3046;&#xff1a;&#x3000;C:\WORKS\WS\a.bat"/>
+</node>
+</node>
+</node>
+<node CREATED="1357703619028" ID="ID_280916185" MODIFIED="1358045558125" TEXT="D-2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1358030644390" ID="ID_234297433" MODIFIED="1358030656015" TEXT="B1_checkbox_list">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1358030453436" ID="ID_1313357247" MODIFIED="1358030777573" TEXT="C:\WORKS\WS\WS_Android\Time_calculator\src\p2"/>
+<node CREATED="1357830181866" ID="ID_1418940896" MODIFIED="1357830254461" TEXT="&quot;Get time&quot; &#x7528;&#x306e;&#x30ea;&#x30b9;&#x30c8;&#x306b;&#x3001;&#x5404;&#x30a2;&#x30a4;&#x30c6;&#x30e0;&#x306b;&#x3001;&#x30c1;&#x30a7;&#x30c3;&#x30af;&#x30dc;&#x30c3;&#x30af;&#x30b9;&#x3092;&#x3064;&#x3051;&#x308b;&#xff1b;&#x30c1;&#x30a7;&#x30c3;&#x30af;&#x3055;&#x308c;&#x3066;&#x3044;&#x308b;&#x3082;&#x306e;&#x304c;&#xff12;&#x3064;&#x3042;&#x308c;&#x3070;&#x3001;&quot;Calculate&quot; &#x30dc;&#x30bf;&#x30f3;&#x306e;&#x6642;&#x3001;&#x305d;&#x308c;&#x3089;2&#x3064;&#x306e;&#x6642;&#x523b;&#x3092;&#x4f7f;&#x3063;&#x3066;&#x3001;&#x6642;&#x9593;&#x5dee;&#x3092;&#x7b97;&#x51fa;&#x3059;&#x308b;"/>
+<node CREATED="1358030293207" ID="ID_863064617" MODIFIED="1358030297365" TEXT="D-2-1">
+<node CREATED="1358030403687" ID="ID_347226198" MODIFIED="1358030418998" TEXT="&#x30c1;&#x30a7;&#x30c3;&#x30af;&#x30dc;&#x30c3;&#x30af;&#x30b9;&#x4ed8;&#x304d;&#x306e;&#x30ea;&#x30b9;&#x30c8;&#x3092;&#x8868;&#x793a;&#x3059;&#x308b;"/>
+<node CREATED="1358030423334" ID="ID_1706704252" MODIFIED="1358045448014" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1358030462422" ID="ID_813122444" MODIFIED="1358030467813" TEXT="Collect information">
+<node CREATED="1358030525766" ID="ID_1609193606" LINK="http://zetcode.com/tutorials/javaswingtutorial/basicswingcomponents/" MODIFIED="1358030533539" TEXT="&quot;JCheckBox&quot;"/>
+<node CREATED="1358032217493" ID="ID_891431952" MODIFIED="1358032347227" TEXT="Eclipse plugin for building GUIs">
+<arrowlink DESTINATION="ID_364228317" ENDARROW="Default" ENDINCLINATION="118;0;" ID="Arrow_ID_1842795528" STARTARROW="None" STARTINCLINATION="118;0;"/>
+</node>
+<node CREATED="1358032341191" ID="ID_364228317" LINK="http://news.mynavi.jp/column/ide/060/index.html" MODIFIED="1358032967939" TEXT="Tutorial: VisualSwing"/>
+<node CREATED="1358032968406" ID="ID_614516686" LINK="https://developers.google.com/java-dev-tools/download-wbpro" MODIFIED="1358032994372" TEXT="WindowBuilder Pro">
+<node CREATED="1358033671784" ID="ID_343475767" LINK="https://developers.google.com/java-dev-tools/wbpro/quick_start" MODIFIED="1358033676008" TEXT="Tutorial"/>
+</node>
+</node>
+</node>
+<node CREATED="1358042165081" ID="ID_108331753" MODIFIED="1358045446056" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1358042166729" ID="ID_1652218306" LINK="http://www.tohoho-web.com/java/layout.htm" MODIFIED="1358042228283" TEXT="Use: GridLayout">
+<node CREATED="1358042236905" ID="ID_1666391879" MODIFIED="1358042241192" TEXT="&quot;&#x30d1;&#x30cd;&#x30eb;&#x306b;&#x3088;&#x308b;&#x30ec;&#x30a4;&#x30a2;&#x30a6;&#x30c8;&#xff08;Panel&#xff09;&quot;"/>
+</node>
+</node>
+<node CREATED="1358042172809" ID="ID_950000983" MODIFIED="1358042175384" TEXT="03">
+<node CREATED="1358042175961" ID="ID_936233490" LINK="http://www.tohoho-web.com/java/layout.htm" MODIFIED="1358042219738" TEXT="Use: GrigBagLayout">
+<node CREATED="1358042206617" ID="ID_1477923384" MODIFIED="1358042208552" TEXT="&quot;&#x30b0;&#x30ea;&#x30c3;&#x30c9;&#x30d0;&#x30c3;&#x30b0;&#x30ec;&#x30a4;&#x30a2;&#x30a6;&#x30c8;&#xff08;GridBagLayout&#xff09;&quot;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1357703619028" ID="ID_965826105" MODIFIED="1358045503032" TEXT="D-3">
+<node CREATED="1358045482090" ID="ID_826494381" MODIFIED="1358045493978" TEXT="TimeCalculator">
+<node CREATED="1358045496042" ID="ID_1047532408" MODIFIED="1358045497929" TEXT="1.x"/>
+</node>
+<node CREATED="1358045560586" ID="ID_1595528188" MODIFIED="1358045572154" TEXT="B2_tc_1.x">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1358045628907" ID="ID_888101495" MODIFIED="1358045630745" TEXT="v-1.0">
+<node CREATED="1358046503034" ID="ID_94778391" MODIFIED="1358046526246" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1358046505130" ID="ID_1441456241" MODIFIED="1358046507817" TEXT="Build GUI"/>
+</node>
+</node>
+<node CREATED="1358046547130" ID="ID_634059422" MODIFIED="1358126491371" TEXT="v-1.1">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1358046509562" ID="ID_1072085606" MODIFIED="1358122526435" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1358046511834" ID="ID_259832911" MODIFIED="1358046513734" TEXT="Set up">
+<node CREATED="1358046514346" ID="ID_1957721662" MODIFIED="1358046520698" TEXT="Models for the lists"/>
+<node CREATED="1358050362715" ID="ID_1065256351" MODIFIED="1358050364602" TEXT="Steps">
+<node CREATED="1358050618043" ID="ID_749100362" MODIFIED="1358050619715" TEXT="init_ui_2_pane()">
+<node CREATED="1358050627067" ID="ID_1001795081" MODIFIED="1358050634155" TEXT="this &#x306b;&#x3001;contentPane &#x3092;&#x3064;&#x3051;&#x308b;"/>
+</node>
+<node CREATED="1358050544171" ID="ID_296280562" MODIFIED="1358050545828" TEXT="init_ui_4_components_1_panels()">
+<node CREATED="1358050557515" ID="ID_1906152098" MODIFIED="1358050644604" TEXT="contentPane &#x306b;&#x3001;buttonPanel &#x3092;&#x3064;&#x3051;&#x308b;"/>
+<node CREATED="1358050557515" ID="ID_1966603249" MODIFIED="1358050648251" TEXT="contentPane &#x306b;&#x3001;viewPanel &#x3092;&#x3064;&#x3051;&#x308b;"/>
+</node>
+<node CREATED="1358050380960" ID="ID_1821076413" MODIFIED="1358050380960" TEXT="init_ui_4_components_3_scroll_panes()">
+<node CREATED="1358050399611" ID="ID_1864443284" MODIFIED="1358050411659" TEXT="viewPanel &#x306b;&#x3001;timeListPane &#x3092;&#x3064;&#x3051;&#x308b;"/>
+<node CREATED="1358050399611" ID="ID_1793391632" MODIFIED="1358050428058" TEXT="viewPanel &#x306b;&#x3001;timeDiffPane &#x3092;&#x3064;&#x3051;&#x308b;"/>
+</node>
+<node CREATED="1358050444223" ID="ID_1196341127" MODIFIED="1358050444223" TEXT="init_ui_4_components_4_lists()">
+<node CREATED="1358050455739" ID="ID_1204051133" MODIFIED="1358050469223" TEXT="timeListPane &#x306b;&#x3001;timeList &#x3092;&#x3064;&#x3051;&#x308b;"/>
+<node CREATED="1358050455739" ID="ID_84071963" MODIFIED="1358050509148" TEXT="timeDiffPane &#x306b;&#x3001;timeDiffList &#x3092;&#x3064;&#x3051;&#x308b;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1358069158231" ID="ID_1117865524" MODIFIED="1358126489021" TEXT="02">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1358069169880" ID="ID_271594012" MODIFIED="1358072391203" TEXT="timeListPane &#x306b;&#x5165;&#x308c;&#x308b;&#x3001;TimeItem &#x30af;&#x30e9;&#x30b9;&#x3092;&#x4f5c;&#x308b;&#xff08;extends JPanel&#xff09;">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1358072348649" ID="ID_863834892" MODIFIED="1358126484492" TEXT="TC.java &#x306e;&#x4e2d;&#x3067;&#x3001;timeListPane &#x306b;&#x3001;TimeItem &#x30af;&#x30e9;&#x30b9;&#x306e;&#x30a4;&#x30f3;&#x30b9;&#x30bf;&#x30f3;&#x30b9;&#x3092;&#x3001;&#x5165;&#x308c;&#x308b;">
+<icon BUILTIN="stop-sign"/>
+<node COLOR="#ff0033" CREATED="1358126413544" ID="ID_846116030" MODIFIED="1358126459996" TEXT="PROBLEM">
+<node CREATED="1358126443815" ID="ID_113305539" MODIFIED="1358126452535" TEXT="&#x30af;&#x30e9;&#x30b9;&#x5b9a;&#x7fa9;&#x306e;&#x6587;&#x5b57;&#x5217;&#x304c;&#x51fa;&#x308b;">
+<node CREATED="1358126417143" ID="ID_1871096145" MODIFIED="1358126440374" TEXT="p3.TimeItem[,0,0,0x0,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1358126492503" ID="ID_1013902470" MODIFIED="1358126495030" TEXT="v-1.2">
+<node CREATED="1358126509847" ID="ID_1676907574" MODIFIED="1358126519015" TEXT="DefaultListCellRenderer &#x3092;&#x4f7f;&#x3063;&#x3066;&#x3001;&#x30ea;&#x30b9;&#x30c8;&#x3092;&#x8868;&#x793a;&#x3059;&#x308b;"/>
+<node CREATED="1358127748376" ID="ID_1077532948" MODIFIED="1358127750054" TEXT="01">
+<node CREATED="1358126632887" ID="ID_712129258" LINK="http://www.java2s.com/Tutorial/Java/0240__Swing/CheckBoxList.htm" MODIFIED="1358126638990" TEXT="REF">
+<node COLOR="#ff0033" CREATED="1358127755047" ID="ID_144777724" MODIFIED="1358127758807" TEXT="PROBLEM">
+<node CREATED="1358127759432" ID="ID_1688197807" MODIFIED="1358127782375" TEXT="Can&apos;t figure out: How to add new elements"/>
+</node>
+</node>
+</node>
+<node CREATED="1358127784776" ID="ID_1249566067" MODIFIED="1358130375415" TEXT="02">
+<node CREATED="1358127788231" ID="ID_836313070" MODIFIED="1358127808342" TEXT="Try this site&apos;s tutorial code">
+<node CREATED="1358127794151" ID="ID_1975398203" LINK="http://www.javadrive.jp/tutorial/jlist/index15.html" MODIFIED="1358127800725" TEXT="REF"/>
+<node CREATED="1358128108039" ID="ID_1873123500" MODIFIED="1358128109670" TEXT="E1_test_cell_renderer.java"/>
+<node COLOR="#ff0033" CREATED="1358130297945" ID="ID_45316546" MODIFIED="1358130359360" TEXT="PROBLEM">
+<node CREATED="1358130301352" ID="ID_1384338016" MODIFIED="1358130332570" TEXT="Can&apos;t figure out: How to add new elements"/>
+<node CREATED="1358130332873" ID="ID_556735787" MODIFIED="1358130343274" TEXT="?: How to add mouse listener"/>
+<node CREATED="1358130343864" ID="ID_430510337" MODIFIED="1358130352810" TEXT="?: How to check/uncheck the check box"/>
+</node>
+</node>
+<node CREATED="1358128122072" ID="ID_350876146" MODIFIED="1358128125174" TEXT="02-02">
+<node CREATED="1358128125767" ID="ID_993629389" MODIFIED="1358128131897" TEXT="Add mouse listener">
+<node CREATED="1358128147512" ID="ID_1796524174" MODIFIED="1358128150135" TEXT="REF: src\p3\CheckBoxList.java"/>
+</node>
+</node>
+</node>
+<node CREATED="1358130376025" ID="ID_489490196" MODIFIED="1358130377402" TEXT="03">
+<node CREATED="1358130378856" ID="ID_1967116832" MODIFIED="1358130384586" TEXT="Try this tutorial">
+<node CREATED="1358130393816" ID="ID_1432928548" LINK="http://www.devx.com/tips/Tip/5342" MODIFIED="1358130396879" TEXT="REF"/>
+<node CREATED="1358130406649" ID="ID_1794263219" LINK="http://stackoverflow.com/questions/19766/how-do-i-make-a-list-with-checkboxes-in-java-swing" MODIFIED="1358130408912" TEXT="REF"/>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" HGAP="34" ID="ID_626052967" MODIFIED="1343379046046" TEXT="NNN(n@)" VSHIFT="19"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1357703615668" ID="ID_1414073974" MODIFIED="1357703616848" POSITION="right" TEXT="TODO">
+<node CREATED="1357703642612" FOLDED="true" ID="ID_1152978343" MODIFIED="1357703651964" TEXT="COPIED">
+<node CREATED="1357703619028" ID="ID_259541608" MODIFIED="1357703631075" TEXT="D-1">
+<node CREATED="1357703623444" ID="ID_1079587562" LINK="http://zetcode.com/tutorials/javaswingtutorial/firstprograms/" MODIFIED="1357703637141" TEXT="Swing tutorial"/>
+</node>
+<node CREATED="1357703619028" ID="ID_1013046896" MODIFIED="1357830319303" TEXT="D-2">
+<node CREATED="1357830181866" ID="ID_294800300" MODIFIED="1357830254461" TEXT="&quot;Get time&quot; &#x7528;&#x306e;&#x30ea;&#x30b9;&#x30c8;&#x306b;&#x3001;&#x5404;&#x30a2;&#x30a4;&#x30c6;&#x30e0;&#x306b;&#x3001;&#x30c1;&#x30a7;&#x30c3;&#x30af;&#x30dc;&#x30c3;&#x30af;&#x30b9;&#x3092;&#x3064;&#x3051;&#x308b;&#xff1b;&#x30c1;&#x30a7;&#x30c3;&#x30af;&#x3055;&#x308c;&#x3066;&#x3044;&#x308b;&#x3082;&#x306e;&#x304c;&#xff12;&#x3064;&#x3042;&#x308c;&#x3070;&#x3001;&quot;Calculate&quot; &#x30dc;&#x30bf;&#x30f3;&#x306e;&#x6642;&#x3001;&#x305d;&#x308c;&#x3089;2&#x3064;&#x306e;&#x6642;&#x523b;&#x3092;&#x4f7f;&#x3063;&#x3066;&#x3001;&#x6642;&#x9593;&#x5dee;&#x3092;&#x7b97;&#x51fa;&#x3059;&#x308b;"/>
+</node>
+</node>
+<node CREATED="1357703619028" ID="ID_139171930" MODIFIED="1357703620002" TEXT="D-">
+<node CREATED="1357792959036" ID="ID_1745331753" MODIFIED="1357792979916" TEXT="Toolbar menu">
+<node CREATED="1357792980459" ID="ID_1340847140" MODIFIED="1357792983276" TEXT="&quot;Option&quot;">
+<node CREATED="1357792983819" ID="ID_3675851" MODIFIED="1357792988780" TEXT="&quot;Change font size&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1357703619028" ID="ID_285315908" MODIFIED="1358045503032" TEXT="D-3">
+<node CREATED="1358045482090" ID="ID_1340028882" MODIFIED="1358045493978" TEXT="TimeCalculator">
+<node CREATED="1358045496042" ID="ID_1831999798" MODIFIED="1358045497929" TEXT="1.x"/>
+</node>
+</node>
+<node CREATED="1357703619028" ID="ID_278263240" MODIFIED="1357703620002" TEXT="D-"/>
+<node CREATED="1357703619028" ID="ID_989841828" MODIFIED="1357703620002" TEXT="D-"/>
+<node CREATED="1357703619028" ID="ID_751225095" MODIFIED="1357703620002" TEXT="D-"/>
+</node>
+</node>
+</map>
