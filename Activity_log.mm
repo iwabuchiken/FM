@@ -4,7 +4,7 @@
 <attribute_name NAME="Book" VISIBLE="true"/>
 <attribute_name NAME="Location" VISIBLE="true"/>
 </attribute_registry>
-<node CREATED="1341220937390" ID="ID_476629655" MODIFIED="1358843965590" TEXT="Activity_log">
+<node CREATED="1341220937390" ID="ID_476629655" MODIFIED="1361528375086" TEXT="Activity_log">
 <attribute_layout NAME_WIDTH="113" VALUE_WIDTH="168"/>
 <attribute NAME="Location" VALUE="C:\WORKS"/>
 <node CREATED="1341220958656" ID="ID_714850288" MODIFIED="1341265366500" POSITION="right" TEXT="Log">
