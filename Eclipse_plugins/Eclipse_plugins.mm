@@ -1,7 +1,10 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1357480234095" ID="ID_306195706" MODIFIED="1357480236876" TEXT="Eclipse_plugins">
-<node CREATED="1357480254094" ID="ID_127477568" LINK="../Activity_log.mm" MODIFIED="1357480261883" POSITION="left" TEXT="UP"/>
+<node CREATED="1366026782928" ID="ID_1716812279" MODIFIED="1366026785235" POSITION="left" TEXT="Link">
+<node CREATED="1357480254094" ID="ID_127477568" LINK="../Activity_log.mm" MODIFIED="1357480261883" TEXT="UP"/>
+<node CREATED="1366026787076" ID="ID_1034949860" LINK="../Diary/Diary.mm" MODIFIED="1366026796541" TEXT="Diary"/>
+</node>
 <node CREATED="1357480286126" ID="ID_652937793" MODIFIED="1357480288780" POSITION="left" TEXT="REF">
 <node CREATED="1357480290622" ID="ID_1588107618" LINK="http://www.vogella.com/articles/EclipsePlugIn/article.html" MODIFIED="1357480294180" TEXT="1"/>
 </node>
