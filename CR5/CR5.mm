@@ -60,7 +60,7 @@
 </node>
 </node>
 <node CREATED="1349429428383" ID="ID_1709397097" MODIFIED="1358576763554" POSITION="right" TEXT="LOG">
-<node CREATED="1344477668703" FOLDED="true" ID="ID_1139129845" MODIFIED="1367395826165" TEXT="DONE">
+<node CREATED="1344477668703" FOLDED="true" ID="ID_1139129845" MODIFIED="1367482047860" TEXT="DONE">
 <node CREATED="1363510050869" FOLDED="true" ID="ID_1789880615" MODIFIED="1364530236434" TEXT="D-1">
 <icon BUILTIN="idea"/>
 <icon BUILTIN="up"/>
@@ -1108,7 +1108,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1363510050869" ID="ID_193620192" MODIFIED="1367115134804" TEXT="D-8">
+<node CREATED="1363510050869" FOLDED="true" ID="ID_193620192" MODIFIED="1367482046702" TEXT="D-8">
 <icon BUILTIN="idea"/>
 <icon BUILTIN="gohome"/>
 <icon BUILTIN="up"/>
@@ -1487,7 +1487,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1366524853955" ID="ID_1676617840" MODIFIED="1367115139069" TEXT="v-5.x">
+<node CREATED="1366524853955" FOLDED="true" ID="ID_1676617840" MODIFIED="1367482044776" TEXT="v-5.x">
 <icon BUILTIN="idea"/>
 <node CREATED="1366518746111" ID="ID_1041190814" MODIFIED="1367115139070" TEXT="Get data">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
@@ -2875,7 +2875,7 @@
 </node>
 <node CREATED="1367113239135" ID="ID_148318332" MODIFIED="1367113255991" TEXT="TTS =&gt; Set null in ActvRead.onDestroy"/>
 </node>
-<node CREATED="1363510050869" ID="ID_1839195003" MODIFIED="1367116163418" TEXT="D-21">
+<node CREATED="1363510050869" FOLDED="true" ID="ID_1839195003" MODIFIED="1367482099573" TEXT="D-21">
 <icon BUILTIN="idea"/>
 <icon BUILTIN="gohome"/>
 <icon BUILTIN="up"/>
@@ -2896,10 +2896,6 @@
 <icon BUILTIN="folder"/>
 <node CREATED="1363749230884" ID="ID_289404612" MODIFIED="1363749231960" TEXT="01">
 <node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_14537475" MODIFIED="1364024186993" TEXT="CODES">
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1371941432" MODIFIED="1367114943955" TEXT="N@">
-<cloud/>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
 <node CREATED="1366511192027" ID="ID_555779824" MODIFIED="1366511194086" TEXT="strings.xml"/>
 <node CREATED="1366510891290" ID="ID_180139151" MODIFIED="1367115181989" TEXT="Methods_dlg">
 <node CREATED="1366510897241" ID="ID_611101305" MODIFIED="1366510897241" TEXT="dlg_GetDataFromRemote(this)"/>
@@ -2915,11 +2911,111 @@
 </node>
 </node>
 </node>
+<node CREATED="1363510050869" ID="ID_662903106" MODIFIED="1367477058680" TEXT="D-22">
+<node CREATED="1367476997233" ID="ID_1693339819" MODIFIED="1367477024296" TEXT="Filter">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1367477032467" ID="ID_1841904392" MODIFIED="1367477043170" TEXT="B18_filter_list_ActvMain">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1367477054258" ID="ID_1295819425" MODIFIED="1367482007382" TEXT="v-1.0">
+<icon BUILTIN="button_ok"/>
+<icon BUILTIN="launch"/>
+<node CREATED="1363749230884" ID="ID_67966399" MODIFIED="1363749231960" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_1890041749" MODIFIED="1364024186993" TEXT="CODES">
+<node CREATED="1367477314073" ID="ID_1171142248" MODIFIED="1367477316704" TEXT="ActvMain">
+<node CREATED="1367479703053" ID="ID_563129576" MODIFIED="1367479703053" TEXT="onStart()"/>
+</node>
+<node CREATED="1367479712048" ID="ID_1661997031" MODIFIED="1367479713859" TEXT="Methods">
+<node CREATED="1367479714348" ID="ID_1444258633" MODIFIED="1367479714348" TEXT="getPref_String(Activity actv, String prefName, String prefKey)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1367480430565" ID="ID_1539422791" MODIFIED="1367503707116" TEXT="PROBLEM">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <table style="border-top-width: 0; width: 80%; border-top-style: solid; border-bottom-style: solid; border-left-style: solid; border-bottom-width: 0; border-right-style: solid; border-left-width: 0; border-right-width: 0" border="0">
+      <tr>
+        <td style="border-top-width: 1; width: 33%; border-top-style: solid; border-bottom-style: solid; border-left-style: solid; border-bottom-width: 1; border-right-style: solid; border-left-width: 1; border-right-width: 1" valign="top">
+          <p style="margin-top: 1; margin-right: 1; margin-left: 1; margin-bottom: 1">
+            
+          </p>
+        </td>
+        <td style="border-top-width: 1; width: 33%; border-top-style: solid; border-bottom-style: solid; border-left-style: solid; border-bottom-width: 1; border-right-style: solid; border-left-width: 1; border-right-width: 1" valign="top">
+          <p style="margin-top: 1; margin-right: 1; margin-left: 1; margin-bottom: 1">
+            
+          </p>
+        </td>
+        <td style="border-top-width: 1; width: 33%; border-top-style: solid; border-bottom-style: solid; border-left-style: solid; border-bottom-width: 1; border-right-style: solid; border-left-width: 1; border-right-width: 1" valign="top">
+          <p style="margin-top: 1; margin-right: 1; margin-left: 1; margin-bottom: 1">
+            
+          </p>
+        </td>
+      </tr>
+    </table>
+    <p>
+      aaaaa
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1367480433680" ID="ID_1406464826" MODIFIED="1367480442942" TEXT="Choose &quot;French&quot;"/>
+<node CREATED="1367480445324" ID="ID_1613125999" MODIFIED="1367480447099" TEXT="=&gt;">
+<node CREATED="1367480447100" ID="ID_469481813" MODIFIED="1367480456737" TEXT="The 1st text was read"/>
+</node>
+<node CREATED="1367480458150" ID="ID_1755335379" MODIFIED="1367480472468" TEXT="=&gt; Changed engine to German"/>
+<node CREATED="1367480473223" ID="ID_548780255" MODIFIED="1367480481749" TEXT="=&gt; Force-stopped the app"/>
+<node CREATED="1367480482587" ID="ID_878212966" MODIFIED="1367480498358" TEXT="=&gt; Chose to &quot;German&quot;"/>
+<node CREATED="1367480498628" ID="ID_1275681415" MODIFIED="1367480506391" TEXT="=&gt; Click on the 1st text"/>
+<node CREATED="1367480507100" ID="ID_1313910353" MODIFIED="1367480512890" TEXT="=&gt; Click on the 1st sentence">
+<node CREATED="1367480514668" ID="ID_153265665" MODIFIED="1367480527173" TEXT="=&gt; Start reading the 1st French sentence, again"/>
+</node>
+<node CREATED="1367481502896" ID="ID_1155724578" MODIFIED="1367481506683" TEXT="WORKAROUND">
+<node CREATED="1367481509127" ID="ID_1765523266" MODIFIED="1367481544279" TEXT="&#x300c;&#x30b5;&#x30f3;&#x30d7;&#x30eb;&#x3092;&#x518d;&#x751f;&#x300d; =&gt; Click once, let the machine voice out">
+<node CREATED="1367481544290" ID="ID_152689714" MODIFIED="1367481568144" TEXT="=&gt; Then, the speech gets to the language set in the settings"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1367481600632" ID="ID_1856984464" MODIFIED="1367481605250" TEXT="TEST">
+<node CREATED="1367481605673" ID="ID_1949671305" MODIFIED="1367481957313" TEXT="French">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1367481608252" ID="ID_969285379" MODIFIED="1367481957313" TEXT="German">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1367481610191" ID="ID_1843877786" MODIFIED="1367481959642" TEXT="Chinese">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1367481687984" ID="ID_697249348" MODIFIED="1367481690714" TEXT="SEEMS">
+<node CREATED="1367481691042" ID="ID_579699672" MODIFIED="1367481705698" TEXT="Change from Pico to Ekho">
+<node CREATED="1367481705699" ID="ID_65135587" MODIFIED="1367481740151" TEXT="=&gt; Then you need to stop the app, i.e. Click the back key when you are in ActvMain"/>
+<node CREATED="1367481912330" ID="ID_1499413576" MODIFIED="1367481951286" TEXT="=&gt; NO. You needn&apos;t. Just change the engine, play the sample, then the speech changes its language."/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 <node CREATED="1363749220464" ID="ID_713570344" MODIFIED="1366950062919" TEXT="TEMPL">
 <node CREATED="1363749230884" ID="ID_1962550230" MODIFIED="1363749231960" TEXT="01">
 <node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_498997248" MODIFIED="1364024186993" TEXT="CODES"/>
 </node>
 <node BACKGROUND_COLOR="#3333ff" COLOR="#ffffff" CREATED="1363921033092" ID="ID_1910326770" MODIFIED="1364104390246" TEXT="BOOKMARK"/>
+<node CREATED="1367481600632" ID="ID_1158512760" MODIFIED="1367481605250" TEXT="TEST"/>
+</node>
+<node CREATED="1363510050869" ID="ID_1513498856" MODIFIED="1367482031232" TEXT="D-23">
+<node CREATED="1366510357768" ID="ID_452416407" LINK="../CR6(R)/CR6(R).mm" MODIFIED="1366510372596" TEXT="CR6(R)">
+<node CREATED="1367482053413" ID="ID_331887034" MODIFIED="1367482055364" TEXT="FIX">
+<node CREATED="1367482055366" ID="ID_466286358" MODIFIED="1367482092315" TEXT="When building a word list, filter the target words by the lang id, as well as the text id"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1371941432" MODIFIED="1367477065572" TEXT="N@">
+<cloud/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 </node>
 <node CREATED="1349429429679" ID="ID_1970901097" MODIFIED="1349429431053" POSITION="right" TEXT="TODO">
@@ -3059,6 +3155,9 @@
 </node>
 </node>
 </node>
+<node CREATED="1363510050869" ID="ID_565302227" MODIFIED="1367477014758" TEXT="D-22">
+<node CREATED="1367476997233" ID="ID_1988304076" MODIFIED="1367476998764" TEXT="Filter"/>
+</node>
 </node>
 <node CREATED="1342048146168" FOLDED="true" ID="ID_1637122472" MODIFIED="1366875023733" TEXT="ADMIN">
 <node CREATED="1342048148778" HGAP="39" ID="ID_917322544" MODIFIED="1344995498046" TEXT="COMMIT" VSHIFT="-25">
@@ -3114,8 +3213,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1363510050869" ID="ID_565302227" MODIFIED="1363510052445" TEXT="D-"/>
-<node CREATED="1363510050869" ID="ID_768835889" MODIFIED="1363510052445" TEXT="D-"/>
+<node CREATED="1363510050869" ID="ID_768835889" MODIFIED="1367482031232" TEXT="D-23">
+<node CREATED="1366510357768" ID="ID_1686376249" LINK="../CR6(R)/CR6(R).mm" MODIFIED="1366510372596" TEXT="CR6(R)">
+<node CREATED="1367482053413" ID="ID_1429916285" MODIFIED="1367482055364" TEXT="FIX">
+<node CREATED="1367482055366" ID="ID_380831635" MODIFIED="1367482092315" TEXT="When building a word list, filter the target words by the lang id, as well as the text id"/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1357448132980" ID="ID_1852918099" MODIFIED="1357448135351" POSITION="right" TEXT="VARS">
 <node CREATED="1357448136598" ID="ID_1625759619" MODIFIED="1357448139064" TEXT="Preference"/>
