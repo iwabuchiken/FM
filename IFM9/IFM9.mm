@@ -2744,7 +2744,17 @@
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1344470715328" ID="ID_1753784824" MODIFIED="1344470716875" TEXT="D-"/>
+<node CREATED="1344470715328" ID="ID_1753784824" MODIFIED="1344470716875" TEXT="D-">
+<node CREATED="1369115565184" ID="ID_904949525" MODIFIED="1369115572789" TEXT="Add">
+<node CREATED="1369115572790" ID="ID_1228714522" MODIFIED="1369115580312" TEXT="Progression indicator">
+<node CREATED="1369115580314" ID="ID_356467733" MODIFIED="1369115588837" TEXT="=&gt; When uploading image files"/>
+<node CREATED="1369115590276" ID="ID_695988701" MODIFIED="1369115592026" TEXT="REF">
+<node CREATED="1369115597349" ID="ID_1881826988" LINK="http://stackoverflow.com/questions/5875837/monitoring-progress-using-apache-commons-ftpclient" MODIFIED="1369115607557" TEXT="&quot;answered May 3 &apos;11 at 21:53&quot;"/>
+<node CREATED="1369115617861" ID="ID_986542789" LINK="https://www.google.co.jp/search?q=android+ftpclient+get+progress&amp;aq=f&amp;oq=android+ftpclient+get+progress&amp;aqs=chrome.0.57j64.19476j0&amp;sourceid=chrome&amp;ie=UTF-8" MODIFIED="1369115646432" TEXT="Search: &quot;android ftpclient get progress&quot;"/>
+</node>
+</node>
+</node>
+</node>
 <node CREATED="1344470715328" ID="ID_248567979" MODIFIED="1344470716875" TEXT="D-"/>
 </node>
 </node>
