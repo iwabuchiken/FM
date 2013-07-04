@@ -1,0 +1,32 @@
+<ul class="ymuiList pad4 yjMt">
+<li class="ymuiArrow1">
+<a href="/hl?a=20130513-00000019-jij-soci">連れ去り未遂容疑で元警官逮捕＝捜査装い女子高生に声掛け―警視庁</a>
+<span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=jij">時事通信</a>）9時26分</span>
+</li>
+<li class="ymuiArrow1">
+<a href="/hl?a=20130513-00000169-yom-pol">ネット選挙、ビジネスチャンスも解禁…参院選</a>
+<span class="ymuiPhoto" title="写真">写真</span>
+<span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=yom">読売新聞</a>）9時3分</span>
+</li>
+<li class="ymuiArrow1">
+<a href="/hl?a=20130513-00000015-jij-soci">原爆ドーム、きょう耐震調査を開始＝壁15カ所をくりぬき―補強の必要性判断・広島</a>
+<span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=jij">時事通信</a>）8時53分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000015-jij-soci" class="relNews">関連記事1件</a>
+</span>
+</li>
+<li class="ymuiArrow1">
+<a href="/hl?a=20130513-00000153-yom-peo">五十嵐武士氏（東京大学名誉教授）が死去</a>
+<span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=yom">読売新聞</a>）8時52分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000153-yom-peo" class="relNews">関連記事7件</a>
+</span>
+</li>
+<li class="ymuiArrow1">
+<a href="/hl?a=20130513-00000511-san-soci">人材育成のため？　よく分からない基準…「東大の推薦入試」に賛否</a>
+<span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=san">産経新聞</a>）8時45分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000511-san-soci" class="relNews">関連記事1件</a>
+</span>
+</li>
+</ul>
+<ul class="ymuiList pad4 yjMt">
+<li class="ymuiArrow1">
+<a href="/hl?a=20130513-00000007-mai-soci">＜海の花束＞周防大島沖の海中でニホンアワサンゴが踊る</a>
+<span class="ymuiPhoto" title="写真">写真</span>
+<span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=mai">毎日新聞</a>）8時10分</span>
+</li><li class="ymuiArrow1"><a href="/hl?a=20130513-00000006-mai-soci">＜鈴木屋敷＞全国の「鈴木さん」和歌山に集まれ！</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=mai">毎日新聞</a>）8時8分</span></li><li class="ymuiArrow1"><a href="/hl?a=20130513-00000012-jij-pol">首相動静（5月13日）</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=jij">時事通信</a>）8時4分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000012-jij-pol" class="relNews">関連記事6件</a></span></li><li class="ymuiArrow1"><a href="/hl?a=20130512-00001073-yom-soci">認知症７３１施設で防火違反…誘導灯・排煙など</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=yom">読売新聞</a>）8時3分</span></li><li class="ymuiArrow1"><a href="/hl?a=20130513-00000077-san-pol">「新報道２００１」抄録　フジテレビ系、１２日放送</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=san">産経新聞</a>）7時55分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000077-san-pol" class="relNews">関連記事7件</a></span></li></ul><ul class="ymuiList pad4 yjMt"><li class="ymuiArrow1"><a href="/hl?a=20130513-00000095-san-soci">ＭＲＩ被害者説明会に１５００人　月内にも刑事告訴</a><span class="ymuiPhoto" title="写真">写真</span><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=san">産経新聞</a>）7時55分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000095-san-soci" class="relNews">関連記事20件</a></span></li><li class="ymuiArrow1"><a href="/hl?a=20130513-00000074-san-pol">自民、参院選モード突入　「ダブル選」で野党揺さぶり</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=san">産経新聞</a>）7時55分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000074-san-pol" class="relNews">関連記事5件</a></span></li><li class="ymuiArrow1"><a href="/hl?a=20130513-00000071-san-pol">原発保安検査見直し　年度内　規制庁「抜き取り型」も検討</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=san">産経新聞</a>）7時55分 <a href="http://rd.yahoo.co.jp/media/news/related_article/from_list/*http://headlines.yahoo.co.jp/hl?clu=20130513-00000071-san-pol" class="relNews">関連記事9件</a></span></li><li class="ymuiArrow1"><a href="/hl?a=20130513-00000096-san-soci">ＭＲＩ被害者説明会　「資産ゼロに」「国も悪い」　早期の刑事責任追及期待</a><span class="ymuiDate yjS">（<a href="http://headlines.yahoo.co.jp/list/?m=san">産経新聞</a>）7時55分
