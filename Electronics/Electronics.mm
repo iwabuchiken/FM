@@ -532,7 +532,9 @@
 </node>
 </node>
 <node CREATED="1373183211344" ID="ID_917496559" MODIFIED="1373183212472" TEXT="3">
-<node CREATED="1373183212473" ID="ID_1616200977" MODIFIED="1373183263147" TEXT="&#x300c;&#x30a8;&#x30df;&#x30c3;&#x30bf;&#x30d5;&#x30a9;&#x30ed;&#x30a2;&#x300d;&#x306e;&#x73fe;&#x8c61;&#x3092;&#x3001;&#x78ba;&#x304b;&#x3081;&#x3088;&#x3046;&#xff08;&#x96fb;&#x5727;&#x3068;&#x96fb;&#x6d41;&#x3092;&#x6e2c;&#x3063;&#x3066;&#x307f;&#x3088;&#x3046;&#x3000;=&gt; Vb, Ve&#xff09;"/>
+<node CREATED="1373183212473" ID="ID_1616200977" MODIFIED="1373183263147" TEXT="&#x300c;&#x30a8;&#x30df;&#x30c3;&#x30bf;&#x30d5;&#x30a9;&#x30ed;&#x30a2;&#x300d;&#x306e;&#x73fe;&#x8c61;&#x3092;&#x3001;&#x78ba;&#x304b;&#x3081;&#x3088;&#x3046;&#xff08;&#x96fb;&#x5727;&#x3068;&#x96fb;&#x6d41;&#x3092;&#x6e2c;&#x3063;&#x3066;&#x307f;&#x3088;&#x3046;&#x3000;=&gt; Vb, Ve&#xff09;">
+<node CREATED="1373333595526" ID="ID_1406314213" LINK="http://www9.plala.or.jp/fsson/NewHP_elc/elc/elc_3_7Tr5emfolw.html" MODIFIED="1373333599265" TEXT="REF"/>
+</node>
 </node>
 </node>
 <node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_329140597" MODIFIED="1372721543128" TEXT="N@">
