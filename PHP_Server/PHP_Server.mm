@@ -177,17 +177,14 @@
 </node>
 <node CREATED="1373691621936" ID="ID_366279615" MODIFIED="1377393939878" TEXT="D-7">
 <node CREATED="1377393915957" ID="ID_474775258" MODIFIED="1377393926875" TEXT="Generate password"/>
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1780914664" MODIFIED="1377354837261" TEXT="N@">
-<cloud/>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1377393965983" ID="ID_1363572737" MODIFIED="1377393968644" TEXT="v-1.0">
+<node CREATED="1377393965983" ID="ID_1363572737" MODIFIED="1377679316485" TEXT="v-1.0">
 <node CREATED="1377395757675" ID="ID_725918830" MODIFIED="1377398587485" TEXT="1">
-<node CREATED="1377395759243" ID="ID_2335233" MODIFIED="1377395760924" TEXT="Smarty">
+<node CREATED="1377395759243" ID="ID_2335233" MODIFIED="1377671006505" TEXT="Smarty">
 <node CREATED="1377395761276" ID="ID_1159477596" LINK="http://www.smarty.net/download" MODIFIED="1377395802522" TEXT="Download"/>
+<node CREATED="1377671006822" ID="ID_1403502713" LINK="http://d.hatena.ne.jp/language_and_engineering/20130107/SmartyPHPTemplateEngineIntroduction" MODIFIED="1377671009222" TEXT="Tut"/>
 </node>
 </node>
-<node CREATED="1377398589313" ID="ID_20272613" MODIFIED="1377398591906" TEXT="2">
+<node CREATED="1377398589313" ID="ID_20272613" MODIFIED="1377677310490" TEXT="2">
 <node CREATED="1377398591908" ID="ID_1424685018" MODIFIED="1377398593333" TEXT="Setup">
 <node CREATED="1377398593747" ID="ID_1082652003" MODIFIED="1377398750514" TEXT="1">
 <icon BUILTIN="button_ok"/>
@@ -206,8 +203,7 @@
       Smarty needs template files with the extension &quot;tpl&quot;; Eclipse PHP perspective doesn't colorize tpl files; So, first write a tpl file with the &quot;html&quot; extension, then later change the extension, or rather, create a copy with &quot;tpl&quot; extension.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -217,9 +213,47 @@
 </node>
 </node>
 </node>
+<node CREATED="1377677311892" ID="ID_923274834" MODIFIED="1377678931162" TEXT="SEGWAY">
+<icon BUILTIN="idea"/>
+<node COLOR="#ff3333" CREATED="1377677386569" ID="ID_951404746" MODIFIED="1377677464998" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1377677347759" ID="ID_1794975457" MODIFIED="1377677385182" TEXT="convert.php &#x306e;&#x4e2d;&#x3067;&#x3001;&#x65e2;&#x306b;&#x30c6;&#x30f3;&#x30d7;&#x30ec;&#x30fc;&#x30c8;&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x306f;&#x4f5c;&#x3089;&#x308c;&#x305f;&#x306e;&#x306b;&#x3001;&quot;Back to ...&quot; &#x3092;&#x30af;&#x30ea;&#x30c3;&#x30af;&#x3000;=&gt;&#x3000;&#x307e;&#x305f;&#x3001;&#x3053;&#x306e;&#x30da;&#x30fc;&#x30b8;&#x306b;&#x3001;&#x623b;&#x3063;&#x3066;&#x304f;&#x308b;"/>
+<node CREATED="1377677392085" ID="ID_190934028" MODIFIED="1377677393956" TEXT="SOLVED">
+<node CREATED="1377677394401" ID="ID_1575780681" MODIFIED="1377677424401" TEXT="&quot;sample.php&quot; &#x306e;&#x5148;&#x982d;&#x306b;&#x3001;&#x30d8;&#x30c3;&#x30c0;&#x30fc;&#x30b3;&#x30de;&#x30f3;&#x30c9;&#x3067;&#x3001;&#x30ad;&#x30e3;&#x30c3;&#x30b7;&#x30e5;&#x3057;&#x306a;&#x3044;&#x65e8;&#x3001;&#x8a18;&#x8ff0;&#x3059;&#x308b;"/>
+<node CREATED="1377677444740" ID="ID_1400505340" MODIFIED="1377677448978" TEXT="=&gt;&#x3000;&quot;header(&quot;Cache-Control: no-cache, must-revalidate&quot;)&quot;"/>
 </node>
-<node CREATED="1377398858292" ID="ID_577056576" MODIFIED="1377398859752" TEXT="3">
-<node CREATED="1377398859754" ID="ID_1807430458" MODIFIED="1377398865242" TEXT="Generate password">
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1377679225000" ID="ID_1293045301" MODIFIED="1377679227472" TEXT="v-1.1">
+<node CREATED="1377679228222" ID="ID_313951351" MODIFIED="1377679233041" TEXT="sample.php">
+<node CREATED="1377679233663" ID="ID_1974289839" MODIFIED="1377679260055" TEXT="=&gt; If the tpl file exists, then compare the timestamp of the tpl file with that of php file"/>
+<node CREATED="1377679260552" ID="ID_979069649" MODIFIED="1377679310636">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      =&gt; If the stamp of the php file is later than that of the tpl file,
+    </p>
+    <p>
+      then, redirect to convert.php
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1780914664" MODIFIED="1377354837261" TEXT="N@">
+<cloud/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1377678940516" ID="ID_152406327" MODIFIED="1377678944444" TEXT="v-2.0">
+<node CREATED="1377678949900" ID="ID_484768572" MODIFIED="1377678951462" TEXT="1">
+<node CREATED="1377398859754" ID="ID_1807430458" MODIFIED="1377678948354" TEXT="Generate password">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
