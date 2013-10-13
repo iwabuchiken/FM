@@ -736,5 +736,24 @@
 </node>
 </node>
 </node>
+<node CREATED="1381641935179" ID="ID_1007882452" MODIFIED="1381641938290" POSITION="left" TEXT="Resources">
+<node CREATED="1381641938604" ID="ID_132837818" MODIFIED="1381641939440" TEXT="1">
+<node CREATED="1381641943884" ID="ID_1238555263" MODIFIED="1381641948797" TEXT="Blues chord progression">
+<node CREATED="1381641949516" ID="ID_818524781" LINK="http://www.music.vt.edu/musicdictionary/appendix/blues/bluesprogression.html" MODIFIED="1381641953071" TEXT="1"/>
+<node CREATED="1381642218668" ID="ID_121119791" LINK="http://www.guitarhabits.com/3-juicy-blues-chord-progressions-to-be-prepared/" MODIFIED="1381642222017" TEXT="2"/>
+<node CREATED="1381642222700" ID="ID_1981295786" MODIFIED="1381642224525" TEXT="3">
+<node CREATED="1381642225004" ID="ID_1785646964" LINK="https://www.google.co.jp/search?q=blues+chord+progression+clarinet&amp;oq=blues+chord+progression+clarinet&amp;aqs=chrome..69i57.17443j0j4&amp;sourceid=chrome&amp;espv=210&amp;es_sm=122&amp;ie=UTF-8#es_sm=122&amp;espv=210&amp;psj=1&amp;q=blues+chord+progression" MODIFIED="1381642231481" TEXT="Search"/>
+</node>
+</node>
+</node>
+<node CREATED="1381642282956" ID="ID_500196696" MODIFIED="1381642285488" TEXT="2">
+<node CREATED="1381642285490" ID="ID_1061208757" MODIFIED="1381642294350" TEXT="Jazz chord progression">
+<node CREATED="1381642295372" ID="ID_1056832498" MODIFIED="1381642296028" TEXT="1">
+<node CREATED="1381642298380" ID="ID_491980374" LINK="https://www.google.co.jp/search?q=blues+chord+progression+clarinet&amp;oq=blues+chord+progression+clarinet&amp;aqs=chrome..69i57.17443j0j4&amp;sourceid=chrome&amp;espv=210&amp;es_sm=122&amp;ie=UTF-8#es_sm=122&amp;espv=210&amp;psj=1&amp;q=jazz+chord+progression" MODIFIED="1381642301570" TEXT="Search"/>
+</node>
+<node CREATED="1381642481853" ID="ID_1349324355" LINK="http://www.jazzguitar.be/jazz_chord_progressions.html" MODIFIED="1381642487608" TEXT="2"/>
+</node>
+</node>
+</node>
 </node>
 </map>

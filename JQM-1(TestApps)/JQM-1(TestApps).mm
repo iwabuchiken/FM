@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1366352824054" ID="ID_1446603196" MODIFIED="1381205130049" TEXT="JQM-1(TestApps)">
+<node CREATED="1366352824054" ID="ID_1446603196" MODIFIED="1381641509134" TEXT="JQM-1(TestApps)">
 <node CREATED="1366352841940" ID="ID_887173082" MODIFIED="1366352844391" POSITION="left" TEXT="Link">
 <node CREATED="1366352857948" ID="ID_1298783630" LINK="../Diary/Diary.mm" MODIFIED="1366352867334" TEXT="Diary"/>
 </node>
@@ -292,6 +292,11 @@
 </node>
 <node CREATED="1376965078394" ID="ID_770989043" MODIFIED="1376965079721" TEXT="3"/>
 </node>
+</node>
+</node>
+<node CREATED="1381641510395" ID="ID_1334405020" MODIFIED="1381641515369" POSITION="right" TEXT="Resources">
+<node CREATED="1381641516251" ID="ID_800434967" MODIFIED="1381641516605" TEXT="1">
+<node CREATED="1381641516606" ID="ID_1215420569" LINK="http://fuelyourcoding.com/getting-started-with-jquery-mobile-rails-3/" MODIFIED="1381641520594" TEXT="Tut"/>
 </node>
 </node>
 </node>
