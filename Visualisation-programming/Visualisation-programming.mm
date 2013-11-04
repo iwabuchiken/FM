@@ -86,6 +86,11 @@
 </node>
 <node CREATED="1383484687893" ID="ID_551606690" MODIFIED="1383484689975" TEXT="v-1.4">
 <node CREATED="1383484691316" ID="ID_1542823175" LINK="http://ja.d3js.info/alignedleft/tutorials/d3/drawing-divs/" MODIFIED="1383484708498" TEXT="&quot;DIV&#x8981;&#x7d20;&#x306e;&#x63cf;&#x753b;&quot;"/>
+<node CREATED="1383559540715" ID="ID_1280919075" MODIFIED="1383559542677" TEXT="1">
+<node CREATED="1383559542679" ID="ID_367880708" MODIFIED="1383559545017" TEXT="Up to">
+<node CREATED="1383559545019" ID="ID_1965661670" MODIFIED="1383559547631" TEXT="&quot;&#x68d2;&#x30b0;&#x30e9;&#x30d5;&#x3067;&#x306f;&#x3001;&#x68d2;&#x306e;&#x9ad8;&#x3055;&#x304c;&#x5bfe;&#x5fdc;&#x3059;&#x308b;&#x30c7;&#x30fc;&#x30bf;&#x3068;&#x76f8;&#x95a2;&#x3057;&#x3066;&#x3044;&#x306a;&#x3051;&#x308c;&#x3070;&#x306a;&#x308a;&#x307e;&#x305b;&#x3093;&#x3002;&#x3088;&#x3063;&#x3066; D3 &#x306e;&#x30b3;&#x30fc;&#x30c9;&#x306e;&#x6700;&#x5f8c;&#x306b;&#x6b21;&#x306e;&#x4e00;&#x884c;&#x3092;&#x52a0;&#x3048;&#x307e;&#x3059;&#x3002;&quot;"/>
+</node>
+</node>
 <node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_778531883" MODIFIED="1383482999234" TEXT="N@">
 <cloud/>
 </node>
