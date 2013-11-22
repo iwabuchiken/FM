@@ -91,7 +91,7 @@
 <node CREATED="1383559545019" ID="ID_1965661670" MODIFIED="1383559547631" TEXT="&quot;&#x68d2;&#x30b0;&#x30e9;&#x30d5;&#x3067;&#x306f;&#x3001;&#x68d2;&#x306e;&#x9ad8;&#x3055;&#x304c;&#x5bfe;&#x5fdc;&#x3059;&#x308b;&#x30c7;&#x30fc;&#x30bf;&#x3068;&#x76f8;&#x95a2;&#x3057;&#x3066;&#x3044;&#x306a;&#x3051;&#x308c;&#x3070;&#x306a;&#x308a;&#x307e;&#x305b;&#x3093;&#x3002;&#x3088;&#x3063;&#x3066; D3 &#x306e;&#x30b3;&#x30fc;&#x30c9;&#x306e;&#x6700;&#x5f8c;&#x306b;&#x6b21;&#x306e;&#x4e00;&#x884c;&#x3092;&#x52a0;&#x3048;&#x307e;&#x3059;&#x3002;&quot;"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_778531883" MODIFIED="1384527065038" TEXT="N@D-2">
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_778531883" MODIFIED="1385131544485" TEXT="D-2">
 <cloud/>
 </node>
 </node>
