@@ -3353,7 +3353,7 @@
 </node>
 </node>
 <node CREATED="1386605120749" ID="ID_121542328" MODIFIED="1386605122389" TEXT="3">
-<node CREATED="1386605122390" ID="ID_771995866" MODIFIED="1386605128180" TEXT="Eclipse plugins">
+<node CREATED="1386605122390" ID="ID_771995866" LINK="../Eclipse_plugins/Eclipse_plugins.mm" MODIFIED="1386753599828" TEXT="Eclipse plugins">
 <node CREATED="1386605128181" ID="ID_789490566" MODIFIED="1386605129908" TEXT="REF">
 <node CREATED="1386605129909" ID="ID_1971174099" MODIFIED="1386605130800" TEXT="1">
 <node CREATED="1386605153918" ID="ID_1089834932" LINK="https://www.google.co.jp/search?q=eclipse+plugin+tutorial&amp;oq=eclipse+plu&amp;aqs=chrome.0.69i59j69i57j0l4.3908j0j4&amp;sourceid=chrome&amp;espv=210&amp;es_sm=122&amp;ie=UTF-8" MODIFIED="1386605156465" TEXT="Search"/>
