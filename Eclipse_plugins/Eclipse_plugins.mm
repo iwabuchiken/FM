@@ -355,7 +355,7 @@
 <node CREATED="1387110844379" ID="ID_759995195" MODIFIED="1387111316180" TEXT="3">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1387110845305" ID="ID_1544279745" LINK="http://www.vogella.com/articles/EclipseRCP/article.html#e4_plugin_create" MODIFIED="1387110854692" TEXT="&quot;15. Exercise: From plug-in to Eclipse 4 application&quot;"/>
-<node CREATED="1387111356975" ID="ID_279100529" MODIFIED="1387111366492" TEXT="=&gt; See memo photo">
+<node CREATED="1387111356975" ID="ID_279100529" LINK="http://benfranklin.chips.jp/images/2013-12-15_21-42-32_573.jpg" MODIFIED="1387111748203" TEXT="=&gt; See memo photo">
 <font ITALIC="true" NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
