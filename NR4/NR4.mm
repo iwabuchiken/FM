@@ -3472,12 +3472,20 @@
 </node>
 <node CREATED="1385131453466" ID="ID_824741478" MODIFIED="1387416713575" TEXT="v-6.0">
 <node CREATED="1385683009196" ID="ID_173536018" MODIFIED="1385683035577" TEXT="Store the entire article text when opening a tab"/>
+<node CREATED="1387603116483" ID="ID_32454677" MODIFIED="1387603117863" TEXT="REF">
+<node CREATED="1387603117864" ID="ID_615318832" MODIFIED="1387603118986" TEXT="1">
+<node CREATED="1387603118987" ID="ID_927945777" LINK="http://nokogiri.org/Nokogiri/XML/Node.html" MODIFIED="1387603124500" TEXT="nokogiri api"/>
+</node>
+<node CREATED="1387603154164" ID="ID_184684229" MODIFIED="1387603154576" TEXT="2">
+<node CREATED="1387603154578" ID="ID_908969230" LINK="http://www.engineyard.co.jp/blog/2012/getting-started-with-nokogiri/" MODIFIED="1387603157002" TEXT="Blog"/>
+</node>
+</node>
 <node CREATED="1387419941999" ID="ID_1058231213" MODIFIED="1387419945670" TEXT="v-6.0.1">
 <node CREATED="1387416783805" ID="ID_1777889045" MODIFIED="1387416785041" TEXT="s-1">
 <node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_778531883" MODIFIED="1387187200539" TEXT="N@">
 <cloud/>
 </node>
-<node COLOR="#ff3333" CREATED="1387420102509" FOLDED="true" ID="ID_1422613642" MODIFIED="1387423292254" TEXT="PROB">
+<node COLOR="#ff3333" CREATED="1387420102509" FOLDED="true" ID="ID_1422613642" MODIFIED="1387581906499" TEXT="PROB">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1387420112686" ID="ID_1873175314" MODIFIED="1387420113662" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\JQM-1&gt;rails -v &#x1b;[31mCould not find rake-10.1.0 in any of the sources&#x1b;[0m &#x1b;[33mRun `bundle install` to install missing gems.&#x1b;[0m"/>
 <node CREATED="1387420675934" ID="ID_306640258" MODIFIED="1387420680960" TEXT="ACTIONS">
@@ -3497,9 +3505,9 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff3333" CREATED="1387421367887" FOLDED="true" ID="ID_1622140009" MODIFIED="1387423471518" TEXT="PROB">
+<node COLOR="#ff3333" CREATED="1387421367887" FOLDED="true" ID="ID_1622140009" MODIFIED="1387581903301" TEXT="PROB">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1387423229274" FOLDED="true" ID="ID_695456462" MODIFIED="1387423468861" TEXT="C/O">
+<node CREATED="1387423229274" ID="ID_695456462" MODIFIED="1387581879645" TEXT="C/O">
 <node CREATED="1387421370159" ID="ID_1840518435" MODIFIED="1387421370775" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\JQM-1&gt;rails s =&gt; Booting WEBrick =&gt; Rails 3.2.1 application starting in development on http://0.0.0.0:3000 =&gt; Call with -d to detach =&gt; Ctrl-C to shutdown server Exiting C:/WORKS/WS/WS_Android_20130929_122122/JQM-1/zipruby/ruby/1.9.1/gems/rack-1.4.5/ lib/rack/server.rb:340:in `kill&apos;: Invalid argument (Errno::EINVAL)         from C:/WORKS/WS/WS_Android_20130929_122122/JQM-1/zipruby/ruby/1.9.1/gem s/rack-1.4.5/lib/rack/server.rb:340:in `pidfile_process_status&apos;"/>
 </node>
 <node CREATED="1387421413134" ID="ID_1799736776" MODIFIED="1387421414727" TEXT="TRY">
@@ -3520,65 +3528,65 @@
 <node CREATED="1387421860578" ID="ID_1275191829" MODIFIED="1387421860947" TEXT="2">
 <node CREATED="1387421860948" ID="ID_1863619954" MODIFIED="1387421867119" TEXT="bundle install"/>
 </node>
-<node COLOR="#ff3333" CREATED="1387422547403" FOLDED="true" ID="ID_1867575669" MODIFIED="1387423462862" TEXT="PROB">
+<node COLOR="#ff3333" CREATED="1387422547403" ID="ID_1867575669" MODIFIED="1387581879648" TEXT="PROB">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1387423219001" FOLDED="true" ID="ID_707896217" MODIFIED="1387423462860" TEXT="C/O">
+<node CREATED="1387423219001" ID="ID_707896217" MODIFIED="1387581879656" TEXT="C/O">
 <node CREATED="1387422550457" ID="ID_1780909277" MODIFIED="1387422551578" TEXT="=&gt; Booting WEBrick =&gt; Rails 3.2.1 application starting in development on http://0.0.0.0:3001 =&gt; Call with -d to detach =&gt; Ctrl-C to shutdown server Exiting C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rack-1.4.5/l ib/rack/server.rb:340:in `kill&apos;: Invalid argument (Errno::EINVAL)         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:340:in `pidfile_process_status&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:327:in `check_pid!&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:250:in `start&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands/server.rb:70:in `start&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:55:in `block in &lt;top (required)&gt;&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:50:in `tap&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:50:in `&lt;top (required)&gt;&apos;         from script/rails:6:in `require&apos;         from script/rails:6:in `&lt;main&gt;&apos;"/>
 </node>
-<node CREATED="1387422581642" FOLDED="true" ID="ID_1690017107" MODIFIED="1387423462861" TEXT="TRY">
-<node CREATED="1387422583467" FOLDED="true" ID="ID_151082006" MODIFIED="1387423462860" TEXT="1">
+<node CREATED="1387422581642" ID="ID_1690017107" MODIFIED="1387581879659" TEXT="TRY">
+<node CREATED="1387422583467" ID="ID_151082006" MODIFIED="1387581879660" TEXT="1">
 <node CREATED="1387422583835" ID="ID_1693774325" MODIFIED="1387422589860" TEXT="bundle update"/>
 </node>
-<node CREATED="1387422707850" FOLDED="true" ID="ID_76155610" MODIFIED="1387423462861" TEXT="2">
-<node CREATED="1387422708250" FOLDED="true" ID="ID_1058494077" MODIFIED="1387423462861" TEXT="Delete file">
+<node CREATED="1387422707850" ID="ID_76155610" MODIFIED="1387581879661" TEXT="2">
+<node CREATED="1387422708250" ID="ID_1058494077" MODIFIED="1387581879662" TEXT="Delete file">
 <node CREATED="1387422711823" ID="ID_1637643553" MODIFIED="1387422713004" TEXT="tmp\pids\server.pid"/>
 </node>
 </node>
 <node CREATED="1387422740969" ID="ID_342742924" MODIFIED="1387422745044" TEXT="SOLVED!"/>
 </node>
-<node CREATED="1387422793426" FOLDED="true" ID="ID_1151142356" MODIFIED="1387423459679" TEXT="ADDITIONAL TRY">
+<node CREATED="1387422793426" ID="ID_1151142356" MODIFIED="1387581879666" TEXT="ADDITIONAL TRY">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1387422801273" FOLDED="true" ID="ID_44511992" MODIFIED="1387423459676" TEXT="1">
+<node CREATED="1387422801273" ID="ID_44511992" MODIFIED="1387581879669" TEXT="1">
 <node CREATED="1387422801914" ID="ID_1897234422" MODIFIED="1387422810021" TEXT="CR6(R) has also pids file"/>
 <node CREATED="1387422811050" ID="ID_633899884" MODIFIED="1387422822244" TEXT="=&gt; Any errors will occur?"/>
-<node CREATED="1387422936585" FOLDED="true" ID="ID_859279844" MODIFIED="1387423459676" TEXT="RESULT">
+<node CREATED="1387422936585" ID="ID_859279844" MODIFIED="1387581879670" TEXT="RESULT">
 <node CREATED="1387422938970" ID="ID_579187321" MODIFIED="1387422942708" TEXT="=&gt; No"/>
 </node>
 </node>
-<node CREATED="1387422944137" FOLDED="true" ID="ID_904949924" MODIFIED="1387423459678" TEXT="2">
+<node CREATED="1387422944137" ID="ID_904949924" MODIFIED="1387581879672" TEXT="2">
 <node CREATED="1387422944746" ID="ID_367961970" MODIFIED="1387422957269" TEXT="pids file kept open &amp; start server"/>
 <node CREATED="1387422811050" ID="ID_1903388053" MODIFIED="1387422822244" TEXT="=&gt; Any errors will occur?"/>
-<node CREATED="1387423041033" FOLDED="true" ID="ID_401458458" MODIFIED="1387423459677" TEXT="RESULT">
-<node CREATED="1387423104921" FOLDED="true" ID="ID_390992089" MODIFIED="1387423459677" TEXT="1">
-<node CREATED="1387423113351" FOLDED="true" ID="ID_1552503177" MODIFIED="1387423459677" TEXT="Console output">
+<node CREATED="1387423041033" ID="ID_401458458" MODIFIED="1387581879675" TEXT="RESULT">
+<node CREATED="1387423104921" ID="ID_390992089" MODIFIED="1387581879675" TEXT="1">
+<node CREATED="1387423113351" ID="ID_1552503177" MODIFIED="1387581879681" TEXT="Console output">
 <node CREATED="1387423043353" ID="ID_1188949989" MODIFIED="1387423044024" TEXT="=&gt; Booting WEBrick =&gt; Rails 3.2.1 application starting in development on http://0.0.0.0:3001 =&gt; Call with -d to detach =&gt; Ctrl-C to shutdown server         SECURITY WARNING: No secret option provided to Rack::Session::Cookie.         This poses a security threat. It is strongly recommended that you         provide a secret to prevent exploits that may be possible from crafted         cookies. This will not be supported in future versions of Rack, and         future versions will even invalidate your existing user cookies.          Called from: C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1. 9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/session/abstract_store. rb:28:in `initialize&apos;.  C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/fileutils.rb:93: warni ng: already initialized constant OPT_TABLE C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/fileutils.rb:1268: war ning: already initialized constant S_IF_DOOR C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/fileutils.rb:1496: war ning: already initialized constant DIRECTORY_TERM C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/fileutils.rb:1500: war ning: already initialized constant SYSCASE C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/fileutils.rb:1619: war ning: already initialized constant LOW_METHODS C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/fileutils.rb:1625: war ning: already initialized constant METHODS"/>
 </node>
 </node>
-<node CREATED="1387423126474" FOLDED="true" ID="ID_1303593727" MODIFIED="1387423459677" TEXT="2">
-<node CREATED="1387423126875" FOLDED="true" ID="ID_736279905" MODIFIED="1387423459677" TEXT="pids file">
+<node CREATED="1387423126474" ID="ID_1303593727" MODIFIED="1387581879682" TEXT="2">
+<node CREATED="1387423126875" ID="ID_736279905" MODIFIED="1387581879683" TEXT="pids file">
 <node CREATED="1387423129712" ID="ID_1383277463" MODIFIED="1387423137253" TEXT="=&gt; force-closed"/>
 </node>
 </node>
 <node CREATED="1387423398825" ID="ID_834069876" MODIFIED="1387423399946" TEXT="3"/>
 </node>
 </node>
-<node CREATED="1387423142442" FOLDED="true" ID="ID_1486287028" MODIFIED="1387423459678" TEXT="3">
+<node CREATED="1387423142442" ID="ID_1486287028" MODIFIED="1387581879685" TEXT="3">
 <node CREATED="1387423143627" ID="ID_652409553" MODIFIED="1387423154589" TEXT="pids file =&gt; contents erased"/>
 <node CREATED="1387422811050" ID="ID_427907791" MODIFIED="1387422822244" TEXT="=&gt; Any errors will occur?"/>
-<node CREATED="1387423200122" FOLDED="true" ID="ID_1182067501" MODIFIED="1387423459678" TEXT="RESULT">
-<node CREATED="1387423201986" FOLDED="true" ID="ID_1074616325" MODIFIED="1387423459678" TEXT="1">
-<node CREATED="1387423202379" FOLDED="true" ID="ID_774730272" MODIFIED="1387423459678" TEXT="C/O">
+<node CREATED="1387423200122" ID="ID_1182067501" MODIFIED="1387581879686" TEXT="RESULT">
+<node CREATED="1387423201986" ID="ID_1074616325" MODIFIED="1387581879687" TEXT="1">
+<node CREATED="1387423202379" ID="ID_774730272" MODIFIED="1387581879692" TEXT="C/O">
 <node CREATED="1387423205625" ID="ID_1918072715" MODIFIED="1387423206197" TEXT="C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rack-1.4.5/l ib/rack/server.rb:340:in `kill&apos;: Invalid argument (Errno::EINVAL)         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:340:in `pidfile_process_status&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:327:in `check_pid!&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:250:in `start&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands/server.rb:70:in `start&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:55:in `block in &lt;top (required)&gt;&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:50:in `tap&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:50:in `&lt;top (required)&gt;&apos;         from script/rails:6:in `require&apos;         from script/rails:6:in `&lt;main&gt;&apos;"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1387423414745" FOLDED="true" ID="ID_6234478" MODIFIED="1387423459679" TEXT="4">
+<node CREATED="1387423414745" ID="ID_6234478" MODIFIED="1387581879694" TEXT="4">
 <node CREATED="1387422944746" ID="ID_1984821646" MODIFIED="1387423447654" TEXT="pids file kept open &amp; start server (Opened in sakura)"/>
 <node CREATED="1387422811050" ID="ID_660409765" MODIFIED="1387422822244" TEXT="=&gt; Any errors will occur?"/>
-<node CREATED="1387423450249" FOLDED="true" ID="ID_1456858684" MODIFIED="1387423459679" TEXT="RESULT">
-<node CREATED="1387423452537" FOLDED="true" ID="ID_26483330" MODIFIED="1387423459678" TEXT="1">
-<node CREATED="1387423415993" FOLDED="true" ID="ID_870552023" MODIFIED="1387423438515" TEXT="C/O">
+<node CREATED="1387423450249" ID="ID_1456858684" MODIFIED="1387581879695" TEXT="RESULT">
+<node CREATED="1387423452537" ID="ID_26483330" MODIFIED="1387581879696" TEXT="1">
+<node CREATED="1387423415993" ID="ID_870552023" MODIFIED="1387581879700" TEXT="C/O">
 <node CREATED="1387423418217" ID="ID_1940061937" MODIFIED="1387423419463" TEXT="C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rack-1.4.5/l ib/rack/server.rb:332:in `delete&apos;: Permission denied - C:/WORKS/WS/WS_Android_20 130929_122122/JQM-1/tmp/pids/server.pid (Errno::EACCES)         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:332:in `check_pid!&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /rack-1.4.5/lib/rack/server.rb:250:in `start&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands/server.rb:70:in `start&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:55:in `block in &lt;top (required)&gt;&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:50:in `tap&apos;         from C:/WORKS/PROGRAMS/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems /railties-3.2.1/lib/rails/commands.rb:50:in `&lt;top (required)&gt;&apos;         from script/rails:6:in `require&apos;         from script/rails:6:in `&lt;main&gt;&apos;"/>
 </node>
 </node>
