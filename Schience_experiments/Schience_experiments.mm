@@ -1384,6 +1384,9 @@
 <node CREATED="1392560676356" ID="ID_1649981556" MODIFIED="1392560677573" TEXT="1">
 <node CREATED="1392560677574" ID="ID_1700659723" LINK="https://www.google.co.jp/search?q=%E7%90%86%E7%A7%91%E5%AE%9F%E9%A8%93%E3%80%80%E4%B8%8B%E6%96%B9%E7%BD%AE%E6%8F%9B%E6%B3%95&amp;espv=210&amp;es_sm=122&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=M8QAU-3IMoPJkwX2y4CwAw&amp;ved=0CDIQsAQ&amp;biw=1067&amp;bih=639" MODIFIED="1392560681049" TEXT="images"/>
 </node>
+<node CREATED="1392617307396" ID="ID_1002210360" MODIFIED="1392617307841" TEXT="2">
+<node CREATED="1392617352603" ID="ID_1189431278" LINK="http://www.geocities.jp/seiboukagakubu2/experiment/HalogenCl/HalogenCl.html" MODIFIED="1392617357056" TEXT="&#x5b9f;&#x9a13;"/>
+</node>
 </node>
 </node>
 </node>
@@ -1984,6 +1987,12 @@
 <node CREATED="1391172281047" ID="ID_1218780462" LINK="http://www.tech-jam.com/research-fixture/crucible/index.phtml" MODIFIED="1391172286577" TEXT="&#x5769;&#x581d;">
 <node CREATED="1391172320266" ID="ID_1657666553" MODIFIED="1391172339186" TEXT="368Y/30ml"/>
 </node>
+</node>
+<node CREATED="1392646167048" ID="ID_191406302" MODIFIED="1392646169890" TEXT="4">
+<node CREATED="1392646169891" ID="ID_1584796839" LINK="http://item.rakuten.co.jp/bicosya/56891/#56891" MODIFIED="1392646177387" TEXT="&#x30b3;&#x30de;"/>
+</node>
+<node CREATED="1392646191879" ID="ID_1487076994" MODIFIED="1392646192851" TEXT="5">
+<node CREATED="1392646192852" ID="ID_1594056827" LINK="http://item.rakuten.co.jp/bicosya/93493/" MODIFIED="1392646201413" TEXT="&#x504f;&#x5149;&#x677f;"/>
 </node>
 </node>
 </node>
