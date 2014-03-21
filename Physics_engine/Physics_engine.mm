@@ -88,14 +88,9 @@
 </node>
 <node CREATED="1394633349900" ID="ID_757781341" MODIFIED="1394633350711" TEXT="4"/>
 </node>
-<node CREATED="1394676773252" ID="ID_1054468190" MODIFIED="1394676774928" TEXT="v-1.0">
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1747964054" MODIFIED="1394676772074" TEXT="N@">
-<cloud/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-<node CREATED="1394725467468" ID="ID_567388890" MODIFIED="1394725471094" TEXT="v-2.0">
-<node CREATED="1394725471532" ID="ID_716355422" MODIFIED="1394725474436" TEXT="Learn">
+<node CREATED="1394676773252" ID="ID_1054468190" MODIFIED="1394676774928" TEXT="v-1.0"/>
+<node CREATED="1394725467468" ID="ID_567388890" MODIFIED="1395403205593" TEXT="v-2.x">
+<node CREATED="1394725471532" ID="ID_716355422" MODIFIED="1395403216200" TEXT="Learn">
 <node CREATED="1394725474437" ID="ID_984635973" MODIFIED="1394725477683" TEXT="CodeBlocks"/>
 <node CREATED="1394725478036" ID="ID_1520571382" MODIFIED="1394725479412" TEXT="REF">
 <node CREATED="1394725479413" ID="ID_1352655718" MODIFIED="1394725479748" TEXT="1">
@@ -109,6 +104,72 @@
 </node>
 <node CREATED="1394725653892" ID="ID_547508204" MODIFIED="1394725659589" TEXT="4">
 <node CREATED="1394725659590" ID="ID_1330180771" LINK="http://demura.net/9ode/9321.html" MODIFIED="1394725663632" TEXT="ode tut"/>
+</node>
+</node>
+</node>
+<node CREATED="1395403207100" ID="ID_1687571368" MODIFIED="1395403211919" TEXT="v-2.0"/>
+<node CREATED="1395403184477" ID="ID_1663020964" MODIFIED="1395404908579" TEXT="v-2.1">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1395403189214" ID="ID_912508126" MODIFIED="1395403194218" TEXT="First ODE project">
+<node CREATED="1395403194829" ID="ID_1174729120" MODIFIED="1395403195869" TEXT="REF">
+<node CREATED="1395403195870" ID="ID_1771494085" LINK="http://www.alsprogrammingresource.com/basic_ode.html" MODIFIED="1395403199725" TEXT="1"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1395404935421" ID="ID_1593872433" MODIFIED="1395404953325" TEXT="ERROR">
+<node CREATED="1395404942526" FOLDED="true" ID="ID_187755210" MODIFIED="1395404949682" TEXT="line">
+<node CREATED="1395404937981" ID="ID_1832104024" MODIFIED="1395404946582" TEXT="||=== Build: Debug in D-4_v-2.1_First-ODE (compiler: GNU GCC Compiler) ===| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|111|error: #error You must #define dSINGLE or dDOUBLE| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|217|error: #error You must #define dSINGLE or dDOUBLE| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|139|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|140|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|141|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|142|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|143|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|144|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|369|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|370|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|371|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|372|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|55|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|58|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|59|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|60|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|61|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|62|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|63|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|64|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|83|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|84|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|85|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|96|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: variable or field &apos;dAddVectors3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: variable or field &apos;dSubtractVectors3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: variable or field &apos;dAddScaledVectors3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: variable or field &apos;dScaleVector3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|82|error: variable or field &apos;dNegateVector3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|82|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|82|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|89|error: variable or field &apos;dCopyVector3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|89|error: &apos;dReal&apos; was not declared in this scope| ||More errors follow but not being shown.| ||Edit the max errors limit in compiler options...| ||=== Build failed: 50 error(s), 0 warning(s) (0 minute(s), 5 second(s)) ===| "/>
+</node>
+</node>
+</node>
+<node CREATED="1395404881183" ID="ID_243493795" MODIFIED="1395404882602" TEXT="v-2.2">
+<node CREATED="1395404883458" ID="ID_1273745634" MODIFIED="1395404886507" TEXT="Other tut">
+<node CREATED="1395404886976" ID="ID_523630639" LINK="http://demura.net/9ode/8185.html" MODIFIED="1395404904455" TEXT="REF"/>
+</node>
+<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1747964054" MODIFIED="1395404906149" TEXT="N@">
+<cloud/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#ff0000" CREATED="1395405820590" ID="ID_884324062" MODIFIED="1395405829613" TEXT="ERROR">
+<node CREATED="1395405822899" ID="ID_965484710" MODIFIED="1395406346128" TEXT="line">
+<node CREATED="1395405824318" ID="ID_1130471851" MODIFIED="1395405825274" TEXT="||=== Build: DebugDoubleLib in step1 (compiler: GNU GCC Compiler) ===| ld.exe||cannot find -lode_doubled| ld.exe||cannot find -ldrawstuffd| ||=== Build failed: 2 error(s), 0 warning(s) (0 minute(s), 2 second(s)) ===| "/>
+</node>
+</node>
+</node>
+<node CREATED="1395405830622" ID="ID_990975085" MODIFIED="1395414659190" TEXT="v-2.3">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1395405835454" ID="ID_1580181656" MODIFIED="1395405853946" TEXT="create a project in &quot;C:\ode-0.12\myprog&quot;"/>
+<node CREATED="1395414653499" ID="ID_1262485949" MODIFIED="1395414656008" TEXT="=&gt; C:\ode-0.12\myprog\D-"/>
+</node>
+<node CREATED="1395414660038" ID="ID_600671968" MODIFIED="1395414695578" TEXT="v-2.4">
+<icon BUILTIN="idea"/>
+<node CREATED="1395414664784" ID="ID_673910467" MODIFIED="1395414666685" TEXT="C/P">
+<node CREATED="1395414680352" ID="ID_277968681" MODIFIED="1395414689836" TEXT="=&gt; C:\ode-0.12\build\codeblocks\demo_boxstack_2.cbp"/>
+</node>
+</node>
+<node CREATED="1395414698016" ID="ID_1993329963" MODIFIED="1395417744481" TEXT="v-2.5">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1395414700847" ID="ID_1619119773" MODIFIED="1395414703951" TEXT="C/P">
+<node CREATED="1395414703953" ID="ID_1759817386" MODIFIED="1395414706684" TEXT="=&gt; dm1.h"/>
+</node>
+<node COLOR="#ff0000" CREATED="1395414971505" ID="ID_1350089026" MODIFIED="1395414979200" TEXT="ERROR">
+<node CREATED="1395414974272" FOLDED="true" ID="ID_74002035" MODIFIED="1395414977939" TEXT="line">
+<node CREATED="1395414975714" ID="ID_319676498" MODIFIED="1395414976269" TEXT="||=== Build: Debug in demo_boxstack_2 (compiler: GNU GCC Compiler) ===| C:\ode-0.12\ode\demo\demo_boxstack_2.cpp||In function &apos;void start()&apos;:| C:\ode-0.12\ode\demo\demo_boxstack_2.cpp|179|error: &apos;void start()&apos; was declared &apos;extern&apos; and later &apos;static&apos; [-fpermissive]| C:\ode-0.12\ode\demo\dm1.h|17|error: previous declaration of &apos;void start()&apos; [-fpermissive]| ||=== Build failed: 2 error(s), 0 warning(s) (0 minute(s), 4 second(s)) ===| "/>
+</node>
+<node CREATED="1395417660711" ID="ID_317843087" MODIFIED="1395417664980" TEXT="TRY">
+<node CREATED="1395417673895" ID="ID_1405206626" MODIFIED="1395417702643" TEXT="step1.cbp:: Linker tag =&gt; &quot;&lt;Add directory=&quot;..\..\lib\Debug&quot; /&gt;&quot;"/>
+<node COLOR="#ff0000" CREATED="1395417652876" ID="ID_1587283772" MODIFIED="1395417658237" TEXT="ERROR">
+<node CREATED="1395417706505" FOLDED="true" ID="ID_1169284013" MODIFIED="1395417727978" TEXT="line">
+<node CREATED="1395417724952" ID="ID_978138216" MODIFIED="1395417725893" TEXT="||=== Build: DebugDoubleLib in step1 (compiler: GNU GCC Compiler) ===| obj\myprog\step1\step1.o||In function `main&apos;:| C:\ode-0.12\myprog\step1\step1.cpp|15|undefined reference to `dmLoop(int, int, void (*)(int))&apos;| ||=== Build failed: 1 error(s), 0 warning(s) (0 minute(s), 0 second(s)) ===| "/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1395417745288" ID="ID_16399356" MODIFIED="1395417747764" TEXT="v-2.6">
+<node CREATED="1395417763143" ID="ID_1829375511" MODIFIED="1395417764820" TEXT="C:\ode-0.12\build2\codeblocks\"/>
+<node CREATED="1395420259193" ID="ID_1336130526" MODIFIED="1395420261114" TEXT="REF">
+<node CREATED="1395420261115" ID="ID_1545237850" MODIFIED="1395420261801" TEXT="1">
+<node CREATED="1395420261802" ID="ID_1783235243" LINK="http://ode-wiki.org/wiki/index.php?title=HOWTO" MODIFIED="1395420267757" TEXT="manual"/>
 </node>
 </node>
 </node>
@@ -163,7 +224,23 @@
 <node CREATED="1363619561045" ID="ID_442297896" MODIFIED="1363619563854" POSITION="left" TEXT="Links">
 <node CREATED="1349569185946" ID="ID_1282551431" LINK="../Activity_log.mm" MODIFIED="1349569194436" TEXT="UP"/>
 <node CREATED="1363619570463" ID="ID_1214281431" LINK="../Diary/Diary.mm" MODIFIED="1363619584043" TEXT="Diary"/>
-<node CREATED="1376369611512" ID="ID_163412716" MODIFIED="1376369614144" TEXT="Folder"/>
+<node CREATED="1376369611512" ID="ID_163412716" MODIFIED="1376369614144" TEXT="Folder">
+<node CREATED="1395402854061" ID="ID_714804846" MODIFIED="1395402854639" TEXT="1">
+<node CREATED="1395402854639" ID="ID_393717874" MODIFIED="1395402855529" TEXT="C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.0_ODE-tutorial"/>
+</node>
+</node>
+</node>
+<node CREATED="1395402861037" ID="ID_1217995713" MODIFIED="1395402864330" POSITION="left" TEXT="Commands">
+<node CREATED="1395402865549" ID="ID_1547115264" MODIFIED="1395402865946" TEXT="1">
+<node CREATED="1395402854639" ID="ID_1591426424" MODIFIED="1395402879484" TEXT="a p &amp;&amp; pushd C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.0_ODE-tutorial"/>
+</node>
+<node CREATED="1395402866189" ID="ID_766049519" MODIFIED="1395402866554" TEXT="2">
+<node CREATED="1395402898525" ID="ID_473231304" MODIFIED="1395402902314" TEXT="git init"/>
+<node CREATED="1395402902589" ID="ID_1672861676" MODIFIED="1395402905145" TEXT="git add ."/>
+<node CREATED="1395402906205" ID="ID_893602214" MODIFIED="1395402907385" TEXT="gitk"/>
+<node CREATED="1395402898525" ID="ID_22155308" MODIFIED="1395417026535" TEXT="git init &amp;&amp; git add . &amp;&amp; gitk"/>
+</node>
+<node CREATED="1395402866781" ID="ID_818737422" MODIFIED="1395402867210" TEXT="3"/>
 </node>
 <node CREATED="1367713506206" ID="ID_1533239513" MODIFIED="1367713508795" POSITION="left" TEXT="Steps"/>
 <node CREATED="1342275410406" FOLDED="true" ID="ID_682003962" MODIFIED="1367902661674" POSITION="left" TEXT="Symbols">
