@@ -1,4 +1,4 @@
-<map version="0.9.0">
+<map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1354235079170" ID="ID_1439218115" MODIFIED="1377790854188" TEXT="Experiments">
 <node CREATED="1372719946225" ID="ID_1277815251" MODIFIED="1372719948720" POSITION="left" TEXT="Links">
@@ -7,6 +7,7 @@
 </node>
 <node CREATED="1354235341605" ID="ID_1034210865" MODIFIED="1379655564450" POSITION="right" TEXT="LOG">
 <arrowlink DESTINATION="ID_1034210865" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_547550416" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1034210865" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_547550416" SOURCE="ID_1034210865" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <node CREATED="1355031431807" ID="ID_903950862" MODIFIED="1377073245471" TEXT="DONE"/>
 <node CREATED="1377790914078" ID="ID_899152019" MODIFIED="1377790924784" TEXT="D-1">
 <node CREATED="1377790925221" ID="ID_1962858761" MODIFIED="1377790926777" TEXT="Setup"/>
@@ -276,7 +277,7 @@
   </head>
   <body>
     <p>
-      =&gt;&#160;&quot;<font face="verdana, arial, helvetica, sans-serif" color="rgb(51, 51, 51)" size="12.727272033691406px"><span style="text-align: start; background-color: rgb(255, 255, 255); line-height: 18px; font-family: verdana, arial, helvetica, sans-serif; white-space: normal; text-transform: none; word-spacing: 0px; font-size: 12.727272033691406px; font-style: normal; float: none; letter-spacing: normal; display: inline !important; font-variant: normal; font-weight: normal; text-indent: 0px; color: rgb(51, 51, 51)">!params['passwd_sl'](params =&gt; [&quot;passwd_lm&quot;, &quot;lm_mobile_modified_at&quot;, &quot;lm_latitude&quot;, &quot;lm_mobile_created_at&quot;, &quot;lm_mobile_id&quot;, &quot;lm_longitude&quot;, &quot;controller&quot;, &quot;action&quot;, &quot;item&quot;]</span><span class="Apple-converted-space">&#160;</span></font>&quot;
+      =&gt;&#xa0;"<font face="verdana, arial, helvetica, sans-serif" color="rgb(51, 51, 51)" size="12.727272033691406px"><span style="text-align: start; background-color: rgb(255, 255, 255); line-height: 18px; font-family: verdana, arial, helvetica, sans-serif; white-space: normal; text-transform: none; word-spacing: 0px; font-size: 12.727272033691406px; font-style: normal; float: none; letter-spacing: normal; display: inline !important; font-variant: normal; font-weight: normal; text-indent: 0px; color: rgb(51, 51, 51)">!params['passwd_sl'](params =&gt; ["passwd_lm", "lm_mobile_modified_at", "lm_latitude", "lm_mobile_created_at", "lm_mobile_id", "lm_longitude", "controller", "action", "item"]</span><span class="Apple-converted-space">&#xa0;</span></font>"
     </p>
   </body>
 </html></richcontent>
@@ -286,15 +287,21 @@
 </node>
 <node CREATED="1392343061898" ID="ID_675977037" LINK="../LM(R)/LM(R).mm" MODIFIED="1392343070005" TEXT="LM(R)"/>
 </node>
-<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_329140597" MODIFIED="1392334653742" TEXT="N@">
-<cloud/>
-</node>
 </node>
 <node CREATED="1392339699321" ID="ID_539564645" MODIFIED="1392342509089" TEXT="SEGWAY-2">
 <node CREATED="1392339704474" ID="ID_355897137" MODIFIED="1392339712944" TEXT="CODING">
 <node CREATED="1392339712946" ID="ID_679858732" MODIFIED="1392339718588" TEXT="Restore db"/>
 </node>
 <node CREATED="1392339720153" ID="ID_1463599126" MODIFIED="1392339721912" TEXT="v-1.0"/>
+</node>
+</node>
+<node CREATED="1377790914078" ID="ID_418917282" MODIFIED="1395503787986" TEXT="D-5">
+<node CREATED="1395503716565" ID="ID_634735465" MODIFIED="1395503724446" TEXT="Position manager"/>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_329140597" MODIFIED="1395503734547" TEXT="N@">
+<cloud/>
+</node>
+<node CREATED="1395503737649" ID="ID_589696800" MODIFIED="1395503740143" TEXT="v-1.0">
+<node CREATED="1395503741491" ID="ID_594519408" MODIFIED="1395503742909" TEXT="setup"/>
 </node>
 </node>
 <node CREATED="1363749220464" ID="ID_713570344" MODIFIED="1392334650411" TEXT="TEMPL">
@@ -363,8 +370,10 @@
 <node CREATED="1392255896471" ID="ID_51426196" MODIFIED="1392255902431" TEXT="=&gt; default=0"/>
 </node>
 </node>
+<node CREATED="1377790914078" ID="ID_514517219" MODIFIED="1395503791744" TEXT="D-5">
+<node CREATED="1395503716565" ID="ID_111311936" MODIFIED="1395503724446" TEXT="Position manager"/>
 </node>
-<node CREATED="1377790914078" ID="ID_514517219" MODIFIED="1377790916657" TEXT="D-"/>
+</node>
 <node CREATED="1377790914078" ID="ID_66119226" MODIFIED="1377790916657" TEXT="D-"/>
 <node CREATED="1377790914078" ID="ID_1866373417" MODIFIED="1377790916657" TEXT="D-"/>
 <node CREATED="1377790914078" ID="ID_1299468264" MODIFIED="1377790916657" TEXT="D-"/>
