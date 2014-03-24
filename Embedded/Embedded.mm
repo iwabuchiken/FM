@@ -5983,6 +5983,11 @@
 </node>
 <node CREATED="1395564980932" ID="ID_1676187736" MODIFIED="1395564983583" TEXT="v-4.2">
 <node CREATED="1395564984307" ID="ID_718092807" MODIFIED="1395564996879" TEXT="use switch statement to set the value for &quot;led_pattern&quot;"/>
+<node CREATED="1395585569075" ID="ID_849975883" MODIFIED="1395585571062" TEXT="REF">
+<node CREATED="1395585571062" ID="ID_508991369" MODIFIED="1395585571807" TEXT="1">
+<node CREATED="1395585579827" ID="ID_644165702" LINK="http://www.mikroe.com/download/eng/documents/compilers/mikroc/pro/pic/help/switch_statement.htm" MODIFIED="1395585583235" TEXT="tut"/>
+</node>
+</node>
 <node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_814342485" MODIFIED="1395565014141" TEXT="D-84">
 <cloud/>
 </node>
