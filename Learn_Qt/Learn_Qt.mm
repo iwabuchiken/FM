@@ -1,0 +1,761 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1357477798768" ID="ID_1920537172" MODIFIED="1398400310879" TEXT="Learn_Qt">
+<node CREATED="1357477936461" ID="ID_1446837333" LINK="../Activity_log.mm" MODIFIED="1357477943422" POSITION="left" TEXT="UP"/>
+<node CREATED="1394415444959" ID="ID_1982857495" MODIFIED="1394415447019" POSITION="left" TEXT="Links">
+<node CREATED="1394415447903" ID="ID_664945824" MODIFIED="1394415449200" TEXT="1">
+<node CREATED="1394415449201" ID="ID_896041432" MODIFIED="1397742266854" TEXT="Folders"/>
+<node CREATED="1397742269253" ID="ID_1433766791" MODIFIED="1397742270898" TEXT="Folder">
+<node CREATED="1398211226529" ID="ID_962745498" MODIFIED="1398400192844" TEXT="REF"/>
+<node CREATED="1398211227986" ID="ID_1558979274" MODIFIED="1398400193093" TEXT="1">
+<node CREATED="1398211228466" ID="ID_1205870640" LINK="http://qt-project.org/downloads" MODIFIED="1398211234372" TEXT="DL"/>
+</node>
+<node CREATED="1398221884900" ID="ID_1278372723" MODIFIED="1398400193096" TEXT="2">
+<node CREATED="1398221885333" ID="ID_316869581" LINK="C:\WORKS\PROGRAMS\Qt\Qt5.2.1\Tools\QtCreator\bin\qtcreator.exe" MODIFIED="1398221891909" TEXT="Qt"/>
+</node>
+<node CREATED="1398221930851" ID="ID_91642426" MODIFIED="1398400193098" TEXT="3">
+<node CREATED="1398221931253" ID="ID_446266386" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt" MODIFIED="1398400193105" TEXT="Folder">
+<node CREATED="1398221944642" ID="ID_535579155" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt" MODIFIED="1398400262839" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt"/>
+<node CREATED="1398221948460" ID="ID_1108978811" MODIFIED="1398221953664" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt"/>
+<node CREATED="1398221948460" ID="ID_1850238934" MODIFIED="1398299608422" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt &amp;&amp; gitk"/>
+<node CREATED="1398221948460" ID="ID_1533716196" MODIFIED="1398221965184" TEXT="a p &amp;&amp; pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt"/>
+<node CREATED="1398221948460" ID="ID_1350519966" MODIFIED="1398221971296" TEXT="a p &amp;&amp; pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt &amp;&amp; gitk"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1394415475919" ID="ID_1667394656" MODIFIED="1394415477023" TEXT="2">
+<node CREATED="1394415477024" ID="ID_369700522" MODIFIED="1394415478091" TEXT="Git">
+<node CREATED="1394415478878" ID="ID_1919682114" MODIFIED="1394415488011" TEXT="git init &amp;&amp; git add . &amp;&amp; gitk"/>
+</node>
+</node>
+<node CREATED="1396838662630" ID="ID_1091525738" MODIFIED="1396838663304" TEXT="3">
+<node CREATED="1396838663305" ID="ID_1637115474" MODIFIED="1396838665509" TEXT="Others">
+<node CREATED="1396838666008" ID="ID_287244291" MODIFIED="1396838666505" TEXT="1">
+<node CREATED="1396838666506" ID="ID_1341347214" LINK="C:\WORKS\PROGRAMS\FreeWares\OpenSeeIt_v0.47.16.4\OpenSeeIt.exe" MODIFIED="1396838678516" TEXT="OpenSeeIt.exe"/>
+</node>
+<node CREATED="1396838722472" ID="ID_727941708" MODIFIED="1396838723129" TEXT="2">
+<node CREATED="1396838723130" ID="ID_1559866557" LINK="C:\WORKS\WS\WS_Android_20130929_122122\prog978-4-7856-3179-6\prog978-4-7856-3179-6" MODIFIED="1396838745333" TEXT="samples::Nagao"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1357484312255" ID="ID_1733418781" MODIFIED="1358634944067" POSITION="right" TEXT="LOG">
+<node CREATED="1357484316046" ID="ID_1613851" MODIFIED="1357484317516" TEXT="DONE"/>
+<node CREATED="1398222031972" FOLDED="true" ID="ID_1356496638" MODIFIED="1398426771846" TEXT="D-1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398222036883" ID="ID_1623450599" MODIFIED="1398222039735" TEXT="setup"/>
+<node CREATED="1398211226529" ID="ID_954295153" MODIFIED="1398400192844" TEXT="REF">
+<node CREATED="1398211227986" ID="ID_266297663" MODIFIED="1398400193093" TEXT="1">
+<node CREATED="1398211228466" ID="ID_97684565" LINK="http://qt-project.org/downloads" MODIFIED="1398211234372" TEXT="DL"/>
+</node>
+<node CREATED="1398221884900" ID="ID_1748526114" MODIFIED="1398400193096" TEXT="2">
+<node CREATED="1398221885333" ID="ID_679738387" LINK="C:\WORKS\PROGRAMS\Qt\Qt5.2.1\Tools\QtCreator\bin\qtcreator.exe" MODIFIED="1398221891909" TEXT="Qt"/>
+</node>
+<node CREATED="1398221930851" ID="ID_1905893608" MODIFIED="1398400193098" TEXT="3">
+<node CREATED="1398221931253" ID="ID_171875307" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt" MODIFIED="1398400193105" TEXT="Folder">
+<node CREATED="1398221944642" ID="ID_745932260" MODIFIED="1398221945904" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt"/>
+<node CREATED="1398221948460" ID="ID_885097789" MODIFIED="1398221953664" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt"/>
+<node CREATED="1398221948460" ID="ID_1305247543" MODIFIED="1398299608422" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt &amp;&amp; gitk"/>
+<node CREATED="1398221948460" ID="ID_1147495273" MODIFIED="1398221965184" TEXT="a p &amp;&amp; pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt"/>
+<node CREATED="1398221948460" ID="ID_305197246" MODIFIED="1398221971296" TEXT="a p &amp;&amp; pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt &amp;&amp; gitk"/>
+</node>
+</node>
+</node>
+<node CREATED="1398210690736" ID="ID_1216019036" MODIFIED="1398400193111" TEXT="v-1.0">
+<node CREATED="1398211221328" ID="ID_475204041" MODIFIED="1398400193113" TEXT="1">
+<node CREATED="1398211223220" ID="ID_632119193" MODIFIED="1398211224990" TEXT="DL"/>
+</node>
+<node CREATED="1398221850190" ID="ID_1331134316" MODIFIED="1398400193115" TEXT="2">
+<node CREATED="1398221852294" ID="ID_862736625" MODIFIED="1398221861505" TEXT="&quot;Creating a Qt Quick Application&quot;"/>
+</node>
+<node CREATED="1398222107765" ID="ID_1853736016" MODIFIED="1398400193117" TEXT="3">
+<node CREATED="1398222109349" ID="ID_1098517231" MODIFIED="1398400193124" TEXT="git">
+<node CREATED="1398211221328" ID="ID_1805199404" MODIFIED="1398400193126" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398222119171" ID="ID_79873352" MODIFIED="1398222120993" TEXT="init"/>
+</node>
+<node CREATED="1398221850190" ID="ID_1362918739" MODIFIED="1398400193127" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398222121971" ID="ID_1015385077" MODIFIED="1398222123984" TEXT="GitHub"/>
+</node>
+<node CREATED="1398222107765" ID="ID_1322628883" MODIFIED="1398222118104" TEXT="3"/>
+</node>
+</node>
+</node>
+<node CREATED="1398226838517" ID="ID_1570544173" MODIFIED="1398400193133" TEXT="v-2.x">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398227462148" ID="ID_403620791" MODIFIED="1398227464744" TEXT="widget"/>
+<node CREATED="1398227493396" ID="ID_1682048389" MODIFIED="1398400193135" TEXT="REF">
+<node CREATED="1398227494391" ID="ID_846480114" MODIFIED="1398400193137" TEXT="1">
+<node CREATED="1398227494759" ID="ID_1526299824" LINK="http://qt-project.org/doc/qt-5/gettingstartedqt.html" MODIFIED="1398227496967" TEXT="tut"/>
+</node>
+</node>
+<node CREATED="1398299541897" ID="ID_78988624" MODIFIED="1398426728041" TEXT="v-2.0">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398228889614" ID="ID_366616734" MODIFIED="1398426728043" TEXT="1">
+<node CREATED="1398228893537" ID="ID_975362415" MODIFIED="1398426728045" TEXT="Next">
+<node CREATED="1398228895982" ID="ID_1896250131" LINK="http://qt-project.org/doc/qt-5/gettingstartedqt.html#adding-user-interaction" MODIFIED="1398300058079" TEXT="=&gt; Adding User Interaction"/>
+</node>
+</node>
+<node CREATED="1398254640512" ID="ID_1318308339" MODIFIED="1398426728047" TEXT="2">
+<node CREATED="1398254641662" ID="ID_13653448" MODIFIED="1398426728053" TEXT="Add libs">
+<node CREATED="1398254645586" ID="ID_1681685825" MODIFIED="1398426728055" TEXT="1">
+<node CREATED="1398254652019" ID="ID_460114455" MODIFIED="1398426728057" TEXT="msvcprt.lib">
+<node CREATED="1398254671426" ID="ID_1005966549" MODIFIED="1398254675650" TEXT="=&gt; C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\lib"/>
+<node CREATED="1398254682770" ID="ID_903349619" MODIFIED="1398426728059" TEXT="REF">
+<node CREATED="1398254684867" ID="ID_1276812673" LINK="http://forums.mozillazine.org/viewtopic.php?f=42&amp;t=70783&amp;start=180" MODIFIED="1398254687429" TEXT="1"/>
+</node>
+</node>
+</node>
+<node CREATED="1398254646177" ID="ID_1456209004" MODIFIED="1398426728062" TEXT="2">
+<node CREATED="1398254844291" ID="ID_682465583" MODIFIED="1398426728065" TEXT="msvcrt.lib">
+<node CREATED="1398254848839" ID="ID_1358795730" MODIFIED="1398426728066" TEXT="from">
+<node CREATED="1398254850518" ID="ID_414015207" MODIFIED="1398254874097" TEXT="C:\Program Files\Microsoft_Visual_Studio_10.0\VC\lib"/>
+</node>
+<node CREATED="1398254875027" ID="ID_16535392" MODIFIED="1398426728068" TEXT="to">
+<node CREATED="1398254881353" ID="ID_515085054" MODIFIED="1398254881353" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\lib"/>
+</node>
+</node>
+</node>
+<node CREATED="1398254646739" ID="ID_1864844060" MODIFIED="1398426728070" TEXT="3">
+<node CREATED="1398254951485" ID="ID_39678683" MODIFIED="1398426728072" TEXT="oldnames.lib">
+<node CREATED="1398254953539" ID="ID_1141041737" MODIFIED="1398254955298" TEXT="SAME"/>
+</node>
+</node>
+<node CREATED="1398254647232" ID="ID_1607166241" MODIFIED="1398426728074" TEXT="4">
+<node CREATED="1398255014425" ID="ID_377459228" MODIFIED="1398426728078" TEXT="Kernel32.Lib">
+<node CREATED="1398254848839" ID="ID_1139830715" MODIFIED="1398426728086" TEXT="from">
+<node CREATED="1398255021923" ID="ID_1156662571" MODIFIED="1398255025600" TEXT="Win SDK"/>
+</node>
+<node CREATED="1398254875027" ID="ID_633422223" MODIFIED="1398426728087" TEXT="to">
+<node CREATED="1398254881353" ID="ID_839684178" MODIFIED="1398254881353" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\lib"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1398257438291" ID="ID_296119120" MODIFIED="1398426728409" TEXT="PROB">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398226838517" ID="ID_145995824" MODIFIED="1398296697880" TEXT="v-2.0_p1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398257439956" ID="ID_1857118587" MODIFIED="1398426728415" TEXT="make">
+<node CREATED="1398257441557" ID="ID_948455696" MODIFIED="1398257445519" TEXT="=&gt; error"/>
+<node CREATED="1398257446068" ID="ID_510276039" MODIFIED="1398426728418" TEXT="1">
+<node CREATED="1398257448276" ID="ID_171556266" MODIFIED="1398426728421" TEXT="nmake">
+<node CREATED="1398257466452" ID="ID_1256974119" MODIFIED="1398426728455" TEXT="line">
+<node CREATED="1398257467862" ID="ID_1960278779" MODIFIED="1398257468634" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\test_executables\test_executable s&gt;nmake  Microsoft(R) Program Maintenance Utility Version 10.00.30319.01 Copyright (C) Microsoft Corporation.  All rights reserved.          &quot;C:\Program Files\Microsoft_Visual_Studio_10.0\VC\bin\nmake.exe&quot; -f Make file.Release  Microsoft(R) Program Maintenance Utility Version 10.00.30319.01 Copyright (C) Microsoft Corporation.  All rights reserved.          cl -c -nologo -Zm200 -Zc:wchar_t -O2 -MD -GR -W3 -w34100 -w34189 -EHsc - DUNICODE -DWIN32 -DQT_NO_DEBUG -DQT_QUICK_LIB -DQT_QML_LIB -DQT_NETWORK_LIB -DQT _GUI_LIB -DQT_CORE_LIB -DQT_OPENGL_ES_2 -DQT_OPENGL_ES_2_ANGLE -DNDEBUG -I&quot;..\.. \..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\include&quot; -I&quot;..\..\..\..\..\PROGRAM S\Qt\Qt_5_2_1\5.2.1\msvc2010\include\QtQuick&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5 _2_1\5.2.1\msvc2010\include\QtQml&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\ msvc2010\include\QtNetwork&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc201 0\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\include\Q tANGLE&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\include\QtCore&quot; -I &quot;release&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\msvc2010\mkspecs\win32-ms vc2010&quot; -Forelease\ @C:\Users\IWABUC~1\AppData\Local\Temp\nmAFBF.tmp NMAKE : fatal error U1077: &apos;&quot;C:\Program Files\Microsoft_Visual_Studio_10.0\VC\bi n\cl.EXE&quot;&apos; : &#x30ea;&#x30bf;&#x30fc;&#x30f3; &#x30b3;&#x30fc;&#x30c9; &apos;0xc0000135&apos; Stop. NMAKE : fatal error U1077: &apos;&quot;C:\Program Files\Microsoft_Visual_Studio_10.0\VC\bi n\nmake.exe&quot;&apos; : &#x30ea;&#x30bf;&#x30fc;&#x30f3; &#x30b3;&#x30fc;&#x30c9; &apos;0x2&apos; Stop. "/>
+</node>
+</node>
+</node>
+<node CREATED="1398257446743" ID="ID_332987357" MODIFIED="1398426728458" TEXT="2">
+<node CREATED="1398257473236" ID="ID_365360455" MODIFIED="1398426728461" TEXT="mingmake">
+<node CREATED="1398257488963" ID="ID_259944985" MODIFIED="1398426728466" TEXT="line">
+<node CREATED="1398257490742" ID="ID_1568744845" MODIFIED="1398257491382" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\test_executables\test_executable s&gt;mingw32-make mingw32-make -f Makefile.Release mingw32-make[1]: Entering directory `C:/WORKS/WS/WS_Android_20130929_122122/Lear n_Qt/test_executables/test_executables&apos; Makefile.Release:63: *** missing separator.  Stop. mingw32-make[1]: Leaving directory `C:/WORKS/WS/WS_Android_20130929_122122/Learn _Qt/test_executables/test_executables&apos; mingw32-make: *** [release] Error 2 "/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398257727669" ID="ID_538308508" MODIFIED="1398426728468" TEXT="REF">
+<node CREATED="1398257729652" ID="ID_1538623715" MODIFIED="1398426728471" TEXT="1">
+<node CREATED="1398257730020" ID="ID_1519983748" LINK="http://stackoverflow.com/questions/10448555/missing-separator-error-in-makefile" MODIFIED="1398426728473" TEXT="QA">
+<node CREATED="1398257734276" ID="ID_903429306" MODIFIED="1398257776703" TEXT="=&gt; Qt itself might need to be compiled with the option being mentioned in this QA"/>
+</node>
+</node>
+</node>
+<node CREATED="1398260786948" ID="ID_1073254534" MODIFIED="1398260818627" TEXT="=&gt; qmake ~~&gt; use the one located in Qt/.../mingw..."/>
+</node>
+<node COLOR="#ff0000" CREATED="1398260450357" ID="ID_951870616" MODIFIED="1398426728483" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1398226838517" ID="ID_1306595756" MODIFIED="1398296708057" TEXT="v-2.0_p2">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398260454133" ID="ID_1246387457" MODIFIED="1398426728485" TEXT="mingw make">
+<node CREATED="1398260460294" ID="ID_887756080" MODIFIED="1398426728495" TEXT="line">
+<node CREATED="1398260462119" ID="ID_128545364" MODIFIED="1398260463986" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-1_v_2-0\D-1_v_2-0_widgets&gt;ming w32-make -f Makefile.Debug g++ -c -pipe -fno-keep-inline-dllexport -g -frtti -Wall -Wextra -fexceptions -mt hreads -DUNICODE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I . -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\..\..\. .\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot;..\..\..\..\..\ PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\ Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;debug&quot; -I&quot;.&quot; -I&quot;..\..\..\..\..\P ROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o debug\main.o main.cpp  g++ -c -pipe -fno-keep-inline-dllexport -g -frtti -Wall -Wextra -fexceptions -mt hreads -DUNICODE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I . -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\..\..\. .\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot;..\..\..\..\..\ PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\ Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;debug&quot; -I&quot;.&quot; -I&quot;..\..\..\..\..\P ROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o debug\notepad.o notep ad.cpp C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin\moc.exe -DUNICODE -DQT_WIDGET S_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -D__GNUC__ -DWIN32 -I. -I&quot;..\. .\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\..\..\..\..\PROG RAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot;..\..\..\..\..\PROGRAMS\ Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2 _1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;debug&quot; -I&quot;.&quot; -I&quot;..\..\..\..\..\PROGRAMS\Q t\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; notepad.h -o debug\moc_notepad.cp p g++ -c -pipe -fno-keep-inline-dllexport -g -frtti -Wall -Wextra -fexceptions -mt hreads -DUNICODE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I . -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\..\..\. .\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot;..\..\..\..\..\ PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\ Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;debug&quot; -I&quot;.&quot; -I&quot;..\..\..\..\..\P ROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o debug\moc_notepad.o d ebug\moc_notepad.cpp g++ -Wl,-subsystem,windows -mthreads -o debug\D-1_v_2-0_widgets.exe debug/main.o  debug/notepad.o debug/moc_notepad.o  -lglu32 -lopengl32 -lgdi32 -luser32 -lming w32 -lqtmaind -LC:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\lib -lQt5Widgetsd  -lQt5Guid -lQt5Cored "/>
+</node>
+</node>
+<node CREATED="1398260830037" ID="ID_1163401791" MODIFIED="1398260842385" TEXT="=&gt; &quot;...dll missing&quot;"/>
+<node CREATED="1398260739220" ID="ID_1566460831" MODIFIED="1398426728497" TEXT="REF">
+<node CREATED="1398260740952" ID="ID_1816104113" MODIFIED="1398426728498" TEXT="1">
+<node CREATED="1398260741655" ID="ID_1820286380" LINK="https://www.google.co.jp/search?q=qt+windows+mingw+%22libgcc_s_dw2-1.dll%22+missing&amp;oq=qt+windows+mingw+%22libgcc_s_dw2-1.dll%22+missing&amp;aqs=chrome..69i57.17695j0j1&amp;sourceid=chrome&amp;es_sm=122&amp;ie=UTF-8" MODIFIED="1398260747119" TEXT="search"/>
+</node>
+</node>
+<node CREATED="1398265356526" ID="ID_1697938517" MODIFIED="1398426728503" TEXT="TRY">
+<node CREATED="1398265358143" ID="ID_1707232742" MODIFIED="1398426728505" TEXT="mingw make in qt directories">
+<node CREATED="1398265362798" ID="ID_1830213040" MODIFIED="1398265370361" TEXT="=&gt; add path"/>
+</node>
+<node COLOR="#ff0000" CREATED="1398265383629" ID="ID_981572819" MODIFIED="1398426728508" TEXT="PROB">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1398226838517" ID="ID_175230372" MODIFIED="1398296718622" TEXT="v-2.0_p2_p1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398296761007" ID="ID_1979431411" MODIFIED="1398426728510" TEXT="ming w32-make mingw32-make -f Makefile.Release">
+<node CREATED="1398265385548" ID="ID_653128497" MODIFIED="1398426728516" TEXT="line">
+<node CREATED="1398265386926" ID="ID_1256080950" MODIFIED="1398265388472" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-1_v_2-0\D-1_v_2-0_widgets&gt;ming w32-make mingw32-make -f Makefile.Release mingw32-make[1]: Entering directory &apos;C:/WORKS/WS/WS_Android_20130929_122122/Lear n_Qt/D-1_v_2-0/D-1_v_2-0_widgets&apos; g++ -c -pipe -fno-keep-inline-dllexport -O2 -frtti -Wall -Wextra -fexceptions -m threads -DUNICODE -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT _NEEDS_QMAIN -I. -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include &quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot; ..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\ ..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;release&quot; -I&quot;.&quot; -I &quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o rele ase\main.o main.cpp g++ -c -pipe -fno-keep-inline-dllexport -O2 -frtti -Wall -Wextra -fexceptions -m threads -DUNICODE -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT _NEEDS_QMAIN -I. -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include &quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot; ..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\ ..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;release&quot; -I&quot;.&quot; -I &quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o rele ase\notepad.o notepad.cpp C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin\moc.exe -DUNICODE -DQT_NO_DEB UG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -D__GNUC__ -DWIN 32 -I. -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\.. \..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot;..\..\..\. .\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROG RAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;release&quot; -I&quot;.&quot; -I&quot;..\..\..\ ..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; notepad.h -o rele ase\moc_notepad.cpp g++ -c -pipe -fno-keep-inline-dllexport -O2 -frtti -Wall -Wextra -fexceptions -m threads -DUNICODE -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT _NEEDS_QMAIN -I. -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include &quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtWidgets&quot; -I&quot; ..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\ ..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;release&quot; -I&quot;.&quot; -I &quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o rele ase\moc_notepad.o release\moc_notepad.cpp g++ -Wl,-s -Wl,-subsystem,windows -mthreads -o release\D-1_v_2-0_widgets.exe rel ease/main.o release/notepad.o release/moc_notepad.o  -lglu32 -lopengl32 -lgdi32 -luser32 -lmingw32 -lqtmain -LC:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\lib  -lQt5Widgets -lQt5Gui -lQt5Core mingw32-make[1]: Leaving directory &apos;C:/WORKS/WS/WS_Android_20130929_122122/Learn _Qt/D-1_v_2-0/D-1_v_2-0_widgets&apos;"/>
+</node>
+</node>
+<node CREATED="1398299491545" ID="ID_1970196340" MODIFIED="1398299503420" TEXT="=&gt; to ">
+<arrowlink DESTINATION="ID_338293818" ENDARROW="Default" ENDINCLINATION="124;0;" ID="Arrow_ID_537411436" STARTARROW="None" STARTINCLINATION="124;0;"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1398265778316" ID="ID_338293818" MODIFIED="1398426728522" TEXT="PROB">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_338293818" ENDARROW="Default" ENDINCLINATION="124;0;" ID="Arrow_ID_537411436" SOURCE="ID_1970196340" STARTARROW="None" STARTINCLINATION="124;0;"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1398226838517" ID="ID_925662960" MODIFIED="1398296788540" TEXT="v-2.0_p2_p2">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398265780782" ID="ID_490657236" MODIFIED="1398265814265" TEXT="&quot;&#x30d7;&#x30ed;&#x30b7;&#x30fc;&#x30b8;&#x30e3;&#x30a8;&#x30f3;&#x30c8;&#x30ea;&#x30fc;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x304c;&#x3001;Qt5Core.dll &#x304b;&#x3089;&#x898b;&#x3064;&#x304b;&#x308a;&#x307e;&#x305b;&#x3093;&#x3067;&#x3057;&#x305f;&quot;"/>
+<node CREATED="1398266333117" ID="ID_1174137286" MODIFIED="1398426728526" TEXT="REF">
+<node CREATED="1398266336239" ID="ID_13615043" MODIFIED="1398426728527" TEXT="1">
+<node CREATED="1398266337119" ID="ID_978038570" LINK="http://stackoverflow.com/questions/14702879/exe-file-does-not-run-without-qtcreator" MODIFIED="1398267193033" TEXT="QA">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_978038570" ENDARROW="Default" ENDINCLINATION="130;0;" ID="Arrow_ID_1690673282" SOURCE="ID_1077504787" STARTARROW="None" STARTINCLINATION="130;0;"/>
+</node>
+</node>
+<node CREATED="1398266345933" ID="ID_1874183537" MODIFIED="1398426728529" TEXT="2">
+<node CREATED="1398266346510" ID="ID_1393256015" LINK="https://www.google.co.jp/search?q=qt+windows+mingw+%22qt5core.dll%22+missing&amp;oq=qt+windows+mingw+%22qt5core.dll%22+missing&amp;aqs=chrome..69i57.16463j0j4&amp;sourceid=chrome&amp;es_sm=122&amp;ie=UTF-8#q=qt+windows+mingw+%22qt5core.dll%22" MODIFIED="1398266349325" TEXT="search"/>
+</node>
+</node>
+<node CREATED="1398267186780" ID="ID_1077504787" MODIFIED="1398426728532" TEXT="TRY">
+<arrowlink DESTINATION="ID_978038570" ENDARROW="Default" ENDINCLINATION="130;0;" ID="Arrow_ID_1690673282" STARTARROW="None" STARTINCLINATION="130;0;"/>
+<node CREATED="1398226838517" ID="ID_438809326" MODIFIED="1398296802804" TEXT="v-2.0_p2_p2-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#ff0000" CREATED="1398267195436" ID="ID_175028709" MODIFIED="1398426728537" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1398226838517" ID="ID_407697898" MODIFIED="1398296812396" TEXT="v-2.0_p2_p2-t1_p1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398265780782" ID="ID_1927961513" MODIFIED="1398265814265" TEXT="&quot;&#x30d7;&#x30ed;&#x30b7;&#x30fc;&#x30b8;&#x30e3;&#x30a8;&#x30f3;&#x30c8;&#x30ea;&#x30fc;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x304c;&#x3001;Qt5Core.dll &#x304b;&#x3089;&#x898b;&#x3064;&#x304b;&#x308a;&#x307e;&#x305b;&#x3093;&#x3067;&#x3057;&#x305f;&quot;"/>
+<node CREATED="1398267206221" ID="ID_889738662" MODIFIED="1398426728542" TEXT="REF">
+<node CREATED="1398267208351" ID="ID_958188342" MODIFIED="1398426728544" TEXT="1">
+<node CREATED="1398267208831" ID="ID_81793761" LINK="https://www.google.co.jp/search?q=qt+windows+mingw+%22qt5core.dll%22+missing&amp;oq=qt+windows+mingw+%22qt5core.dll%22+missing&amp;aqs=chrome..69i57.16463j0j4&amp;sourceid=chrome&amp;es_sm=122&amp;ie=UTF-8#q=qt+windows+mingw+%22qt5core.dll%22+%22testbit%40qbitarray%22" MODIFIED="1398267218283" TEXT="search"/>
+</node>
+<node CREATED="1398267548796" ID="ID_1210681279" MODIFIED="1398426728546" TEXT="2">
+<node CREATED="1398267549779" ID="ID_905581256" LINK="http://qt-project.org/forums/viewthread/41245" MODIFIED="1398426728548" TEXT="QA">
+<node CREATED="1398267556221" ID="ID_433424937" MODIFIED="1398267559385" TEXT="suggestion"/>
+</node>
+</node>
+<node CREATED="1398268127021" ID="ID_473572737" MODIFIED="1398426728549" TEXT="3">
+<node CREATED="1398268128143" ID="ID_608302265" MODIFIED="1398426728551" TEXT="Qt Creator output">
+<node CREATED="1398268137071" ID="ID_520979497" MODIFIED="1398426728579" TEXT="line">
+<node CREATED="1398268139805" ID="ID_378342523" MODIFIED="1398268142697" TEXT="C:/WORKS/PROGRAMS/Qt/Qt_5_2_1/Tools/mingw48_32/bin/mingw32-make -f Makefile.Debug mingw32-make[1]: Entering directory &apos;C:/WORKS/WS/WS_Android_20130929_122122/Learn_Qt/test_executables/build-test_executables-Desktop_Qt_5_2_1_MinGW_32bit-Debug&apos; mingw32-make[1]: Nothing to be done for &apos;first&apos;. mingw32-make[1]: Leaving directory &apos;C:/WORKS/WS/WS_Android_20130929_122122/Learn_Qt/test_executables/build-test_executables-Desktop_Qt_5_2_1_MinGW_32bit-Debug&apos; 22:24:50: &#x30d7;&#x30ed;&#x30bb;&#x30b9; &quot;C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\Tools\mingw48_32\bin\mingw32-make.exe&quot; &#x306f;&#x6b63;&#x5e38;&#x306b;&#x7d42;&#x4e86;&#x3057;&#x307e;&#x3057;&#x305f;&#x3002; 22:24:50: &#x7d4c;&#x904e;&#x6642;&#x9593;: 00:02"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398267564476" ID="ID_129326929" MODIFIED="1398426728584" TEXT="TRY">
+<node CREATED="1398226838517" ID="ID_1910378807" MODIFIED="1398299718700" TEXT="v-2.0_p2_p2-t1_p1-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398267566509" ID="ID_897350722" MODIFIED="1398267574378" TEXT="re-do from qmake"/>
+<node CREATED="1398296918728" ID="ID_477314694" MODIFIED="1398426728590" TEXT="REF">
+<node CREATED="1398296924104" ID="ID_1989543106" MODIFIED="1398426728593" TEXT="1">
+<node CREATED="1398296924555" ID="ID_1191660817" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-1_v_2-0" MODIFIED="1398426728598" TEXT="Qt project dir">
+<node CREATED="1398298052442" ID="ID_1669238070" MODIFIED="1398298162725" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-1_v_2-0\D-1_v_2-0_widgets"/>
+<node CREATED="1398298052442" ID="ID_72506211" MODIFIED="1398298166389" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-1_v_2-0\D-1_v_2-0_widgets"/>
+</node>
+</node>
+<node CREATED="1398297026041" ID="ID_1963456808" MODIFIED="1398426728600" TEXT="2">
+<node CREATED="1398297026795" ID="ID_1978447826" MODIFIED="1398426728601" TEXT="qmake.exe =&gt;">
+<node CREATED="1398297072778" ID="ID_411465276" LINK="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin" MODIFIED="1398297079723" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin"/>
+</node>
+</node>
+<node CREATED="1398297085945" ID="ID_1450427834" MODIFIED="1398426728603" TEXT="3">
+<node CREATED="1398297087323" ID="ID_1639953620" MODIFIED="1398426728604" TEXT="mingw32-make.exe">
+<node CREATED="1398297209673" ID="ID_542691768" LINK="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\Tools\mingw48_32\bin" MODIFIED="1398297212812" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\Tools\mingw48_32\bin"/>
+</node>
+</node>
+<node CREATED="1398297135417" ID="ID_1291801309" MODIFIED="1398426728607" TEXT="4">
+<node CREATED="1398297136364" ID="ID_260499221" MODIFIED="1398426728608" TEXT="dlls">
+<node CREATED="1398297145864" ID="ID_829981303" MODIFIED="1398426728611" TEXT="1">
+<node CREATED="1398297072778" ID="ID_1682041578" LINK="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin" MODIFIED="1398426728612" TEXT="...\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin">
+<node CREATED="1398297167329" MODIFIED="1398297167329" TEXT="Qt5Core.dll"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398297324377" ID="ID_639232280" MODIFIED="1398426728620" TEXT="steps">
+<node CREATED="1398297326459" ID="ID_945489038" MODIFIED="1398426728622" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398297331769" ID="ID_1168225096" MODIFIED="1398426728624" TEXT="EDIT">
+<node CREATED="1398297334395" ID="ID_1968408573" MODIFIED="1398426728627" TEXT="a.bat">
+<node CREATED="1398297338809" ID="ID_403830889" MODIFIED="1398426728628" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398297345977" ID="ID_1362976348" MODIFIED="1398297346614" TEXT="QT_BIN"/>
+</node>
+<node CREATED="1398297431864" ID="ID_246771302" MODIFIED="1398426728630" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398297087323" ID="ID_1559976735" MODIFIED="1398297205446" TEXT="mingw32-make.exe"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398297549417" ID="ID_315076217" MODIFIED="1398426728632" TEXT="2">
+<node CREATED="1398298011033" ID="ID_738385129" MODIFIED="1398426728633" TEXT="re-open">
+<node CREATED="1398298013627" ID="ID_1781103359" MODIFIED="1398298020053" TEXT="command prompt"/>
+</node>
+</node>
+<node CREATED="1398298003225" ID="ID_279677180" MODIFIED="1398426728635" TEXT="3">
+<node CREATED="1398297551914" ID="ID_1547448196" MODIFIED="1398426728636" TEXT="EXEC">
+<node CREATED="1398297555387" ID="ID_1959776212" MODIFIED="1398297557222" TEXT="qmake"/>
+</node>
+</node>
+<node CREATED="1398298004113" ID="ID_1357334388" MODIFIED="1398426728638" TEXT="4">
+<node CREATED="1398297551914" ID="ID_1829752521" MODIFIED="1398426728640" TEXT="EXEC">
+<node CREATED="1398297087323" ID="ID_474847432" MODIFIED="1398297205446" TEXT="mingw32-make.exe"/>
+</node>
+</node>
+<node CREATED="1398298004715" ID="ID_236881819" MODIFIED="1398426728643" TEXT="5">
+<node CREATED="1398297551914" ID="ID_1666027373" MODIFIED="1398426728645" TEXT="EXEC">
+<node CREATED="1398298377438" ID="ID_9963309" MODIFIED="1398298377438" TEXT="D-1_v_2-0_widgets.exe"/>
+</node>
+<node COLOR="#ff0000" CREATED="1398298380873" ID="ID_1541723171" MODIFIED="1398426728648" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1398226838517" ID="ID_1999298940" MODIFIED="1398299735117" TEXT="v-2.0_p2_p2-t1_p1-t1_p1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398298397224" ID="ID_462864899" MODIFIED="1398298426085" TEXT="&quot;Qt5Core.dll&#x304c;&#x306a;&#x3044;&#x305f;&#x3081;&#x3001;&#x3001;&#x3001;&quot;"/>
+<node CREATED="1398298434521" ID="ID_179453738" MODIFIED="1398426728653" TEXT="TRY">
+<node CREATED="1398226838517" ID="ID_874530640" MODIFIED="1398299744430" TEXT="v-2.0_p2_p2-t1_p1-t1_p1-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1398298436809" ID="ID_583078969" MODIFIED="1398426728657" TEXT="steps">
+<node CREATED="1398298440889" ID="ID_432336013" MODIFIED="1398426728659" TEXT="1">
+<node CREATED="1398298442299" ID="ID_401413247" MODIFIED="1398426728661" TEXT="new dir ">
+<node CREATED="1398298444139" ID="ID_587441447" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-1_v_2-0\D-1_v_2-0_widgets\temp" MODIFIED="1398298456407" TEXT="temp"/>
+</node>
+</node>
+<node CREATED="1398298473049" ID="ID_1822461951" MODIFIED="1398426728663" TEXT="2">
+<node CREATED="1398298477146" ID="ID_1136037719" MODIFIED="1398426728664" TEXT="C/P">
+<node CREATED="1398298377438" ID="ID_664321232" MODIFIED="1398298377438" TEXT="D-1_v_2-0_widgets.exe"/>
+</node>
+</node>
+<node CREATED="1398298774650" ID="ID_1412890218" MODIFIED="1398426728667" TEXT="3">
+<node CREATED="1398298775338" ID="ID_247519307" MODIFIED="1398426728668" TEXT="C/P">
+<node CREATED="1398298781177" ID="ID_1734548630" MODIFIED="1398426728683" TEXT="dlls">
+<node CREATED="1398297326459" ID="ID_1088086873" MODIFIED="1398426728685" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398298814446" ID="ID_692036300" MODIFIED="1398426728686" TEXT="Qt5Core.dll">
+<node CREATED="1398298825678" ID="ID_1210448858" MODIFIED="1398298825678" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin"/>
+</node>
+</node>
+<node CREATED="1398297549417" ID="ID_1831239193" MODIFIED="1398426728688" TEXT="2">
+<node CREATED="1398298842377" ID="ID_604310785" MODIFIED="1398426728690" TEXT="libgcc_s_dw2-1.dll">
+<node CREATED="1398298825678" ID="ID_1873814679" MODIFIED="1398298825678" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin"/>
+</node>
+</node>
+<node CREATED="1398298003225" ID="ID_1811152811" MODIFIED="1398426728691" TEXT="3">
+<node CREATED="1398298904921" ID="ID_374628460" MODIFIED="1398298909894" TEXT="libwinpthread-1.dll"/>
+</node>
+<node CREATED="1398298004113" ID="ID_1645794288" MODIFIED="1398426728692" TEXT="4">
+<node CREATED="1398298943529" ID="ID_924406572" MODIFIED="1398298949237" TEXT="libstdc++-6.dll"/>
+</node>
+<node CREATED="1398298004715" ID="ID_1543569623" MODIFIED="1398426728694" TEXT="5">
+<node CREATED="1398299070537" ID="ID_567950417" MODIFIED="1398299078022" TEXT="icuin51.dll"/>
+</node>
+<node CREATED="1398299113354" ID="ID_525673908" MODIFIED="1398426728695" TEXT="6">
+<node CREATED="1398299115051" ID="ID_951858276" MODIFIED="1398299122326" TEXT="icuuc51.dll"/>
+</node>
+<node CREATED="1398299155897" ID="ID_333937729" MODIFIED="1398426728696" TEXT="7">
+<node CREATED="1398299157787" ID="ID_341412820" MODIFIED="1398299162469" TEXT="icudt51.dll"/>
+</node>
+<node CREATED="1398299190185" ID="ID_104671248" MODIFIED="1398426728698" TEXT="8">
+<node CREATED="1398299191339" ID="ID_1111326546" MODIFIED="1398299197477" TEXT="Qt5Widgets.dll"/>
+</node>
+<node CREATED="1398299224921" ID="ID_1720210365" MODIFIED="1398426728700" TEXT="9">
+<node CREATED="1398299225797" ID="ID_1044610252" MODIFIED="1398299231556" TEXT="Qt5Gui.dll"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#006699" CREATED="1398299438841" ID="ID_440744179" MODIFIED="1398426728701" TEXT="SOLVED">
+<node CREATED="1398299443801" ID="ID_1573126374" MODIFIED="1398299451718" TEXT="exe =&gt; started!!"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398300020586" ID="ID_259849128" MODIFIED="1398400194249" TEXT="v-2.1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398228895982" ID="ID_441409947" LINK="http://qt-project.org/doc/qt-5/gettingstartedqt.html#adding-user-interaction" MODIFIED="1398300058079" TEXT="=&gt; Adding User Interaction"/>
+</node>
+</node>
+<node CREATED="1398306670594" ID="ID_85713599" MODIFIED="1398400194256" TEXT="v-3.x">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398306673604" ID="ID_480942018" MODIFIED="1398306679679" TEXT="menu widget"/>
+<node CREATED="1398306680466" ID="ID_452356123" MODIFIED="1398400194259" TEXT="REF">
+<node CREATED="1398306681428" ID="ID_69317744" MODIFIED="1398400194260" TEXT="1">
+<node CREATED="1398306698435" ID="ID_746307716" LINK="http://qt-project.org/doc/qt-5/gettingstartedqt.html#adding-menu-items" MODIFIED="1398306704079" TEXT="Adding Menu Items"/>
+</node>
+</node>
+<node CREATED="1398308338306" ID="ID_324178365" MODIFIED="1398400194263" TEXT="v-3.0">
+<icon BUILTIN="button_ok"/>
+<node COLOR="#ff0000" CREATED="1398308340595" ID="ID_390925907" MODIFIED="1398400194266" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1398308341940" ID="ID_1472964500" MODIFIED="1398400194269" TEXT="menubar">
+<node CREATED="1398308343988" ID="ID_1947231375" MODIFIED="1398308353184" TEXT="=&gt; &quot;File&quot; label not shown"/>
+</node>
+<node COLOR="#006699" CREATED="1398314427940" ID="ID_638946803" MODIFIED="1398400194271" TEXT="SOLVED">
+<node CREATED="1398314431556" ID="ID_1813297745" MODIFIED="1398400194272" TEXT="QWidget::sizePolicy::&#x6a2a;/&#x7e26;&#x65b9;&#x5411;&#x306e;&#x30b9;&#x30c8;&#x30ec;&#x30c3;&#x30c1;">
+<node CREATED="1398314459188" ID="ID_378784154" MODIFIED="1398314468897" TEXT="=&gt; add number (default=0)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398318999530" ID="ID_49648846" MODIFIED="1398400194274" TEXT="V-3.1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398319001500" ID="ID_795619690" MODIFIED="1398319007320" TEXT="&quot;save&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1398328895908" ID="ID_1059634924" MODIFIED="1398409782477" TEXT="REF">
+<node CREATED="1398328897573" ID="ID_83072756" MODIFIED="1398328898724" TEXT="1">
+<node CREATED="1398328898725" ID="ID_1821782898" LINK="http://qt-project.org/doc/qt-5/gettingstartedqml.html" MODIFIED="1398328900650" TEXT="tut"/>
+</node>
+<node CREATED="1398339640967" ID="ID_139099489" MODIFIED="1398339641367" TEXT="2">
+<node CREATED="1398339641369" ID="ID_420621773" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\examples_qt\examples\quick\tutorials\gettingStartedQml" MODIFIED="1398339646479" TEXT="project folder">
+<node CREATED="1398339647337" ID="ID_1754847771" MODIFIED="1398339647337" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\examples_qt\examples\quick\tutorials\gettingStartedQml"/>
+<node CREATED="1398339647337" ID="ID_272933327" MODIFIED="1398339658930" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\examples_qt\examples\quick\tutorials\gettingStartedQml"/>
+</node>
+</node>
+<node CREATED="1398341516327" ID="ID_945995978" MODIFIED="1398349110137" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398341517401" ID="ID_894600210" LINK="https://developer.meego.com/guides/create-your-first-qml-application" MODIFIED="1398349106261" TEXT="tut">
+<node CREATED="1398341519815" ID="ID_1108634506" MODIFIED="1398341524227" TEXT="&lt;-- good"/>
+</node>
+</node>
+<node CREATED="1398349083449" ID="ID_1377146801" MODIFIED="1398349084620" TEXT="4">
+<node CREATED="1398349085273" ID="ID_1723936138" LINK="https://qt-project.org/doc/qt-5/qmlapplications.html" MODIFIED="1398349094609" TEXT="tut">
+<node CREATED="1398349096212" ID="ID_1509570396" LINK="https://qt-project.org/doc/qt-5/qmlapplications.html" MODIFIED="1398349114681" TEXT="https://qt-project.org/doc/qt-5/qmlapplications.html">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1509570396" ENDARROW="Default" ENDINCLINATION="432;0;" ID="Arrow_ID_1990815884" SOURCE="ID_951262809" STARTARROW="None" STARTINCLINATION="432;0;"/>
+</node>
+</node>
+</node>
+<node CREATED="1398436639285" ID="ID_1282444833" MODIFIED="1398436641557" TEXT="5">
+<node CREATED="1398436641559" ID="ID_290124441" MODIFIED="1398436643729" TEXT="Qt folder">
+<node CREATED="1398327655559" ID="ID_872162530" LINK="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\examples" MODIFIED="1398436655733" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\examples"/>
+</node>
+</node>
+</node>
+<node CREATED="1398327631782" ID="ID_322419041" MODIFIED="1398409810743" TEXT="D-2">
+<node CREATED="1398327636100" ID="ID_1528713354" MODIFIED="1398327642145" TEXT="qt examples"/>
+<node CREATED="1398327649909" ID="ID_975583208" MODIFIED="1398409803430" TEXT="REF">
+<node CREATED="1398327651158" ID="ID_1896171606" MODIFIED="1398409803435" TEXT="1">
+<node CREATED="1398327651527" ID="ID_1011178261" LINK="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\examples" MODIFIED="1398409803437" TEXT="folder">
+<node CREATED="1398327655559" ID="ID_1448394202" MODIFIED="1398327655559" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\examples"/>
+</node>
+</node>
+</node>
+<node CREATED="1398327669236" FOLDED="true" ID="ID_1424242940" MODIFIED="1398436661996" TEXT="v-1.0">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398327927604" FOLDED="true" ID="ID_1641024593" MODIFIED="1398436661993" TEXT="REF">
+<node CREATED="1398327929170" FOLDED="true" ID="ID_1777655731" MODIFIED="1398436661991" TEXT="1">
+<node CREATED="1398327671667" ID="ID_80186502" LINK="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\examples\designer\worldtimeclockbuilder" MODIFIED="1398327675963" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\examples\designer\worldtimeclockbuilder"/>
+</node>
+<node CREATED="1398327935875" FOLDED="true" ID="ID_216163506" MODIFIED="1398436661992" TEXT="2">
+<node CREATED="1398327939122" ID="ID_1654796922" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\examples_qt\examples\designer\worldtimeclockbuilder" MODIFIED="1398327941921" TEXT="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\examples_qt\examples\designer\worldtimeclockbuilder"/>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1259988340" MODIFIED="1398436661995" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1643690801" MODIFIED="1398436661993" TEXT="TEST">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1367381931132" ID="ID_252686305" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1267321246" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_224718322" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1619980843" MODIFIED="1398436661994" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_508918323" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1398335611800" ID="ID_994734982" MODIFIED="1398409803464" TEXT="SEGWAY-1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398335619080" ID="ID_1891392654" MODIFIED="1398409803465" TEXT="install">
+<node CREATED="1398335621961" ID="ID_965593294" MODIFIED="1398335633362" TEXT="=&gt; JDK7u10 &lt;"/>
+</node>
+<node CREATED="1398335638181" ID="ID_1428678745" MODIFIED="1398409803468" TEXT="REF">
+<node CREATED="1398335639655" ID="ID_651928746" MODIFIED="1398409803470" TEXT="1">
+<node CREATED="1398335640294" ID="ID_1927805624" LINK="http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html" MODIFIED="1398335651335" TEXT="official dl site"/>
+</node>
+<node CREATED="1398339150806" ID="ID_1772848974" MODIFIED="1398409803472" TEXT="2">
+<node CREATED="1398339151447" ID="ID_565627416" LINK="C:\WORKS\PROGRAMS\JDK_7_u_55" MODIFIED="1398339156405" TEXT="install folder"/>
+</node>
+</node>
+</node>
+<node CREATED="1398328885443" FOLDED="true" ID="ID_743877704" MODIFIED="1398436612749" TEXT="v-2.x">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1398328893220" FOLDED="true" ID="ID_1529162838" MODIFIED="1398409805800" TEXT="text editor">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1398409695030" ID="ID_1639517782" MODIFIED="1398409702516" TEXT="=&gt; in later version"/>
+<node CREATED="1398409703512" ID="ID_1758662309" MODIFIED="1398409726116" TEXT="=&gt; let&apos;s learn how to show image, first"/>
+</node>
+<node CREATED="1398341579240" FOLDED="true" ID="ID_1262716272" MODIFIED="1398436612744" TEXT="v-2.0">
+<node CREATED="1398339545622" FOLDED="true" ID="ID_288184517" MODIFIED="1398436612743" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398339546648" FOLDED="true" ID="ID_852119654" MODIFIED="1398436612742" TEXT="build">
+<node CREATED="1398339562536" ID="ID_534207549" LINK="http://qt-project.org/doc/qt-5/gettingstartedqml.html#running-the-text-editor" MODIFIED="1398339568724" TEXT="filedialog"/>
+</node>
+</node>
+<node CREATED="1398340357623" FOLDED="true" ID="ID_877397624" MODIFIED="1398436612743" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398340358137" ID="ID_325721117" MODIFIED="1398340362963" TEXT="run text editor"/>
+</node>
+</node>
+<node CREATED="1398341593303" FOLDED="true" ID="ID_202834341" MODIFIED="1398426721423" TEXT="v-2.1">
+<node CREATED="1398341596887" ID="ID_951262809" MODIFIED="1398349114682" TEXT="write code">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1509570396" ENDARROW="Default" ENDINCLINATION="432;0;" ID="Arrow_ID_1990815884" STARTARROW="None" STARTINCLINATION="432;0;"/>
+</node>
+<node CREATED="1398401315314" ID="ID_1337609514" MODIFIED="1398401321807" TEXT="=&gt; &quot;Rectangle&quot;"/>
+<node CREATED="1398400145377" FOLDED="true" ID="ID_719766202" MODIFIED="1398426721417" TEXT="REF">
+<node CREATED="1398400146899" FOLDED="true" ID="ID_793558010" MODIFIED="1398426721413" TEXT="1">
+<node CREATED="1398400147220" FOLDED="true" ID="ID_1229293684" LINK="https://qt-project.org/doc/qt-5/qmlfirststeps.html" MODIFIED="1398426721412" TEXT="tut">
+<node CREATED="1398400156434" ID="ID_847153704" MODIFIED="1398400158702" TEXT="&quot;First Steps with QML&quot;"/>
+</node>
+</node>
+<node CREATED="1398400371602" FOLDED="true" ID="ID_436189873" MODIFIED="1398426721414" TEXT="2">
+<node CREATED="1398400372068" ID="ID_1692923149" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-2\Qml_TextEditor" MODIFIED="1398400375909" TEXT="Folder"/>
+</node>
+<node CREATED="1398400382369" FOLDED="true" ID="ID_867311465" MODIFIED="1398426721415" TEXT="3">
+<node CREATED="1398400382899" FOLDED="true" ID="ID_1744312215" MODIFIED="1398426721414" TEXT="command line">
+<node CREATED="1398400386612" ID="ID_1202673135" MODIFIED="1398400393151" TEXT="pushd C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-2\Qml_TextEditor"/>
+<node CREATED="1398400408641" ID="ID_1942518214" MODIFIED="1398400465855" TEXT="Cprompt [ $t ] $n::D-2\Qml_TextEditor $g"/>
+<node CREATED="1398400501958" MODIFIED="1398400501958" TEXT="qmlscene main.qml"/>
+</node>
+</node>
+</node>
+<node CREATED="1398401324195" FOLDED="true" ID="ID_926369177" MODIFIED="1398426721417" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398401325412" ID="ID_1678242776" MODIFIED="1398401326735" TEXT="coding"/>
+</node>
+<node CREATED="1398401327778" FOLDED="true" ID="ID_1301748113" MODIFIED="1398426721418" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398401328212" ID="ID_1505965584" MODIFIED="1398401331727" TEXT="qmlscene"/>
+</node>
+<node CREATED="1398401332594" FOLDED="true" ID="ID_1880137167" MODIFIED="1398426721419" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398401333316" ID="ID_1365711283" MODIFIED="1398401341199" TEXT="qmake &amp; mmake.bat"/>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1568208034" MODIFIED="1398426721422" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1429832659" MODIFIED="1398426721419" TEXT="TEST">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1367381931132" ID="ID_1938424462" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1589705525" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_796645895" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1029214401" MODIFIED="1398426721420" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1069634967" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1398404710183" FOLDED="true" ID="ID_1638989761" MODIFIED="1398426720360" TEXT="v-2.2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398404730134" ID="ID_1498815251" LINK="https://qt-project.org/doc/qt-5/qmlfirststeps.html#handling-user-input" MODIFIED="1398404735901" TEXT="&quot;Handling User Input&quot;"/>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_153653984" MODIFIED="1398426720359" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_260277280" MODIFIED="1398426720357" TEXT="TEST">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1367381931132" ID="ID_1601649922" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_817873932" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1540564862" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1261496091" MODIFIED="1398426720358" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_288687572" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1398407375959" FOLDED="true" ID="ID_414445203" MODIFIED="1398436612748" TEXT="v-2.3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398407392199" ID="ID_812841939" LINK="https://qt-project.org/doc/qt-5/qmlfirststeps.html#animations" MODIFIED="1398407398716" TEXT="&quot;Animations&quot;"/>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_122374071" MODIFIED="1398436612747" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_104557672" MODIFIED="1398436612745" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1553132304" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_839906290" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1205117480" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_818367127" MODIFIED="1398436612746" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_546570942" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1398408934876" FOLDED="true" ID="ID_343284247" MODIFIED="1398436609015" TEXT="v-2.4">
+<node CREATED="1398408943911" ID="ID_568748044" LINK="https://qt-project.org/doc/qt-5/qmlfirststeps.html#defining-custom-qml-types-for-re-use" MODIFIED="1398409122704" TEXT="&quot;Custom QML Types&quot;"/>
+</node>
+</node>
+<node CREATED="1398409816631" FOLDED="true" ID="ID_2020815" MODIFIED="1398436600096" TEXT="v-3.x">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398409821048" ID="ID_994785806" MODIFIED="1398409824389" TEXT="show image files"/>
+<node CREATED="1398410637528" FOLDED="true" ID="ID_1179312041" MODIFIED="1398436600069" TEXT="REF">
+<node CREATED="1398410638473" FOLDED="true" ID="ID_93996042" MODIFIED="1398436600068" TEXT="1">
+<node CREATED="1398410638889" ID="ID_1184280428" LINK="http://qt-project.org/doc/qt-4.8/qml-image.html" MODIFIED="1398410651319" TEXT="&quot;Image&quot;"/>
+</node>
+<node CREATED="1398410976184" FOLDED="true" ID="ID_1378677586" MODIFIED="1398436600069" TEXT="2">
+<node CREATED="1398410976730" ID="ID_1284702887" LINK="http://qt-project.org/forums/viewthread/12395" MODIFIED="1398411305337" TEXT="dir list">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1284702887" ENDARROW="Default" ENDINCLINATION="62;0;" ID="Arrow_ID_851622507" SOURCE="ID_255935104" STARTARROW="None" STARTINCLINATION="62;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1284702887" ENDARROW="Default" ENDINCLINATION="62;0;" ID="Arrow_ID_342080438" SOURCE="ID_892063255" STARTARROW="None" STARTINCLINATION="62;0;"/>
+</node>
+</node>
+</node>
+<node CREATED="1398409828200" FOLDED="true" ID="ID_778280751" MODIFIED="1398436600070" TEXT="v-3.0">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398410960952" ID="ID_400839049" MODIFIED="1398410964476" TEXT="display image"/>
+</node>
+<node CREATED="1398410965704" FOLDED="true" ID="ID_265469279" MODIFIED="1398436600071" TEXT="v-3.1">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1398410968871" ID="ID_255935104" MODIFIED="1398411305339" TEXT="show dir list">
+<arrowlink DESTINATION="ID_1284702887" ENDARROW="Default" ENDINCLINATION="62;0;" ID="Arrow_ID_851622507" STARTARROW="None" STARTINCLINATION="62;0;"/>
+</node>
+<node CREATED="1398411310136" ID="ID_6147270" MODIFIED="1398411319796" TEXT="=&gt; only 1 item shown in the listview"/>
+<node CREATED="1398411320360" ID="ID_1289046104" MODIFIED="1398411352936" TEXT="=&gt; let&apos;s learn &quot;ListView&quot; beforehand">
+<arrowlink DESTINATION="ID_1840165748" ENDARROW="Default" ENDINCLINATION="299;0;" ID="Arrow_ID_1053833753" STARTARROW="None" STARTINCLINATION="299;0;"/>
+</node>
+</node>
+<node CREATED="1398411346856" FOLDED="true" ID="ID_1840165748" MODIFIED="1398436600083" TEXT="v-3.2">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1840165748" ENDARROW="Default" ENDINCLINATION="299;0;" ID="Arrow_ID_1053833753" SOURCE="ID_1289046104" STARTARROW="None" STARTINCLINATION="299;0;"/>
+<node CREATED="1398412204281" ID="ID_1447201061" MODIFIED="1398412206821" TEXT="ListView"/>
+<node CREATED="1398412207304" FOLDED="true" ID="ID_871026542" MODIFIED="1398436600074" TEXT="REF">
+<node CREATED="1398412208970" FOLDED="true" ID="ID_509752995" MODIFIED="1398436600072" TEXT="1">
+<node CREATED="1398412209402" ID="ID_1924111482" LINK="http://qt-project.org/doc/qt-4.7/declarative-modelviews-listview.html" MODIFIED="1398412221530" TEXT="Qt tut"/>
+</node>
+<node CREATED="1398414972839" FOLDED="true" ID="ID_983300592" MODIFIED="1398436600073" TEXT="2">
+<node CREATED="1398414973304" FOLDED="true" ID="ID_289050960" MODIFIED="1398436600073" TEXT="start bash command line">
+<node CREATED="1398414981049" ID="ID_1439458713" LINK="https://qt-project.org/forums/viewthread/33055" MODIFIED="1398414985107" TEXT="QA"/>
+</node>
+</node>
+</node>
+<node CREATED="1398421369268" FOLDED="true" ID="ID_1280276705" MODIFIED="1398436600075" TEXT="1">
+<node CREATED="1398421389493" ID="ID_890083705" MODIFIED="1398421391106" TEXT="D-2_v-3_2_dir-list.qml"/>
+</node>
+<node CREATED="1398421392793" FOLDED="true" ID="ID_1112853346" MODIFIED="1398436600076" TEXT="2">
+<node CREATED="1398421393367" ID="ID_611652506" MODIFIED="1398421393367" TEXT=""/>
+</node>
+<node COLOR="#ff0000" CREATED="1398426779475" FOLDED="true" ID="ID_294646102" MODIFIED="1398436600080" TEXT="PROB">
+<node CREATED="1398426799714" ID="ID_1086642809" MODIFIED="1398426804036" TEXT="&quot;Qt5Qml.dll missing&quot;"/>
+<node CREATED="1398426789267" FOLDED="true" ID="ID_610766128" MODIFIED="1398436600077" TEXT="REF">
+<node CREATED="1398426790437" FOLDED="true" ID="ID_1825132009" MODIFIED="1398436600076" TEXT="1">
+<node CREATED="1398426790741" ID="ID_241398783" MODIFIED="1398426791330" TEXT="C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin "/>
+</node>
+</node>
+<node CREATED="1398426825171" FOLDED="true" ID="ID_421445724" MODIFIED="1398436600080" TEXT="steps">
+<node CREATED="1398426826757" FOLDED="true" ID="ID_1561812221" MODIFIED="1398436600078" TEXT="1">
+<node CREATED="1398426827156" ID="ID_1643316351" MODIFIED="1398426831270" TEXT="Qt5Qml.dll"/>
+</node>
+<node CREATED="1398426832115" FOLDED="true" ID="ID_1700066643" MODIFIED="1398436600079" TEXT="2">
+<node CREATED="1398426835251" ID="ID_750393592" MODIFIED="1398426841359" TEXT="Gt5Network.dll"/>
+</node>
+<node CREATED="1398426832833" ID="ID_1248948949" MODIFIED="1398426833246" TEXT="3"/>
+<node CREATED="1398426833491" ID="ID_470864160" MODIFIED="1398426834256" TEXT="4"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1398427119395" FOLDED="true" ID="ID_1469930074" MODIFIED="1398436600082" TEXT="PROB">
+<node CREATED="1398427122052" FOLDED="true" ID="ID_1436441291" MODIFIED="1398427126389" TEXT="line">
+<node CREATED="1398427123469" ID="ID_205432201" MODIFIED="1398427124945" TEXT="20:55:46: &#x30d7;&#x30ed;&#x30b8;&#x30a7;&#x30af;&#x30c8; D-2_v-3_0 &#x306e;&#x30b9;&#x30c6;&#x30c3;&#x30d7;&#x3092;&#x5b9f;&#x884c;&#x4e2d;... 20:55:47: &#x69cb;&#x6210;&#x304c;&#x5909;&#x66f4;&#x3055;&#x308c;&#x3066;&#x3044;&#x306a;&#x3044;&#x70ba;&#x3001;qmake &#x30b9;&#x30c6;&#x30c3;&#x30d7;&#x3092;&#x30b9;&#x30ad;&#x30c3;&#x30d7;&#x3057;&#x307e;&#x3059;&#x3002; 20:55:47: &#x8d77;&#x52d5;&#x4e2d;: &quot;C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\Tools\mingw48_32\bin\mingw32-make.exe&quot;  C:/WORKS/PROGRAMS/Qt/Qt_5_2_1/Tools/mingw48_32/bin/mingw32-make -f Makefile.Debug mingw32-make[1]: Entering directory &apos;C:/WORKS/WS/WS_Android_20130929_122122/Learn_Qt/D-2_v-3_0/build-D-2_v-3_0-Desktop_Qt_5_2_1_MinGW_32bit-Debug&apos; g++ -c -pipe -fno-keep-inline-dllexport -g -frtti -Wall -Wextra -fexceptions -mthreads -DUNICODE -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -DQT_QUICK_LIB -DQT_QML_LIB -DQT_NETWORK_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I..\D-2_v-3_0 -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtQuick&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtQml&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtNetwork&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;debug&quot; -I&quot;.&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o debug\main.o ..\D-2_v-3_0\main.cpp C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\bin\rcc.exe -name qml ..\D-2_v-3_0\qml.qrc -o debug\qrc_qml.cpp g++ -c -pipe -fno-keep-inline-dllexport -g -frtti -Wall -Wextra -fexceptions -mthreads -DUNICODE -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -DQT_QUICK_LIB -DQT_QML_LIB -DQT_NETWORK_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I..\D-2_v-3_0 -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtQuick&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtQml&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtNetwork&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtGui&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\include\QtCore&quot; -I&quot;debug&quot; -I&quot;.&quot; -I&quot;..\..\..\..\..\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\mkspecs\win32-g++&quot; -o debug\qrc_qml.o debug\qrc_qml.cpp g++ -Wl,-subsystem,windows -mthreads -o debug\D-2_v-3_0.exe debug/main.o debug/qrc_qml.o  -lglu32 -lopengl32 -lgdi32 -luser32 -lmingw32 -lqtmaind -LC:\WORKS\PROGRAMS\Qt\Qt_5_2_1\5.2.1\mingw48_32\lib -lQt5Quickd -lQt5Qmld -lQt5Networkd -lQt5Guid -lQt5Cored  c:/works/programs/qt/qt_5_2_1/tools/mingw48_32/bin/../lib/gcc/i686-w64-mingw32/4.8.0/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file debug\D-2_v-3_0.exe: Permission denied collect2.exe: error: ld returned 1 exit status Makefile.Debug:78: recipe for target &apos;debug\D-2_v-3_0.exe&apos; failed mingw32-make[1]: *** [debug\D-2_v-3_0.exe] Error 1 mingw32-make[1]: Leaving directory &apos;C:/WORKS/WS/WS_Android_20130929_122122/Learn_Qt/D-2_v-3_0/build-D-2_v-3_0-Desktop_Qt_5_2_1_MinGW_32bit-Debug&apos; makefile:34: recipe for target &apos;debug&apos; failed mingw32-make: *** [debug] Error 2 20:55:51: &#x30d7;&#x30ed;&#x30bb;&#x30b9; &quot;C:\WORKS\PROGRAMS\Qt\Qt_5_2_1\Tools\mingw48_32\bin\mingw32-make.exe&quot; &#x306f;&#x30b3;&#x30fc;&#x30c9; 2 &#x3067;&#x7d42;&#x4e86;&#x3057;&#x307e;&#x3057;&#x305f;&#x3002; &#x30d7;&#x30ed;&#x30b8;&#x30a7;&#x30af;&#x30c8; D-2_v-3_0 &#x306e;&#x30d3;&#x30eb;&#x30c9;&#x30fb;&#x30c7;&#x30d7;&#x30ed;&#x30a4;&#x4e2d;&#x306b;&#x30a8;&#x30e9;&#x30fc;&#x304c;&#x767a;&#x751f;&#x3057;&#x307e;&#x3057;&#x305f; (&#x30ad;&#x30c3;&#x30c8; Desktop Qt 5.2.1 MinGW 32bit) &#x30b9;&#x30c6;&#x30c3;&#x30d7; &apos;Make&apos; &#x5b9f;&#x884c;&#x4e2d; 20:55:51: &#x7d4c;&#x904e;&#x6642;&#x9593;: 00:05"/>
+</node>
+<node CREATED="1398427158611" FOLDED="true" ID="ID_1717964293" MODIFIED="1398436600081" TEXT="TRY">
+<node CREATED="1398427161283" ID="ID_1552601364" MODIFIED="1398427171987" TEXT="Create a new QML project">
+<arrowlink DESTINATION="ID_118143099" ENDARROW="Default" ENDINCLINATION="356;0;" ID="Arrow_ID_296618176" STARTARROW="None" STARTINCLINATION="356;0;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398427131523" FOLDED="true" ID="ID_118143099" MODIFIED="1398436600088" TEXT="v-3.3">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_118143099" ENDARROW="Default" ENDINCLINATION="356;0;" ID="Arrow_ID_296618176" SOURCE="ID_1552601364" STARTARROW="None" STARTINCLINATION="356;0;"/>
+<icon BUILTIN="button_ok"/>
+<node COLOR="#ff0000" CREATED="1398428553397" FOLDED="true" ID="ID_543060766" MODIFIED="1398436600087" TEXT="PROB">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398428556915" FOLDED="true" ID="ID_1434266900" MODIFIED="1398436600084" TEXT="executable">
+<node CREATED="1398428560853" ID="ID_998969181" MODIFIED="1398428566192" TEXT="=&gt; doesn&apos;t run"/>
+</node>
+<node COLOR="#006699" CREATED="1398428567346" FOLDED="true" ID="ID_1776669222" MODIFIED="1398436600086" TEXT="SOLVED">
+<node CREATED="1398428574232" FOLDED="true" ID="ID_1345022161" MODIFIED="1398436600086" TEXT="REF">
+<node CREATED="1398428575954" FOLDED="true" ID="ID_1460965608" MODIFIED="1398436600085" TEXT="1">
+<node CREATED="1398428576470" ID="ID_736971369" LINK="http://qt-project.org/forums/viewthread/24390/P15" MODIFIED="1398428584836" TEXT="QA"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398434066575" FOLDED="true" ID="ID_1933476455" MODIFIED="1398436600095" TEXT="v-3.4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398434070276" FOLDED="true" ID="ID_597418730" MODIFIED="1398436600089" TEXT="EXPERI">
+<node CREATED="1398434073372" ID="ID_899526879" MODIFIED="1398434082065" TEXT="create another QML file"/>
+<node CREATED="1398434082487" ID="ID_569027032" MODIFIED="1398434086961" TEXT="=&gt; run the project"/>
+</node>
+<node CREATED="1398434167828" FOLDED="true" ID="ID_1591195095" MODIFIED="1398436600091" TEXT="REF">
+<node CREATED="1398434168727" FOLDED="true" ID="ID_672657738" MODIFIED="1398436600090" TEXT="1">
+<node CREATED="1398434172646" ID="ID_69641970" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\D-2\D-2_v-3_3" MODIFIED="1398434176306" TEXT="folder"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1398436143924" FOLDED="true" ID="ID_375845050" MODIFIED="1398436600094" TEXT="PROB">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1398436147877" ID="ID_28458347" MODIFIED="1398436155313" TEXT="window doesn&apos;t come up"/>
+<node COLOR="#006699" CREATED="1398436160340" FOLDED="true" ID="ID_373072520" MODIFIED="1398436600093" TEXT="SOLVED">
+<node CREATED="1398436163605" FOLDED="true" ID="ID_881884803" MODIFIED="1398436600092" TEXT="1">
+<node CREATED="1398436165879" FOLDED="true" ID="ID_1777309231" MODIFIED="1398436600091" TEXT="change the file name">
+<node CREATED="1398436316630" ID="ID_1373198825" MODIFIED="1398436326625" TEXT="=&gt; not use capital letters"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1398436504787" ID="ID_1332972567" MODIFIED="1398436506768" TEXT="v-4.x">
+<node CREATED="1398436509540" ID="ID_209297314" MODIFIED="1398436516338" TEXT="EXPERI"/>
+<node CREATED="1398436516773" ID="ID_1125922109" MODIFIED="1398436530565" TEXT="=&gt; set variables in the source file">
+<node CREATED="1398436530567" ID="ID_958942514" MODIFIED="1398436538801" TEXT="=&gt; use them in qml file"/>
+</node>
+<node CREATED="1398436541140" ID="ID_700486508" MODIFIED="1398436542849" TEXT="v-4.0"/>
+<node CREATED="1398437488501" ID="ID_676419092" MODIFIED="1398437490630" TEXT="REF">
+<node CREATED="1398437490632" ID="ID_599200347" MODIFIED="1398437491029" TEXT="1">
+<node CREATED="1398437491031" ID="ID_786732417" LINK="http://213.128.137.28/showthread.php?t=87580" MODIFIED="1398437514801" TEXT="QA">
+<node CREATED="1398437538453" ID="ID_870390271" MODIFIED="1398437541746" TEXT="&lt;= good"/>
+</node>
+</node>
+<node CREATED="1398437530949" ID="ID_1391731976" MODIFIED="1398437531445" TEXT="2">
+<node CREATED="1398437531447" ID="ID_1519759154" LINK="https://qt-project.org/forums/viewthread/33055" MODIFIED="1398437536039" TEXT="QA"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" HGAP="34" ID="ID_1605716726" MODIFIED="1398436595353" TEXT="@D-2" VSHIFT="19">
+<cloud/>
+</node>
+</node>
+</node>
+<node CREATED="1373724108974" ID="ID_956725031" MODIFIED="1396832581505" TEXT="TEMPLATE">
+<node CREATED="1342048146168" ID="ID_3602034" MODIFIED="1397807993906" TEXT="ADMIN">
+<node CREATED="1366440780757" ID="ID_1106614762" MODIFIED="1367382029947" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1695997891" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_126865950" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1257039070" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" ID="ID_1357377736" MODIFIED="1366443609763" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_26443741" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+<node CREATED="1373723947342" ID="ID_1407188828" MODIFIED="1373724118225" TEXT="1">
+<node BACKGROUND_COLOR="#99ffff" CREATED="1373723949219" ID="ID_1095577041" MODIFIED="1377097885200" TEXT="CODES"/>
+</node>
+<node CREATED="1377097868627" ID="ID_1142106390" MODIFIED="1377097869518" TEXT="1">
+<node BACKGROUND_COLOR="#99ffff" CREATED="1377097869520" ID="ID_1096293559" MODIFIED="1377097885200" TEXT="FILES"/>
+</node>
+</node>
+</node>
+<node CREATED="1357484309311" ID="ID_970813318" MODIFIED="1357484310925" POSITION="right" TEXT="TODO">
+<node CREATED="1357484319054" ID="ID_1999513567" MODIFIED="1398399922225" TEXT="COPIED">
+<node CREATED="1398384848180" ID="ID_1174354467" MODIFIED="1398399922244" TEXT="storage"/>
+</node>
+<node CREATED="1398080713744" ID="ID_1744035930" MODIFIED="1398080715168" TEXT="D-"/>
+<node CREATED="1398080713744" ID="ID_796665158" MODIFIED="1398080715168" TEXT="D-"/>
+<node CREATED="1398080713744" ID="ID_268624292" MODIFIED="1398080715168" TEXT="D-"/>
+</node>
+</node>
+</map>
