@@ -981,6 +981,9 @@
 <node CREATED="1398528523610" ID="ID_913730103" MODIFIED="1398528524251" TEXT="1">
 <node CREATED="1398528524252" ID="ID_1414647244" LINK="C:\WORKS\WS\WS_Android_20130929_122122\Learn_Qt\examples_qt\examples\widgets\mainwindows\mainwindow" MODIFIED="1398528571799" TEXT="&quot;mainwindows&quot;"/>
 </node>
+<node CREATED="1398528652578" ID="ID_1651952086" MODIFIED="1398528653807" TEXT="2">
+<node CREATED="1398528653810" ID="ID_984708535" LINK="http://qt-project.org/doc/qt-5/qtexamplesandtutorials.html" MODIFIED="1398528664563" TEXT="Qt site for examples"/>
+</node>
 </node>
 </node>
 </node>
