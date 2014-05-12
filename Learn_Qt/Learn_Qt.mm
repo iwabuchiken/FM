@@ -1732,6 +1732,9 @@
 </node>
 </node>
 </node>
+<node CREATED="1399703400530" ID="ID_1866833895" MODIFIED="1399703401724" TEXT="4">
+<node CREATED="1399703401725" ID="ID_1829096068" LINK="http://ubuntuforums.org/showthread.php?t=1184932" MODIFIED="1399703410692" TEXT="qt make"/>
+</node>
 </node>
 <node CREATED="1399732365981" ID="ID_487885774" MODIFIED="1399733230060" TEXT="v-1.0.1">
 <icon BUILTIN="button_ok"/>
