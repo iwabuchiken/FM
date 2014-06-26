@@ -7,7 +7,7 @@
 <node CREATED="1376367601644" ID="ID_430421308" LINK="C:\WORKS\WS\Researches" MODIFIED="1403487367146" TEXT="Folder"/>
 <node CREATED="1381618702830" ID="ID_1353973406" LINK="../Activities_2/Activities_2.mm" MODIFIED="1403487367150" TEXT="Acrtivities_2"/>
 </node>
-<node CREATED="1365290681947" FOLDED="true" HGAP="36" ID="ID_1617753205" MODIFIED="1403683686017" POSITION="left" TEXT="Link" VSHIFT="-40">
+<node CREATED="1365290681947" HGAP="36" ID="ID_1617753205" MODIFIED="1403752744867" POSITION="left" TEXT="Link" VSHIFT="-40">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1403487300173" ID="ID_401996710" MODIFIED="1403587177200" TEXT="Paper">
 <node CREATED="1403487303389" ID="ID_1817779134" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit" MODIFIED="1403487307106" TEXT="part 1"/>
@@ -31,10 +31,6 @@
 <node CREATED="1403671541668" ID="ID_370390476" MODIFIED="1403671542145" TEXT="3">
 <node CREATED="1403587178663" ID="ID_1985914770" MODIFIED="1403589140816" TEXT="java -cp &quot;C:/WORKS/WS/Eclipse_Kepler/ImageResizer/bin;C:/WORKS/WS/Eclipse_Kepler/ImageResizer/libs/*&quot; ir.main.Main  -size 20,20 -src C:\WORKS\WS\FM\Research\Rs_BM\images"/>
 </node>
-</node>
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1031345397" MODIFIED="1403444780847" POSITION="right" TEXT="N@">
-<cloud/>
-<font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1403444749188" ID="ID_1558006632" MODIFIED="1403444751361" POSITION="right" TEXT="GOALS">
 <node CREATED="1403444752116" ID="ID_1870029562" MODIFIED="1403444752340" TEXT="1">
@@ -130,6 +126,20 @@
   </head>
   <body>
     <img src="images/305px-Gastropod_from_India_3.jpg" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403752587033" ID="ID_879255081" MODIFIED="1403752648133" TEXT="cephalopod S22.Q3">
+<node CREATED="1403752794232" ID="ID_1169282269" MODIFIED="1403752797381" TEXT="pict">
+<node CREATED="1403752798152" ID="ID_675010862" LINK="http://en.wikipedia.org/wiki/Cephalopod" MODIFIED="1403752814200">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/109px-Squid_komodo.jpg" />
   </body>
 </html>
 </richcontent>
@@ -256,7 +266,7 @@
 </node>
 <node CREATED="1403680486306" ID="ID_773664288" MODIFIED="1403680498879" TEXT="secretome S20.Q3"/>
 <node CREATED="1403683248515" ID="ID_1218830599" MODIFIED="1403683254512" TEXT="Hox1 S22.Q2">
-<node CREATED="1403682648099" FOLDED="true" ID="ID_644054781" MODIFIED="1403683517635" TEXT="pict">
+<node CREATED="1403682648099" FOLDED="true" ID="ID_644054781" MODIFIED="1403752570336" TEXT="pict">
 <node CREATED="1403683261283" ID="ID_1594150816" LINK="http://wallace.genetics.uga.edu/groups/evol3000/revisions/68043/10/" MODIFIED="1403683515265">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -264,6 +274,50 @@
   </head>
   <body>
     <img src="images/465b3.jpg" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403753255031" ID="ID_389274239" MODIFIED="1403753268788" TEXT="Perlucin (conchiolin) S22.Q4">
+<node CREATED="1403753269927" ID="ID_22167878" MODIFIED="1403753271365" TEXT="pict">
+<node CREATED="1403753326760" ID="ID_1355333065" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fsocrates.berkeley.edu%2F~eps2%2Fwisc%2Fjpeg%2Fnac1.jpeg&amp;imgrefurl=http%3A%2F%2Fnature.berkeley.edu%2Fclasses%2Feps2%2Fwisc%2FLect17.html&amp;h=250&amp;w=456&amp;tbnid=AenEFCcXj6FsSM%3A&amp;zoom=1&amp;docid=KxKo-CQlgEImjM&amp;hl=ja&amp;ei=jJKrU7fHDc6fkQXdmICoBw&amp;tbm=isch&amp;ved=0CB0QMygAMAA&amp;iact=rc&amp;uact=3&amp;dur=561&amp;page=1&amp;start=0&amp;ndsp=9" MODIFIED="1403753350481">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/nac1.jpeg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403753377623" ID="ID_929491068" MODIFIED="1403753384468" TEXT="lectins S23.Q1">
+<node CREATED="1403753385913" ID="ID_1031419881" MODIFIED="1403753387396" TEXT="pict">
+<node CREATED="1403753388007" ID="ID_341846486" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fwww.glycoforum.gr.jp%2Fscience%2Fword%2Flectin%2FLEA07.gif&amp;imgrefurl=http%3A%2F%2Fwww.glycoforum.gr.jp%2Fscience%2Fword%2Flectin%2FLEA07E.html&amp;h=200&amp;w=500&amp;tbnid=lgSgpLFa4elnEM%3A&amp;zoom=1&amp;docid=twM7ZrVGlrSulM&amp;hl=ja&amp;ei=3ZOrU-3-HsfkkgXpqoEI&amp;tbm=isch&amp;ved=0CFkQMyg2MDY&amp;iact=rc&amp;uact=3&amp;dur=736&amp;page=5&amp;start=43&amp;ndsp=13" MODIFIED="1403754399555">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/LEA07_20140626_124621_size-80x80.gif" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403754442887" ID="ID_1508856453" MODIFIED="1403754448853" TEXT="Moieties S23.Q2">
+<node CREATED="1403754450201" ID="ID_42322951" MODIFIED="1403754451476" TEXT="pict">
+<node CREATED="1403754452068" ID="ID_1316934024" LINK="http://en.wikipedia.org/wiki/Functional_group" MODIFIED="1403755263540">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/218px-Benzyl_acetate_-_functional_groups_and_moieties.svg.png" />
   </body>
 </html>
 </richcontent>
