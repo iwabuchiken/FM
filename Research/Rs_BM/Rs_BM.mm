@@ -37,21 +37,8 @@
 <node CREATED="1403444752342" ID="ID_733451952" MODIFIED="1403444762513" TEXT="20 terminologies entried"/>
 </node>
 </node>
-<node CREATED="1403444920325" ID="ID_794999770" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.yii8133rn7aa" MODIFIED="1403445712056" POSITION="right" TEXT="Vertebrate"/>
 <node CREATED="1403444871268" ID="ID_1197639843" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.v001wu1rqput" MODIFIED="1403445714223" POSITION="right" TEXT="What is BM?">
 <icon BUILTIN="full-1"/>
-<node CREATED="1403444998100" FOLDED="true" ID="ID_20683076" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.17sxc6vukho3" MODIFIED="1403683676388" TEXT="fibroin">
-<node CREATED="1403487753726" ID="ID_701850168" MODIFIED="1403487891568">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="images/US07163736-20070116-C00001_20%25.png" />
-  </body>
-</html></richcontent>
-</node>
-</node>
 </node>
 <node CREATED="1403677418904" ID="ID_1886545113" MODIFIED="1403677423157" POSITION="right" TEXT="Biology">
 <node CREATED="1403683059522" ID="ID_926396972" MODIFIED="1403683065951" TEXT="species">
@@ -103,7 +90,7 @@
 <node CREATED="1403445055124" ID="ID_1547043924" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.fg17ehcicwph" MODIFIED="1403487564410" TEXT="dorsal"/>
 <node CREATED="1403445066900" ID="ID_1488228328" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.r7j09cxf6nxs" MODIFIED="1403487564406" TEXT="gill"/>
 <node CREATED="1403445083397" ID="ID_420757713" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.tqd9wf6maknw" MODIFIED="1403487564402" TEXT="conchology"/>
-<node CREATED="1403593411574" FOLDED="true" ID="ID_377518496" MODIFIED="1403683660133" TEXT="pict">
+<node CREATED="1403593411574" ID="ID_377518496" MODIFIED="1403869475060" TEXT="pict">
 <node CREATED="1403593415366" ID="ID_721122566" MODIFIED="1403593427600">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -132,7 +119,7 @@
 </node>
 </node>
 <node CREATED="1403752587033" ID="ID_879255081" MODIFIED="1403752648133" TEXT="cephalopod S22.Q3">
-<node CREATED="1403752794232" ID="ID_1169282269" MODIFIED="1403752797381" TEXT="pict">
+<node CREATED="1403752794232" FOLDED="true" ID="ID_1169282269" MODIFIED="1403865794252" TEXT="pict">
 <node CREATED="1403752798152" ID="ID_675010862" LINK="http://en.wikipedia.org/wiki/Cephalopod" MODIFIED="1403752814200">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -140,6 +127,21 @@
   </head>
   <body>
     <img src="images/109px-Squid_komodo.jpg" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403444920325" ID="ID_794999770" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.yii8133rn7aa" MODIFIED="1403445712056" TEXT="Vertebrate"/>
+<node CREATED="1403870362370" ID="ID_967106085" MODIFIED="1403870368464" TEXT="Diatom S23.T5">
+<node CREATED="1403870369092" FOLDED="true" ID="ID_1433829843" MODIFIED="1403870469760" TEXT="pict">
+<node CREATED="1403870371603" ID="ID_81089000" MODIFIED="1403870459091">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/diatoms-530x398_20140627_210038_size-70x70.jpg" />
   </body>
 </html>
 </richcontent>
@@ -163,7 +165,7 @@
 </node>
 </node>
 <node CREATED="1403677597416" ID="ID_559046274" MODIFIED="1403683570714" TEXT="transcription factor S20.Q2">
-<node CREATED="1403676275927" FOLDED="true" ID="ID_255132657" MODIFIED="1403681109495" TEXT="pict">
+<node CREATED="1403676275927" FOLDED="true" ID="ID_255132657" MODIFIED="1403869523830" TEXT="pict">
 <node CREATED="1403680429363" ID="ID_513899479" LINK="http://www.shmoop.com/dna/genes-proteins.html" MODIFIED="1403680448138">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -177,7 +179,7 @@
 </node>
 </node>
 <node CREATED="1403680514819" ID="ID_1740627978" MODIFIED="1403683574454" TEXT="dpp(Decapentaplegic) S20.Q4">
-<node CREATED="1403681855090" FOLDED="true" ID="ID_1518271420" MODIFIED="1403683246595" TEXT="pict">
+<node CREATED="1403681855090" FOLDED="true" ID="ID_1518271420" MODIFIED="1403869490423" TEXT="pict">
 <node CREATED="1403681857379" ID="ID_1161422876" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fwww.sciencemag.org%2Fcontent%2F343%2F6173%2F1244624%2FF1.large.jpg&amp;imgrefurl=http%3A%2F%2Fwww.sciencemag.org%2Fcontent%2F343%2F6173%2F1244624.figures-only&amp;h=958&amp;w=1280&amp;tbnid=zEkihhf2XVylZM%3A&amp;zoom=1&amp;docid=J2ZQKpw6FMX-sM&amp;hl=ja&amp;ei=AHqqU83GEYaNkAWsr4HoAQ&amp;tbm=isch&amp;ved=0CDMQMygrMCs4ZA&amp;iact=rc&amp;uact=3&amp;dur=850&amp;page=9&amp;start=129&amp;ndsp=17" MODIFIED="1403681889393">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -191,7 +193,7 @@
 </node>
 </node>
 <node CREATED="1403681127410" ID="ID_133269273" MODIFIED="1403683578314" TEXT="morphogen S20.Q5">
-<node CREATED="1403682648099" FOLDED="true" ID="ID_365680622" MODIFIED="1403683244709" TEXT="pict">
+<node CREATED="1403682648099" FOLDED="true" ID="ID_365680622" MODIFIED="1403869520485" TEXT="pict">
 <node CREATED="1403682649842" ID="ID_1764897778" LINK="http://zcam.tsinghua.edu.cn/~jzlei/zh_cn/project/node3.html" MODIFIED="1403682674958">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -199,6 +201,20 @@
   </head>
   <body>
     <img src="images/gradient_20140625_165032_size-50x50.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403683248515" ID="ID_1218830599" MODIFIED="1403683254512" TEXT="Hox1 S22.Q2">
+<node CREATED="1403682648099" FOLDED="true" ID="ID_644054781" MODIFIED="1403869517957" TEXT="pict">
+<node CREATED="1403683261283" ID="ID_1594150816" LINK="http://wallace.genetics.uga.edu/groups/evol3000/revisions/68043/10/" MODIFIED="1403683515265">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/465b3.jpg" />
   </body>
 </html></richcontent>
 </node>
@@ -220,7 +236,7 @@
 </node>
 </node>
 <node CREATED="1403671820293" ID="ID_384820380" MODIFIED="1403671832801" TEXT="polymorph S18.Q2">
-<node CREATED="1403671834661" FOLDED="true" ID="ID_1521197423" MODIFIED="1403677377931" TEXT="pict">
+<node CREATED="1403671834661" FOLDED="true" ID="ID_1521197423" MODIFIED="1403869514020" TEXT="pict">
 <node CREATED="1403671836693" ID="ID_956538798" LINK="http://en.wikipedia.org/wiki/Polymorphism_(biology)" MODIFIED="1403671920462">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -237,7 +253,7 @@
 </node>
 </node>
 <node CREATED="1403675932855" ID="ID_1912966580" MODIFIED="1403675943988" TEXT="phenotypes S18.Q4">
-<node CREATED="1403676275927" FOLDED="true" ID="ID_872106105" MODIFIED="1403677384184" TEXT="pict">
+<node CREATED="1403676275927" FOLDED="true" ID="ID_872106105" MODIFIED="1403869511011" TEXT="pict">
 <node CREATED="1403676278039" ID="ID_1320744676" MODIFIED="1403676290590">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -251,7 +267,7 @@
 </node>
 </node>
 <node CREATED="1403676345768" ID="ID_754670134" MODIFIED="1403676558579" TEXT="nucleation S18.Q5">
-<node CREATED="1403676275927" FOLDED="true" ID="ID_1653114146" MODIFIED="1403683595524" TEXT="pict">
+<node CREATED="1403676275927" FOLDED="true" ID="ID_1653114146" MODIFIED="1403869508357" TEXT="pict">
 <node CREATED="1403676351015" ID="ID_1090633993" LINK="http://ja.wikipedia.org/wiki/%E6%A0%B8%E7%94%9F%E6%88%90#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nucleation_finger.jpg" MODIFIED="1403676530065">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -265,65 +281,81 @@
 </node>
 </node>
 <node CREATED="1403680486306" ID="ID_773664288" MODIFIED="1403680498879" TEXT="secretome S20.Q3"/>
-<node CREATED="1403683248515" ID="ID_1218830599" MODIFIED="1403683254512" TEXT="Hox1 S22.Q2">
-<node CREATED="1403682648099" FOLDED="true" ID="ID_644054781" MODIFIED="1403752570336" TEXT="pict">
-<node CREATED="1403683261283" ID="ID_1594150816" LINK="http://wallace.genetics.uga.edu/groups/evol3000/revisions/68043/10/" MODIFIED="1403683515265">
+<node CREATED="1403870107252" ID="ID_1843814046" MODIFIED="1403870112464" TEXT="nacre S23.T4">
+<node CREATED="1403870294243" FOLDED="true" ID="ID_1148171980" MODIFIED="1403870518386" TEXT="pict">
+<node CREATED="1403870295969" ID="ID_350808959" LINK="http://www.bangkokpearls.com/pages/Pearl-Grading-System.html" MODIFIED="1403870322596">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/465b3.jpg" />
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1403753255031" ID="ID_389274239" MODIFIED="1403753268788" TEXT="Perlucin (conchiolin) S22.Q4">
-<node CREATED="1403753269927" ID="ID_22167878" MODIFIED="1403753271365" TEXT="pict">
-<node CREATED="1403753326760" ID="ID_1355333065" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fsocrates.berkeley.edu%2F~eps2%2Fwisc%2Fjpeg%2Fnac1.jpeg&amp;imgrefurl=http%3A%2F%2Fnature.berkeley.edu%2Fclasses%2Feps2%2Fwisc%2FLect17.html&amp;h=250&amp;w=456&amp;tbnid=AenEFCcXj6FsSM%3A&amp;zoom=1&amp;docid=KxKo-CQlgEImjM&amp;hl=ja&amp;ei=jJKrU7fHDc6fkQXdmICoBw&amp;tbm=isch&amp;ved=0CB0QMygAMAA&amp;iact=rc&amp;uact=3&amp;dur=561&amp;page=1&amp;start=0&amp;ndsp=9" MODIFIED="1403753350481">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="images/nac1.jpeg" />
+    <img src="images/nacre-grade.jpg" />
   </body>
 </html>
 </richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1403753377623" ID="ID_929491068" MODIFIED="1403753384468" TEXT="lectins S23.Q1">
-<node CREATED="1403753385913" ID="ID_1031419881" MODIFIED="1403753387396" TEXT="pict">
-<node CREATED="1403753388007" ID="ID_341846486" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fwww.glycoforum.gr.jp%2Fscience%2Fword%2Flectin%2FLEA07.gif&amp;imgrefurl=http%3A%2F%2Fwww.glycoforum.gr.jp%2Fscience%2Fword%2Flectin%2FLEA07E.html&amp;h=200&amp;w=500&amp;tbnid=lgSgpLFa4elnEM%3A&amp;zoom=1&amp;docid=twM7ZrVGlrSulM&amp;hl=ja&amp;ei=3ZOrU-3-HsfkkgXpqoEI&amp;tbm=isch&amp;ved=0CFkQMyg2MDY&amp;iact=rc&amp;uact=3&amp;dur=736&amp;page=5&amp;start=43&amp;ndsp=13" MODIFIED="1403754399555">
+<node CREATED="1403870506243" ID="ID_963420202" MODIFIED="1403870512736" TEXT="Ectoderm S24.T1">
+<node CREATED="1403870294243" FOLDED="true" ID="ID_1432714600" MODIFIED="1403871100741" TEXT="pict">
+<node CREATED="1403870522147" ID="ID_741788441" LINK="http://www.allthingsstemcell.com/glossary/" MODIFIED="1403870780527">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/LEA07_20140626_124621_size-80x80.gif" />
+    <img src="images/Totipotent_20140627_210422_size-60x60.jpg" />
   </body>
 </html>
 </richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1403754442887" ID="ID_1508856453" MODIFIED="1403754448853" TEXT="Moieties S23.Q2">
-<node CREATED="1403754450201" ID="ID_42322951" MODIFIED="1403754451476" TEXT="pict">
-<node CREATED="1403754452068" ID="ID_1316934024" LINK="http://en.wikipedia.org/wiki/Functional_group" MODIFIED="1403755263540">
+<node CREATED="1403870813203" ID="ID_335007109" MODIFIED="1403870821567" TEXT="Invagination S24.T2">
+<node CREATED="1403870294243" FOLDED="true" ID="ID_1780052310" MODIFIED="1403871099603" TEXT="pict">
+<node CREATED="1403870522147" ID="ID_908882155" LINK="https://www.mh-hannover.de/kch-invagination.html" MODIFIED="1403870917741">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/218px-Benzyl_acetate_-_functional_groups_and_moieties.svg.png" />
+    <img src="images/RTEmagicC_Abb_1_01.JPG.jpg" />
   </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" HGAP="34" ID="ID_946546871" MODIFIED="1403594148057" TEXT="N@" VSHIFT="19">
+</node>
+<node CREATED="1403871002084" ID="ID_657225362" MODIFIED="1403871010064" TEXT="Gland S24.T3">
+<node CREATED="1403870294243" FOLDED="true" ID="ID_74590738" MODIFIED="1403871105222" TEXT="pict">
+<node CREATED="1403870522147" ID="ID_1228913567" LINK="http://www.cancer.gov/cancertopics/pdq/treatment/salivarygland/Patient/page1" MODIFIED="1403871092444">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/CDR742039-571_20140627_211116_size-60x60.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403871127491" ID="ID_1266878761" MODIFIED="1403871133280" TEXT="ligament S24.T4">
+<node CREATED="1403870294243" ID="ID_872545979" MODIFIED="1403871136807" TEXT="pict">
+<node CREATED="1403870522147" ID="ID_294953543" LINK="http://www.webmd.com/first-aid/ankle-with-ligament-tear" MODIFIED="1403871466953">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/h9991457_002_20140627_211540_size-70x70.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" HGAP="34" ID="ID_946546871" MODIFIED="1403871103050" TEXT="N@" VSHIFT="19">
 <cloud/>
 </node>
 </node>
@@ -389,59 +421,102 @@
 </node>
 </node>
 </node>
+<node CREATED="1403754442887" FOLDED="true" ID="ID_1508856453" MODIFIED="1403870061760" TEXT="Moieties S23.T2">
+<node CREATED="1403754450201" FOLDED="true" ID="ID_42322951" MODIFIED="1403865791689" TEXT="pict">
+<node CREATED="1403754452068" ID="ID_1316934024" LINK="http://en.wikipedia.org/wiki/Functional_group" MODIFIED="1403755263540">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/218px-Benzyl_acetate_-_functional_groups_and_moieties.svg.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1403587454725" ID="ID_1011126086" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.1fyjqd41l342" MODIFIED="1403683625977" TEXT="functional group S8.Q1"/>
-<node CREATED="1403587487188" ID="ID_1825424334" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.5zgxdupnbf7q" MODIFIED="1403588139184" TEXT="glycoproteins S13.Q1">
-<node CREATED="1403588873525" FOLDED="true" ID="ID_1000521577" MODIFIED="1403675892082" TEXT="pict">
-<node CREATED="1403588079204" ID="ID_1297372653" MODIFIED="1403675598475">
+</node>
+<node CREATED="1403590870598" ID="ID_721116795" MODIFIED="1403590879859" TEXT="protein S13.Q7">
+<node CREATED="1403591015061" FOLDED="true" ID="ID_1459314617" MODIFIED="1403677403625" TEXT="pict">
+<node CREATED="1403591016933" ID="ID_615574285" LINK="http://www.milkfacts.info/Milk%20Composition/Protein.htm" MODIFIED="1403591036752">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/12Nlinkglycoprot.png" />
+    <img src="images/protein.JPG" />
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1403587520436" ID="ID_1996867291" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.pzmktc6czdlx" MODIFIED="1403587533573" TEXT="polypeptide S13.Q2">
-<node CREATED="1403588864197" FOLDED="true" ID="ID_1819909225" MODIFIED="1403677393736" TEXT="pict">
-<node CREATED="1403588673205" ID="ID_1023437218" MODIFIED="1403588694118">
+<node CREATED="1403591121798" ID="ID_267826373" MODIFIED="1403591570338" TEXT="macromolecules S13.Q8">
+<node CREATED="1403591015061" FOLDED="true" ID="ID_1833966668" MODIFIED="1403593356183" TEXT="pict">
+<node CREATED="1403591156293" ID="ID_624926307" LINK="http://kristaweng15.blogspot.jp/2011/11/macromolecule-structure.html" MODIFIED="1403591530351">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/tripeptide.png" />
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1403588801988" ID="ID_128299856" MODIFIED="1403588859599" TEXT="peptide S13.Q3">
-<node CREATED="1403588890709" FOLDED="true" ID="ID_1636434223" MODIFIED="1403677395418" TEXT="pict">
-<node CREATED="1403589248773" ID="ID_1475779946" MODIFIED="1403589254208">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="images/peptide_bond01_20140624_145347_size-50x50.jpg" />
+    <img src="images/DehSyn1.png" />
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1403589704821" ID="ID_1605127017" MODIFIED="1403589718817" TEXT="amino acid S13.Q4">
-<node CREATED="1403589842389" FOLDED="true" ID="ID_1850903904" MODIFIED="1403677397384" TEXT="pict">
-<node CREATED="1403589844468" ID="ID_632661091" LINK="http://en.wikipedia.org/wiki/Amino_acid#mediaviewer/File:AminoAcidball.svg" MODIFIED="1403589869975">
+<node CREATED="1403865821614" ID="ID_813707450" MODIFIED="1403865826488" TEXT="Elements">
+<node CREATED="1403592675894" ID="ID_1583467244" MODIFIED="1403865828391" TEXT="benzene S15.Q3">
+<node CREATED="1403591015061" FOLDED="true" ID="ID_651943050" MODIFIED="1403593359861" TEXT="pict">
+<node CREATED="1403591637702" ID="ID_1279119233" LINK="http://www.meritnation.com/ask-answer/question/please-give-me-a-brief-description-of-benzene-and-benzine-wi/science/3092370" MODIFIED="1403593244008">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/204px-AminoAcidball.svg.png" />
+    <img src="images/3432.16.benzene-ring_20140624_160002_size-50x50.jpg" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403591620806" ID="ID_1541202831" MODIFIED="1403865831796" TEXT="quinone S15.Q1">
+<node CREATED="1403591015061" FOLDED="true" ID="ID_1630289436" MODIFIED="1403593353906" TEXT="pict">
+<node CREATED="1403591637702" ID="ID_712724952" LINK="http://archives.library.illinois.edu/erec/University%20Archives/1505050/Organic/Alcohols/Chapter%206/sec6-14/6-14.htm" MODIFIED="1403592648088">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/fig6-23.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403753377623" ID="ID_929491068" MODIFIED="1403870082238" TEXT="lectins S23.T1">
+<node CREATED="1403753385913" FOLDED="true" ID="ID_1031419881" MODIFIED="1403869545364" TEXT="pict">
+<node CREATED="1403753388007" ID="ID_341846486" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fwww.glycoforum.gr.jp%2Fscience%2Fword%2Flectin%2FLEA07.gif&amp;imgrefurl=http%3A%2F%2Fwww.glycoforum.gr.jp%2Fscience%2Fword%2Flectin%2FLEA07E.html&amp;h=200&amp;w=500&amp;tbnid=lgSgpLFa4elnEM%3A&amp;zoom=1&amp;docid=twM7ZrVGlrSulM&amp;hl=ja&amp;ei=3ZOrU-3-HsfkkgXpqoEI&amp;tbm=isch&amp;ved=0CFkQMyg2MDY&amp;iact=rc&amp;uact=3&amp;dur=736&amp;page=5&amp;start=43&amp;ndsp=13" MODIFIED="1403754399555">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/LEA07_20140626_124621_size-80x80.gif" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403753255031" ID="ID_389274239" MODIFIED="1403753268788" TEXT="Perlucin (conchiolin) S22.Q4">
+<node CREATED="1403753269927" FOLDED="true" ID="ID_22167878" MODIFIED="1403869660869" TEXT="pict">
+<node CREATED="1403753326760" ID="ID_1355333065" LINK="http://www.google.co.jp/imgres?imgurl=http%3A%2F%2Fsocrates.berkeley.edu%2F~eps2%2Fwisc%2Fjpeg%2Fnac1.jpeg&amp;imgrefurl=http%3A%2F%2Fnature.berkeley.edu%2Fclasses%2Feps2%2Fwisc%2FLect17.html&amp;h=250&amp;w=456&amp;tbnid=AenEFCcXj6FsSM%3A&amp;zoom=1&amp;docid=KxKo-CQlgEImjM&amp;hl=ja&amp;ei=jJKrU7fHDc6fkQXdmICoBw&amp;tbm=isch&amp;ved=0CB0QMygAMAA&amp;iact=rc&amp;uact=3&amp;dur=561&amp;page=1&amp;start=0&amp;ndsp=9" MODIFIED="1403753350481">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/nac1.jpeg" />
   </body>
 </html></richcontent>
 </node>
@@ -478,59 +553,77 @@
 </node>
 </node>
 </node>
-<node CREATED="1403590870598" ID="ID_721116795" MODIFIED="1403590879859" TEXT="protein S13.Q7">
-<node CREATED="1403591015061" FOLDED="true" ID="ID_1459314617" MODIFIED="1403677403625" TEXT="pict">
-<node CREATED="1403591016933" ID="ID_615574285" LINK="http://www.milkfacts.info/Milk%20Composition/Protein.htm" MODIFIED="1403591036752">
+<node CREATED="1403589704821" ID="ID_1605127017" MODIFIED="1403589718817" TEXT="amino acid S13.Q4">
+<node CREATED="1403589842389" FOLDED="true" ID="ID_1850903904" MODIFIED="1403677397384" TEXT="pict">
+<node CREATED="1403589844468" ID="ID_632661091" LINK="http://en.wikipedia.org/wiki/Amino_acid#mediaviewer/File:AminoAcidball.svg" MODIFIED="1403589869975">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/protein.JPG" />
+    <img src="images/204px-AminoAcidball.svg.png" />
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1403591121798" ID="ID_267826373" MODIFIED="1403591570338" TEXT="macromolecules S13.Q8">
-<node CREATED="1403591015061" FOLDED="true" ID="ID_1833966668" MODIFIED="1403593356183" TEXT="pict">
-<node CREATED="1403591156293" ID="ID_624926307" LINK="http://kristaweng15.blogspot.jp/2011/11/macromolecule-structure.html" MODIFIED="1403591530351">
+<node CREATED="1403587520436" ID="ID_1996867291" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.pzmktc6czdlx" MODIFIED="1403587533573" TEXT="polypeptide S13.Q2">
+<node CREATED="1403588864197" FOLDED="true" ID="ID_1819909225" MODIFIED="1403677393736" TEXT="pict">
+<node CREATED="1403588673205" ID="ID_1023437218" MODIFIED="1403588694118">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/DehSyn1.png" />
+    <img src="images/tripeptide.png" />
   </body>
 </html></richcontent>
 </node>
 </node>
-</node>
-<node CREATED="1403591620806" ID="ID_1541202831" MODIFIED="1403591630882" TEXT="quinone S15.Q1">
-<node CREATED="1403591015061" FOLDED="true" ID="ID_1630289436" MODIFIED="1403593353906" TEXT="pict">
-<node CREATED="1403591637702" ID="ID_712724952" LINK="http://archives.library.illinois.edu/erec/University%20Archives/1505050/Organic/Alcohols/Chapter%206/sec6-14/6-14.htm" MODIFIED="1403592648088">
+<node CREATED="1403588801988" ID="ID_128299856" MODIFIED="1403588859599" TEXT="peptide S13.Q3">
+<node CREATED="1403588890709" FOLDED="true" ID="ID_1636434223" MODIFIED="1403677395418" TEXT="pict">
+<node CREATED="1403589248773" ID="ID_1475779946" MODIFIED="1403589254208">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/fig6-23.png" />
+    <img src="images/peptide_bond01_20140624_145347_size-50x50.jpg" />
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1403592675894" ID="ID_1583467244" MODIFIED="1403592684291" TEXT="benzene S15.Q3">
-<node CREATED="1403591015061" FOLDED="true" ID="ID_651943050" MODIFIED="1403593359861" TEXT="pict">
-<node CREATED="1403591637702" ID="ID_1279119233" LINK="http://www.meritnation.com/ask-answer/question/please-give-me-a-brief-description-of-benzene-and-benzine-wi/science/3092370" MODIFIED="1403593244008">
+</node>
+<node CREATED="1403587487188" ID="ID_1825424334" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.5zgxdupnbf7q" MODIFIED="1403588139184" TEXT="glycoproteins S13.Q1">
+<node CREATED="1403588873525" FOLDED="true" ID="ID_1000521577" MODIFIED="1403675892082" TEXT="pict">
+<node CREATED="1403588079204" ID="ID_1297372653" MODIFIED="1403675598475">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="images/3432.16.benzene-ring_20140624_160002_size-50x50.jpg" />
+    <img src="images/12Nlinkglycoprot.png" />
   </body>
 </html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403444998100" FOLDED="true" ID="ID_20683076" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit#heading=h.17sxc6vukho3" MODIFIED="1403683676388" TEXT="fibroin">
+<node CREATED="1403487753726" ID="ID_701850168" MODIFIED="1403487891568">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/US07163736-20070116-C00001_20%25.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1403869428691" ID="ID_1636351322" MODIFIED="1403870069472" TEXT="lustrin S23.T3">
+<node CREATED="1403869559603" ID="ID_175259436" MODIFIED="1403869561215" TEXT="pict">
+<node CREATED="1403869561587" ID="ID_1113404680" MODIFIED="1403869561587" TEXT=""/>
 </node>
 </node>
 </node>
