@@ -10,8 +10,7 @@
 <node CREATED="1365290681947" HGAP="36" ID="ID_1617753205" MODIFIED="1403752744867" POSITION="left" TEXT="Link" VSHIFT="-40">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1403487300173" ID="ID_401996710" MODIFIED="1403587177200" TEXT="Paper">
-<node CREATED="1403487303389" ID="ID_1817779134" LINK="https://docs.google.com/document/d/1iOCBz412QcYU64F6HBmuTZTctjtDnfHiuTKKp1rcNiQ/edit" MODIFIED="1403487307106" TEXT="part 1"/>
-<node CREATED="1403487308396" ID="ID_758834264" LINK="https://docs.google.com/document/d/1iYpnmfI9gCG3m54mCu6FRZ9BJF20A8ZmR8ZQthq59Pw/edit" MODIFIED="1403487315096" TEXT="part 2"/>
+<node CREATED="1403487303389" ID="ID_1817779134" LINK="https://docs.google.com/document/d/1oegJf2rPULZ2-zf8G1fVNFkWAq1DuRuuSDN6-kS_yRI/edit?usp=drive_web" MODIFIED="1403955159154" TEXT="part 1"/>
 </node>
 <node CREATED="1403587178663" ID="ID_932058106" MODIFIED="1403588629697" TEXT="java -cp &quot;C:/WORKS/WS/Eclipse_Kepler/ImageResizer/bin;C:/WORKS/WS/Eclipse_Kepler/ImageResizer/libs/*&quot; ir.main.Main  -size 20,20 -src C:\WORKS\WS\Eclipse_Kepler\ImageResizer\images\200px-Lactose.svg.png"/>
 <node CREATED="1403587178663" ID="ID_1562436910" MODIFIED="1403767107449" TEXT="java -cp &quot;C:/WORKS/WS/Eclipse_Kepler/ImageResizer/bin;C:/WORKS/WS/Eclipse_Kepler/ImageResizer/libs/*&quot; ir.main.Main  -size 20,20 -src C:\WORKS\WS\FM\Research\Rs_Dyslexia\images"/>
@@ -61,8 +60,7 @@
   <body>
     <img src="images/Primary_auditory_cortex.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -77,13 +75,12 @@
   <body>
     <img src="images/dyslexic480.gif" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1403768423989" ID="ID_1727605674" MODIFIED="1403768431842" POSITION="right" TEXT="Dysgraphia and others S5.Q1">
-<node CREATED="1403769634853" FOLDED="true" ID="ID_1117537844" MODIFIED="1403771217256" TEXT="pict">
+<node CREATED="1403768423989" ID="ID_1727605674" MODIFIED="1403955231313" POSITION="right" TEXT="Dysgraphia and others S5.T1">
+<node CREATED="1403769634853" FOLDED="true" ID="ID_1117537844" MODIFIED="1403955238165" TEXT="pict">
 <node CREATED="1403769637349" ID="ID_1543489914" LINK="http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1172570236" MODIFIED="1403771180308">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -92,8 +89,130 @@
   <body>
     <img src="images/dysgraphia_20140626_172539_size-70x70.png" />
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403955217636" ID="ID_212442807" MODIFIED="1403955228337" POSITION="right" TEXT="Down syndrome S5.T2">
+<node CREATED="1403769634853" ID="ID_1687274432" MODIFIED="1403955240510" TEXT="pict">
+<node CREATED="1403769637349" ID="ID_1147068075" LINK="http://keepingupwithds.blogspot.jp/2012/11/down-syndrome-awareness-week-in-canada.html" MODIFIED="1403955609676">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/CDSS%20DS%20Awareness%20Week%20Nov%202012_20140628_203943_size-30x30.jpg" />
+  </body>
 </html>
 </richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403955629925" ID="ID_511034142" MODIFIED="1403955636321" POSITION="right" TEXT="History of research S6.T1"/>
+<node CREATED="1403955650004" ID="ID_1281942931" MODIFIED="1403955656337" POSITION="right" TEXT="Anatomy S7.T1">
+<node CREATED="1403955809300" FOLDED="true" ID="ID_59262625" MODIFIED="1403955824101" TEXT="pict">
+<node CREATED="1403955811268" ID="ID_1159700978" LINK="http://rockypointacademy.com/brain_science.htm" MODIFIED="1403955822511">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/left_brain_diagram.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403955842244" ID="ID_56836855" MODIFIED="1403955847137" POSITION="right" TEXT="cortical S7.Q1"/>
+<node CREATED="1403955880548" ID="ID_715435629" MODIFIED="1403955887024" POSITION="right" TEXT="malformation S7.Q2"/>
+<node CREATED="1403956347941" ID="ID_980462854" MODIFIED="1403956370641" POSITION="right" TEXT="Neuroanatomy S8.T1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1190168266" MODIFIED="1403956450758" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_1031905501" LINK="http://fab-efl.com/onlinelearning/page1/index.html" MODIFIED="1403956414880">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/stacks_image_948.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403956435892" ID="ID_55273962" MODIFIED="1403956447921" POSITION="right" TEXT="modern techniques S8.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1798329104" MODIFIED="1403956851670" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_1995611723" LINK="http://jungminded.weebly.com/9/post/2013/03/basic-questions-and-methods-of-neuropsychology.html" MODIFIED="1403956849540">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/2984323.gif" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1403956874612" ID="ID_1567272649" MODIFIED="1403956880625" POSITION="right" TEXT="What are the differences S8.Q2"/>
+<node CREATED="1403956897348" ID="ID_591795859" MODIFIED="1403956903714" POSITION="right" TEXT="What are the differences S8.Q3"/>
+<node CREATED="1403956921205" ID="ID_1870123965" MODIFIED="1403956928337" POSITION="right" TEXT="Which part are they S8.Q4"/>
+<node CREATED="1403956939093" ID="ID_1269859327" MODIFIED="1403956941234" POSITION="right" TEXT="Brain">
+<node CREATED="1403956941909" ID="ID_589448235" MODIFIED="1403956942518" TEXT="1">
+<node CREATED="1403956942518" ID="ID_402148396" MODIFIED="1403956963201" TEXT="cortex S8.Q5">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1442455560" MODIFIED="1403961565965" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_1584206158" LINK="http://www.brainhealthandpuzzles.com/brain_parts.html" MODIFIED="1403957104063">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/diagram_brain_cortex.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1403957258933" ID="ID_325422087" MODIFIED="1403957266705" TEXT="temporal cortex S8.Q6">
+<node CREATED="1403956371492" ID="ID_1157513789" MODIFIED="1403961591891" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_1369492880" LINK="http://www.brainhealthandpuzzles.com/brain_parts.html" MODIFIED="1403961613923">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/49_15CerebralCortex-L_20140628_210825_size-50x50.jpg" />
+  </body>
+</html>
+</richcontent>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1369492880" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_1971204100" SOURCE="ID_1113711946" STARTARROW="None" STARTINCLINATION="242;139;"/>
+</node>
+</node>
+</node>
+<node CREATED="1403961690747" ID="ID_580647511" MODIFIED="1403961697448" TEXT="cerebral cortex S8.Q8">
+<node CREATED="1403956371492" ID="ID_1974417647" MODIFIED="1403961591891" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_1812383538" LINK="http://www.proteinatlas.org/dictionary/normal/cerebral+cortex/anatomy+2" MODIFIED="1403961870269">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/cerebral_cortex__2__anatomy_2__anatomy_20140628_222413_size-70x70.jpg" />
+  </body>
+</html>
+</richcontent>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1812383538" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_731454986" SOURCE="ID_1113711946" STARTARROW="None" STARTINCLINATION="242;139;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1403961571426" ID="ID_1894848770" MODIFIED="1403961577079" TEXT="temporal lobe S8.Q7">
+<node CREATED="1403956371492" ID="ID_1113711946" MODIFIED="1403961613923" TEXT="pict">
+<arrowlink DESTINATION="ID_1369492880" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_1971204100" STARTARROW="None" STARTINCLINATION="242;139;"/>
+<arrowlink DESTINATION="ID_1812383538" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_731454986" STARTARROW="None" STARTINCLINATION="242;139;"/>
 </node>
 </node>
 </node>
