@@ -103,8 +103,7 @@
   <body>
     <img src="images/CDSS%20DS%20Awareness%20Week%20Nov%202012_20140628_203943_size-30x30.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -119,8 +118,7 @@
   <body>
     <img src="images/left_brain_diagram.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -136,8 +134,7 @@
   <body>
     <img src="images/stacks_image_948.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -151,18 +148,25 @@
   <body>
     <img src="images/2984323.gif" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1403956874612" ID="ID_1567272649" MODIFIED="1403956880625" POSITION="right" TEXT="What are the differences S8.Q2"/>
 <node CREATED="1403956897348" ID="ID_591795859" MODIFIED="1403956903714" POSITION="right" TEXT="What are the differences S8.Q3"/>
 <node CREATED="1403956921205" ID="ID_1870123965" MODIFIED="1403956928337" POSITION="right" TEXT="Which part are they S8.Q4"/>
+<node CREATED="1404025778973" ID="ID_854030943" MODIFIED="1404025785161" POSITION="right" TEXT="Which part processes reading S9.Q2"/>
+<node CREATED="1404028116556" ID="ID_1653878835" MODIFIED="1404028119226" POSITION="right" TEXT="Types">
+<node CREATED="1404028119644" ID="ID_554116424" MODIFIED="1404028124586" TEXT="alexia S14.Q2">
+<node CREATED="1403956371492" ID="ID_1899687759" MODIFIED="1404028132628" TEXT="pict">
+<node CREATED="1404028135244" ID="ID_1976064245" MODIFIED="1404028135244" TEXT=""/>
+</node>
+</node>
+</node>
 <node CREATED="1403956939093" ID="ID_1269859327" MODIFIED="1403956941234" POSITION="right" TEXT="Brain">
 <node CREATED="1403956941909" ID="ID_589448235" MODIFIED="1403956942518" TEXT="1">
 <node CREATED="1403956942518" ID="ID_402148396" MODIFIED="1403956963201" TEXT="cortex S8.Q5">
-<node CREATED="1403956371492" FOLDED="true" ID="ID_1442455560" MODIFIED="1403961565965" TEXT="pict">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1442455560" MODIFIED="1404025496749" TEXT="pict">
 <node CREATED="1403956374964" ID="ID_1584206158" LINK="http://www.brainhealthandpuzzles.com/brain_parts.html" MODIFIED="1403957104063">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -171,12 +175,11 @@
   <body>
     <img src="images/diagram_brain_cortex.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1403957258933" ID="ID_325422087" MODIFIED="1403957266705" TEXT="temporal cortex S8.Q6">
-<node CREATED="1403956371492" ID="ID_1157513789" MODIFIED="1403961591891" TEXT="pict">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1157513789" MODIFIED="1404025345922" TEXT="pict">
 <node CREATED="1403956374964" ID="ID_1369492880" LINK="http://www.brainhealthandpuzzles.com/brain_parts.html" MODIFIED="1403961613923">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -185,14 +188,13 @@
   <body>
     <img src="images/49_15CerebralCortex-L_20140628_210825_size-50x50.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1369492880" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_1971204100" SOURCE="ID_1113711946" STARTARROW="None" STARTINCLINATION="242;139;"/>
 </node>
 </node>
 </node>
 <node CREATED="1403961690747" ID="ID_580647511" MODIFIED="1403961697448" TEXT="cerebral cortex S8.Q8">
-<node CREATED="1403956371492" ID="ID_1974417647" MODIFIED="1403961591891" TEXT="pict">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1974417647" MODIFIED="1404025344064" TEXT="pict">
 <node CREATED="1403956374964" ID="ID_1812383538" LINK="http://www.proteinatlas.org/dictionary/normal/cerebral+cortex/anatomy+2" MODIFIED="1403961870269">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -201,20 +203,235 @@
   <body>
     <img src="images/cerebral_cortex__2__anatomy_2__anatomy_20140628_222413_size-70x70.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1812383538" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_731454986" SOURCE="ID_1113711946" STARTARROW="None" STARTINCLINATION="242;139;"/>
 </node>
 </node>
 </node>
+<node CREATED="1404026002604" ID="ID_405221640" MODIFIED="1404026008793" TEXT="parietal association cortex S9.Q5">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1122905764" MODIFIED="1404026286475" TEXT="pict">
+<node CREATED="1404026017708" ID="ID_67083377" MODIFIED="1404026280825">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/motor-parietal-pathways.jpg" />
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1403961571426" ID="ID_1894848770" MODIFIED="1403961577079" TEXT="temporal lobe S8.Q7">
+</node>
+<node CREATED="1404026455245" ID="ID_1743366812" MODIFIED="1404026460264" TEXT="posterior parietal cortex S10.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_62713101" MODIFIED="1404026920222" TEXT="pict">
+<node CREATED="1404026464909" ID="ID_399380772" LINK="http://www.livescience.com/7110-store.html" MODIFIED="1404026902955">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/050316_brain_generic_02_20140629_162402_size-70x70.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1404027393160" ID="ID_1545458500" MODIFIED="1404027401177" TEXT="posterior S10.Q5"/>
+</node>
+<node CREATED="1404026923197" ID="ID_148101375" MODIFIED="1404027222552" TEXT="neocortex S10.Q2">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1602081656" MODIFIED="1404027209998" TEXT="pict">
+<node CREATED="1404026932029" ID="ID_1634539832" LINK="http://www.onlinedatingmagazine.com/datingoffice09/relationshipdatingcoaches.html" MODIFIED="1404027190778">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/neocortex.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1404027211101" ID="ID_905828155" MODIFIED="1404027218202" TEXT="somatosensory cortex S10.Q3">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1937259415" MODIFIED="1404027688956" TEXT="pict">
+<node CREATED="1404027231277" ID="ID_1305357590" LINK="http://scienceblogs.com/thoughtfulanimal/2010/07/01/zombies-ate-my-brain/" MODIFIED="1404027357026">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/i-7cb3dec9973ac6a5143c37eb9efce18b-motor%20somato.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1404027375660" ID="ID_1722135684" MODIFIED="1404027382745" TEXT="somato S10.Q4"/>
+</node>
+</node>
+</node>
+<node CREATED="1404027423117" ID="ID_1878328721" MODIFIED="1404027424874" TEXT="Gyrus">
+<node CREATED="1404027425613" ID="ID_1079135282" MODIFIED="1404027430730" TEXT="angular gyrus S13.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1129432207" MODIFIED="1404027652943" TEXT="pict">
+<node CREATED="1404027439005" ID="ID_1281019486" LINK="http://www.studydroid.com/index.php?page=viewPack&amp;packId=334821&amp;begin=200" MODIFIED="1404027632859">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/card-20640748-back.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1404027654989" ID="ID_1625257515" MODIFIED="1404027660185" TEXT="What does it do? S13.Q2"/>
+</node>
+</node>
+<node CREATED="1404025798029" ID="ID_1414917204" MODIFIED="1404025799897" TEXT="Lobes">
+<node CREATED="1403961571426" ID="ID_1894848770" MODIFIED="1404025800779" TEXT="temporal lobe S8.Q7">
 <node CREATED="1403956371492" ID="ID_1113711946" MODIFIED="1403961613923" TEXT="pict">
 <arrowlink DESTINATION="ID_1369492880" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_1971204100" STARTARROW="None" STARTINCLINATION="242;139;"/>
 <arrowlink DESTINATION="ID_1812383538" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_731454986" STARTARROW="None" STARTINCLINATION="242;139;"/>
+<arrowlink DESTINATION="ID_70362053" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_1968784790" STARTARROW="None" STARTINCLINATION="242;139;"/>
 </node>
 </node>
+<node CREATED="1404025802331" ID="ID_1047111779" MODIFIED="1404025808985" TEXT="parietal lobe S9.Q3">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_442839799" MODIFIED="1404025961391" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_70362053" LINK="http://www.braininjury.com/symptoms.shtml" MODIFIED="1404025958475">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/symptoms02.jpg" />
+  </body>
+</html>
+</richcontent>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_70362053" ENDARROW="Default" ENDINCLINATION="-30;43;" ID="Arrow_ID_1968784790" SOURCE="ID_1113711946" STARTARROW="None" STARTINCLINATION="242;139;"/>
+</node>
+</node>
+<node CREATED="1404025983868" ID="ID_1229001588" MODIFIED="1404025989784" TEXT="What does the parietal lobe do S9.Q4"/>
+</node>
+<node CREATED="1404026315292" ID="ID_1293291600" MODIFIED="1404026321401" TEXT="lobe S9.Q6">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1142562585" MODIFIED="1404026446349" TEXT="pict">
+<node CREATED="1404026327773" ID="ID_1509427105" LINK="http://en.wikipedia.org/wiki/Witzelsucht" MODIFIED="1404026424828">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/159px-Brainlobes.svg.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1404029392173" ID="ID_1941415044" MODIFIED="1404029397529" TEXT="occipital lobe S16.Q2">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1241819542" MODIFIED="1404031053102" TEXT="pict">
+<node CREATED="1404029402923" ID="ID_26758518" LINK="http://www.hectorpharma.com/brainlobes.php" MODIFIED="1404029714704">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/brainlobes%20(1).gif" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1404025484269" ID="ID_1912843198" MODIFIED="1404025492697" TEXT="cerebrum S9.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1236124211" MODIFIED="1404025814509" TEXT="pict">
+<node CREATED="1403956374964" ID="ID_640951206" LINK="http://www.enchantedlearning.com/subjects/anatomy/brain/glossary/" MODIFIED="1404025754874">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/Brainlobes.GIF" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1404028589533" FOLDED="true" ID="ID_563108044" MODIFIED="1404029387167" POSITION="right" TEXT="neurology">
+<node CREATED="1404028594092" FOLDED="true" ID="ID_1736772029" MODIFIED="1404029387165" TEXT="unilateral neglect syndrome S15.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1738141045" MODIFIED="1404029109198" TEXT="pict">
+<node CREATED="1404028738269" ID="ID_1460845286" LINK="http://www.gainesonbrains.com/2012/01/hemispatial-neglect-one-sided-world.html" MODIFIED="1404028780842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/cns%20(1).jpeg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1404028811020" FOLDED="true" ID="ID_886480983" MODIFIED="1404029387166" TEXT="saccadic S15.Q2">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1506787035" MODIFIED="1404029107919" TEXT="pict">
+<node CREATED="1404028823101" ID="ID_1907220508" LINK="http://zeiteye.wordpress.com/2012/01/25/cubism-perception-and-experimental-film/" MODIFIED="1404029093217">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/1965_yarbus_eye-tracking_c_20140629_170436_size-50x50.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1404029146125" FOLDED="true" ID="ID_449696177" MODIFIED="1404029387166" TEXT="covariance S16.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_1609283442" MODIFIED="1404029384479" TEXT="pict">
+<node CREATED="1404029156941" ID="ID_391502567" LINK="http://www.maths.uq.edu.au/~gjm/emmix/paper.html" MODIFIED="1404029366441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/fig1.GIF" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1404027698413" ID="ID_168085269" MODIFIED="1404027703786" POSITION="right" TEXT="Medicine">
+<node CREATED="1404027705229" ID="ID_1834301042" MODIFIED="1404027710921" TEXT="lesion S14.Q1">
+<node CREATED="1403956371492" FOLDED="true" ID="ID_715319731" MODIFIED="1404028090638" TEXT="pict">
+<node CREATED="1404027722717" ID="ID_797861711" LINK="http://www.pediatricsconsultantlive.com/articles/lesions-point-serious-bacterial-infections" MODIFIED="1404028088827">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images/1446277.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1404028530094" ID="ID_101702719" MODIFIED="1404028532874" POSITION="right" TEXT="Psychology">
+<node CREATED="1404028533213" ID="ID_679934309" MODIFIED="1404028539562" TEXT="internal monologue S14.T1"/>
+<node CREATED="1404029112733" ID="ID_1191461826" MODIFIED="1404029119034" TEXT="episodic memory S15.Q3"/>
+</node>
+<node CREATED="1404028549789" ID="ID_1680189167" MODIFIED="1404028551642" POSITION="right" TEXT="Terms">
+<node CREATED="1404028552157" ID="ID_1471816387" MODIFIED="1404028562105" TEXT="magno- S14.T2"/>
 </node>
 </node>
 </map>
