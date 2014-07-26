@@ -1701,7 +1701,7 @@
 <node CREATED="1404047169964" ID="ID_1635278821" LINK="http://localhost/VM_Cake/" MODIFIED="1404089017861" TEXT="http://localhost/VM_Cake/"/>
 </node>
 <node CREATED="1394782810268" ID="ID_1214176987" LINK="https://mysqladmin.lolipop.jp/pma/index.php?db=LAA0278957-cr6cake&amp;server=108&amp;token=8681f53e03e8692cb50c3418d799ebfe" MODIFIED="1394782818282" TEXT="lollipop phpadmin"/>
-<node CREATED="1394782828107" ID="ID_132793784" LINK="https://user.lolipop.jp/?mode=mysql&amp;database=LAA0278957-cr6cake&amp;user_db_id=" MODIFIED="1394782835748" TEXT="lollipop user page"/>
+<node CREATED="1394782828107" ID="ID_132793784" LINK="https://user.lolipop.jp/?mode=mysql&amp;database=LAA0278957-cr6cake&amp;user_db_id=" MODIFIED="1406354782527" TEXT="lollipop user page"/>
 <node CREATED="1394782855677" ID="ID_324095322" LINK="http://book.cakephp.org/2.0/en/tutorials-and-examples/blog/blog.html" MODIFIED="1394782858888" TEXT="cake tut"/>
 </node>
 <node CREATED="1405005578300" ID="ID_272515737" MODIFIED="1405210746468" TEXT="D-7">
