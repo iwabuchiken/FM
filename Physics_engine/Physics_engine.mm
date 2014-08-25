@@ -30,7 +30,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1373691621936" FOLDED="true" ID="ID_958908024" MODIFIED="1397132914814" TEXT="D-3">
+<node CREATED="1373691621936" ID="ID_958908024" MODIFIED="1408949441034" TEXT="D-3">
 <node CREATED="1394625186463" ID="ID_982838706" MODIFIED="1394625193878" TEXT="Bullet"/>
 <node CREATED="1394625229338" ID="ID_9597711" MODIFIED="1394625230520" TEXT="REF">
 <node CREATED="1394625230521" ID="ID_1594897917" MODIFIED="1394625230905" TEXT="1">
@@ -88,85 +88,87 @@
 </node>
 <node CREATED="1394633349900" ID="ID_757781341" MODIFIED="1394633350711" TEXT="4"/>
 </node>
-<node CREATED="1397111432259" FOLDED="true" ID="ID_745742186" MODIFIED="1397132911276" TEXT="D-1">
+<node CREATED="1397111432259" ID="ID_745742186" MODIFIED="1408949453161" TEXT="D-1">
 <node CREATED="1394676773252" ID="ID_1054468190" MODIFIED="1397111443104" TEXT="v-1.0"/>
-<node CREATED="1394725467468" FOLDED="true" ID="ID_567388890" MODIFIED="1397132909826" TEXT="v-2.x">
-<node CREATED="1394725471532" ID="ID_716355422" MODIFIED="1395403216200" TEXT="Learn">
+<node CREATED="1394725467468" FOLDED="true" ID="ID_567388890" MODIFIED="1408966885058" TEXT="v-2.x">
+<node CREATED="1394725471532" FOLDED="true" ID="ID_716355422" MODIFIED="1408966885014" TEXT="Learn">
 <node CREATED="1394725474437" ID="ID_984635973" MODIFIED="1394725477683" TEXT="CodeBlocks"/>
-<node CREATED="1394725478036" ID="ID_1520571382" MODIFIED="1394725479412" TEXT="REF">
-<node CREATED="1394725479413" ID="ID_1352655718" MODIFIED="1394725479748" TEXT="1">
-<node CREATED="1394725479749" ID="ID_188701930" LINK="http://www.cplusplus.com/doc/tutorial/introduction/codeblocks/" MODIFIED="1394725484102" TEXT="tut"/>
+<node CREATED="1394725478036" FOLDED="true" ID="ID_1520571382" MODIFIED="1408966885013" TEXT="REF">
+<node CREATED="1394725479413" FOLDED="true" ID="ID_1352655718" MODIFIED="1408966885011" TEXT="1">
+<node CREATED="1394725479749" FOLDED="true" ID="ID_188701930" LINK="http://www.cplusplus.com/doc/tutorial/introduction/codeblocks/" MODIFIED="1408966884515" TEXT="tut">
+<node CREATED="1408949497636" ID="ID_1453293439" MODIFIED="1408949500584" TEXT="CodeBlocks"/>
 </node>
-<node CREATED="1394725509652" ID="ID_660617627" MODIFIED="1394725512384" TEXT="2">
+</node>
+<node CREATED="1394725509652" FOLDED="true" ID="ID_660617627" MODIFIED="1408966885011" TEXT="2">
 <node CREATED="1394725513987" ID="ID_270285226" LINK="https://www.google.co.jp/search?q=ode+codeblocks+tutorial&amp;oq=ode+codeblocks+tutorial&amp;aqs=chrome..69i57.4511j0j4&amp;sourceid=chrome&amp;espv=2&amp;es_sm=122&amp;ie=UTF-8" MODIFIED="1394725518990" TEXT="search"/>
 </node>
-<node CREATED="1394725512611" ID="ID_1830648531" MODIFIED="1394725513040" TEXT="3">
+<node CREATED="1394725512611" FOLDED="true" ID="ID_1830648531" MODIFIED="1408966885012" TEXT="3">
 <node CREATED="1394725619075" ID="ID_1383208251" LINK="http://ode-wiki.org/wiki/index.php?title=Main_Page" MODIFIED="1394725624826" TEXT="ode wiki"/>
 </node>
-<node CREATED="1394725653892" ID="ID_547508204" MODIFIED="1394725659589" TEXT="4">
+<node CREATED="1394725653892" FOLDED="true" ID="ID_547508204" MODIFIED="1408966885012" TEXT="4">
 <node CREATED="1394725659590" ID="ID_1330180771" LINK="http://demura.net/9ode/9321.html" MODIFIED="1394725663632" TEXT="ode tut"/>
 </node>
 </node>
 </node>
 <node CREATED="1395403207100" ID="ID_1687571368" MODIFIED="1395403211919" TEXT="v-2.0"/>
-<node CREATED="1395403184477" ID="ID_1663020964" MODIFIED="1395404908579" TEXT="v-2.1">
+<node CREATED="1395403184477" FOLDED="true" ID="ID_1663020964" MODIFIED="1408966885016" TEXT="v-2.1">
 <icon BUILTIN="stop-sign"/>
-<node CREATED="1395403189214" ID="ID_912508126" MODIFIED="1395403194218" TEXT="First ODE project">
-<node CREATED="1395403194829" ID="ID_1174729120" MODIFIED="1395403195869" TEXT="REF">
+<node CREATED="1395403189214" FOLDED="true" ID="ID_912508126" MODIFIED="1408966885015" TEXT="First ODE project">
+<node CREATED="1395403194829" FOLDED="true" ID="ID_1174729120" MODIFIED="1408966885015" TEXT="REF">
 <node CREATED="1395403195870" ID="ID_1771494085" LINK="http://www.alsprogrammingresource.com/basic_ode.html" MODIFIED="1395403199725" TEXT="1"/>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1395404935421" ID="ID_1593872433" MODIFIED="1395404953325" TEXT="ERROR">
-<node CREATED="1395404942526" FOLDED="true" ID="ID_187755210" MODIFIED="1395404949682" TEXT="line">
+<node COLOR="#ff0000" CREATED="1395404935421" FOLDED="true" ID="ID_1593872433" MODIFIED="1408966885015" TEXT="ERROR">
+<node CREATED="1395404942526" FOLDED="true" ID="ID_187755210" MODIFIED="1408949455768" TEXT="line">
 <node CREATED="1395404937981" ID="ID_1832104024" MODIFIED="1395404946582" TEXT="||=== Build: Debug in D-4_v-2.1_First-ODE (compiler: GNU GCC Compiler) ===| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|111|error: #error You must #define dSINGLE or dDOUBLE| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|217|error: #error You must #define dSINGLE or dDOUBLE| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|139|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|140|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|141|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|142|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|143|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|144|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|369|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|370|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|371|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\common.h|372|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|55|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|58|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|59|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|60|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|61|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|62|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|63|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|64|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|83|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|84|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|85|error: &apos;dReal&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\contact.h|96|error: &apos;dVector3&apos; does not name a type| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: variable or field &apos;dAddVectors3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|45|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: variable or field &apos;dSubtractVectors3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|55|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: variable or field &apos;dAddScaledVectors3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: expected primary-expression before &apos;const&apos;| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|65|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: variable or field &apos;dScaleVector3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|75|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|82|error: variable or field &apos;dNegateVector3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|82|error: &apos;dReal&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|82|error: &apos;res&apos; was not declared in this scope| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|89|error: variable or field &apos;dCopyVector3&apos; declared void| C:\WORKS\WS\WS_PhysicsEngine\D-4_v-2.1_First-ODE\D-4_v-2.1_First-ODE\ode\odemath.h|89|error: &apos;dReal&apos; was not declared in this scope| ||More errors follow but not being shown.| ||Edit the max errors limit in compiler options...| ||=== Build failed: 50 error(s), 0 warning(s) (0 minute(s), 5 second(s)) ===| "/>
 </node>
 </node>
 </node>
-<node CREATED="1395404881183" ID="ID_243493795" MODIFIED="1395404882602" TEXT="v-2.2">
-<node CREATED="1395404883458" ID="ID_1273745634" MODIFIED="1395404886507" TEXT="Other tut">
+<node CREATED="1395404881183" FOLDED="true" ID="ID_243493795" MODIFIED="1408966885048" TEXT="v-2.2">
+<node CREATED="1395404883458" FOLDED="true" ID="ID_1273745634" MODIFIED="1408966885046" TEXT="Other tut">
 <node CREATED="1395404886976" ID="ID_523630639" LINK="http://demura.net/9ode/8185.html" MODIFIED="1395404904455" TEXT="REF"/>
 </node>
-<node COLOR="#ff0000" CREATED="1395405820590" ID="ID_884324062" MODIFIED="1395405829613" TEXT="ERROR">
-<node CREATED="1395405822899" ID="ID_965484710" MODIFIED="1395406346128" TEXT="line">
+<node COLOR="#ff0000" CREATED="1395405820590" FOLDED="true" ID="ID_884324062" MODIFIED="1408966885047" TEXT="ERROR">
+<node CREATED="1395405822899" FOLDED="true" ID="ID_965484710" MODIFIED="1408966885047" TEXT="line">
 <node CREATED="1395405824318" ID="ID_1130471851" MODIFIED="1395405825274" TEXT="||=== Build: DebugDoubleLib in step1 (compiler: GNU GCC Compiler) ===| ld.exe||cannot find -lode_doubled| ld.exe||cannot find -ldrawstuffd| ||=== Build failed: 2 error(s), 0 warning(s) (0 minute(s), 2 second(s)) ===| "/>
 </node>
 </node>
 </node>
-<node CREATED="1395405830622" ID="ID_990975085" MODIFIED="1395414659190" TEXT="v-2.3">
+<node CREATED="1395405830622" FOLDED="true" ID="ID_990975085" MODIFIED="1408966885049" TEXT="v-2.3">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1395405835454" ID="ID_1580181656" MODIFIED="1395405853946" TEXT="create a project in &quot;C:\ode-0.12\myprog&quot;"/>
 <node CREATED="1395414653499" ID="ID_1262485949" MODIFIED="1395414656008" TEXT="=&gt; C:\ode-0.12\myprog\D-"/>
 </node>
-<node CREATED="1395414660038" ID="ID_600671968" MODIFIED="1395414695578" TEXT="v-2.4">
+<node CREATED="1395414660038" FOLDED="true" ID="ID_600671968" MODIFIED="1408966885050" TEXT="v-2.4">
 <icon BUILTIN="idea"/>
-<node CREATED="1395414664784" ID="ID_673910467" MODIFIED="1395414666685" TEXT="C/P">
+<node CREATED="1395414664784" FOLDED="true" ID="ID_673910467" MODIFIED="1408966885049" TEXT="C/P">
 <node CREATED="1395414680352" ID="ID_277968681" MODIFIED="1395414689836" TEXT="=&gt; C:\ode-0.12\build\codeblocks\demo_boxstack_2.cbp"/>
 </node>
 </node>
-<node CREATED="1395414698016" ID="ID_1993329963" MODIFIED="1395417744481" TEXT="v-2.5">
+<node CREATED="1395414698016" FOLDED="true" ID="ID_1993329963" MODIFIED="1408966885055" TEXT="v-2.5">
 <icon BUILTIN="stop-sign"/>
-<node CREATED="1395414700847" ID="ID_1619119773" MODIFIED="1395414703951" TEXT="C/P">
+<node CREATED="1395414700847" FOLDED="true" ID="ID_1619119773" MODIFIED="1408966885051" TEXT="C/P">
 <node CREATED="1395414703953" ID="ID_1759817386" MODIFIED="1395414706684" TEXT="=&gt; dm1.h"/>
 </node>
-<node COLOR="#ff0000" CREATED="1395414971505" ID="ID_1350089026" MODIFIED="1395414979200" TEXT="ERROR">
-<node CREATED="1395414974272" FOLDED="true" ID="ID_74002035" MODIFIED="1397096476433" TEXT="line">
+<node COLOR="#ff0000" CREATED="1395414971505" FOLDED="true" ID="ID_1350089026" MODIFIED="1408966885054" TEXT="ERROR">
+<node CREATED="1395414974272" FOLDED="true" ID="ID_74002035" MODIFIED="1408966885051" TEXT="line">
 <node CREATED="1395414975714" ID="ID_319676498" MODIFIED="1395414976269" TEXT="||=== Build: Debug in demo_boxstack_2 (compiler: GNU GCC Compiler) ===| C:\ode-0.12\ode\demo\demo_boxstack_2.cpp||In function &apos;void start()&apos;:| C:\ode-0.12\ode\demo\demo_boxstack_2.cpp|179|error: &apos;void start()&apos; was declared &apos;extern&apos; and later &apos;static&apos; [-fpermissive]| C:\ode-0.12\ode\demo\dm1.h|17|error: previous declaration of &apos;void start()&apos; [-fpermissive]| ||=== Build failed: 2 error(s), 0 warning(s) (0 minute(s), 4 second(s)) ===| "/>
 </node>
-<node CREATED="1395417660711" ID="ID_317843087" MODIFIED="1395417664980" TEXT="TRY">
+<node CREATED="1395417660711" FOLDED="true" ID="ID_317843087" MODIFIED="1408966885053" TEXT="TRY">
 <node CREATED="1395417673895" ID="ID_1405206626" MODIFIED="1395417702643" TEXT="step1.cbp:: Linker tag =&gt; &quot;&lt;Add directory=&quot;..\..\lib\Debug&quot; /&gt;&quot;"/>
-<node COLOR="#ff0000" CREATED="1395417652876" ID="ID_1587283772" MODIFIED="1395417658237" TEXT="ERROR">
-<node CREATED="1395417706505" FOLDED="true" ID="ID_1169284013" MODIFIED="1395417727978" TEXT="line">
+<node COLOR="#ff0000" CREATED="1395417652876" FOLDED="true" ID="ID_1587283772" MODIFIED="1408966885053" TEXT="ERROR">
+<node CREATED="1395417706505" FOLDED="true" ID="ID_1169284013" MODIFIED="1408966885052" TEXT="line">
 <node CREATED="1395417724952" ID="ID_978138216" MODIFIED="1395417725893" TEXT="||=== Build: DebugDoubleLib in step1 (compiler: GNU GCC Compiler) ===| obj\myprog\step1\step1.o||In function `main&apos;:| C:\ode-0.12\myprog\step1\step1.cpp|15|undefined reference to `dmLoop(int, int, void (*)(int))&apos;| ||=== Build failed: 1 error(s), 0 warning(s) (0 minute(s), 0 second(s)) ===| "/>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1395417745288" ID="ID_16399356" MODIFIED="1397111606535" TEXT="v-2.6">
+<node CREATED="1395417745288" FOLDED="true" ID="ID_16399356" MODIFIED="1408966885057" TEXT="v-2.6">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1395417763143" ID="ID_1829375511" MODIFIED="1395417764820" TEXT="C:\ode-0.12\build2\codeblocks\"/>
-<node CREATED="1395420259193" ID="ID_1336130526" MODIFIED="1395420261114" TEXT="REF">
-<node CREATED="1395420261115" ID="ID_1545237850" MODIFIED="1395420261801" TEXT="1">
+<node CREATED="1395420259193" FOLDED="true" ID="ID_1336130526" MODIFIED="1408966885056" TEXT="REF">
+<node CREATED="1395420261115" FOLDED="true" ID="ID_1545237850" MODIFIED="1408966885056" TEXT="1">
 <node CREATED="1395420261802" ID="ID_1783235243" LINK="http://ode-wiki.org/wiki/index.php?title=HOWTO" MODIFIED="1395420267757" TEXT="manual"/>
 </node>
 </node>
@@ -345,10 +347,6 @@
 <node CREATED="1397615295978" ID="ID_59403020" LINK="http://demura.net/english/ode4" MODIFIED="1397615303004" TEXT="tut"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1747964054" MODIFIED="1397615930239" TEXT="N@">
-<cloud/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
 <node CREATED="1397615931896" ID="ID_377057959" MODIFIED="1397615933718" TEXT="v-1.0">
 <node CREATED="1397617845177" ID="ID_3976432" MODIFIED="1397617850203" TEXT="v-1.0.0">
 <node CREATED="1397617850205" ID="ID_1479070989" MODIFIED="1397617851607" TEXT="setup">
@@ -371,22 +369,83 @@
 </node>
 </node>
 </node>
-<node CREATED="1363749220464" ID="ID_713570344" MODIFIED="1368761424274" TEXT="TEMPL">
-<node CREATED="1363749230884" ID="ID_1962550230" MODIFIED="1363749231960" TEXT="01">
-<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_498997248" MODIFIED="1394725505974" TEXT="CODES"/>
+<node CREATED="1408966906808" ID="ID_668425123" MODIFIED="1408966933383" TEXT="D-5">
+<node CREATED="1408966925304" ID="ID_1709509718" MODIFIED="1408966927365" TEXT="re-setup"/>
+<node CREATED="1408966982792" ID="ID_461188032" MODIFIED="1408966984433" TEXT="REF">
+<node CREATED="1408966984434" ID="ID_612098044" MODIFIED="1408966985569" TEXT="1">
+<node CREATED="1408966985570" ID="ID_1745972030" LINK="C:\WORKS\WS\Eclipse_Kepler\Tut_5" MODIFIED="1408966988513" TEXT="C:\WORKS\WS\Eclipse_Kepler\Tut_5"/>
 </node>
-<node BACKGROUND_COLOR="#3333ff" COLOR="#ffffff" CREATED="1363921033092" ID="ID_1910326770" MODIFIED="1364104390246" TEXT="BOOKMARK"/>
-<node CREATED="1367481600632" ID="ID_1158512760" MODIFIED="1367481605250" TEXT="TEST"/>
 </node>
-<node CREATED="1342048146168" ID="ID_154729415" MODIFIED="1397524220475" TEXT="ADMIN">
-<node CREATED="1366440780757" ID="ID_395878910" MODIFIED="1367382029947" TEXT="TEST">
-<node CREATED="1367381931132" ID="ID_1695997891" MODIFIED="1367381934299" TEXT="LOCAL"/>
+<node CREATED="1407637576098" ID="ID_327062332" MODIFIED="1407637578867" TEXT="v-1.0">
+<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_723142173" MODIFIED="1407534780772" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" ID="ID_236988285" MODIFIED="1408978420134" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1408978389726" ID="ID_254872930" MODIFIED="1408978394976" TEXT="figure out">
+<node CREATED="1408978394986" ID="ID_977280136" MODIFIED="1408978406916" TEXT="=&gt; set the project editable">
+<node CREATED="1408978406917" ID="ID_1629406362" MODIFIED="1408978417016" TEXT="=&gt; by both Eclipse and CB"/>
 </node>
-<node CREATED="1342230904781" ID="ID_263096560" MODIFIED="1366443609764" TEXT="COMMIT"/>
-<node CREATED="1342230908515" ID="ID_1754118445" MODIFIED="1366443609763" TEXT="MERGE"/>
-<node CREATED="1344491413546" ID="ID_1415376145" MODIFIED="1366443609763" TEXT="PUSH">
-<node CREATED="1344491415718" ID="ID_631617669" MODIFIED="1366443609763" TEXT="Origin"/>
 </node>
+</node>
+<node CREATED="1401588724779" ID="ID_27970798" MODIFIED="1401600746990" TEXT="2">
+<node CREATED="1408978421715" ID="ID_1807433826" MODIFIED="1408978426152" TEXT="New project">
+<node CREATED="1408978426995" ID="ID_788784154" MODIFIED="1408978465720" TEXT="&quot;ODE_Tut_10&quot;"/>
+</node>
+<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1747964054" MODIFIED="1408966898085" TEXT="N@">
+<cloud/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1401588725485" ID="ID_966251341" MODIFIED="1401600746993" TEXT="3"/>
+<node CREATED="1401588726267" ID="ID_797995501" MODIFIED="1401600746995" TEXT="4"/>
+</node>
+<node CREATED="1342048146168" ID="ID_38062733" MODIFIED="1398845257899" TEXT="ADMIN">
+<node CREATED="1366440780757" ID="ID_1164981357" MODIFIED="1367382029947" TEXT="TEST">
+<node CREATED="1398746271533" ID="ID_63712383" MODIFIED="1398746273898" TEXT="1">
+<node CREATED="1402976788325" ID="ID_579272737" MODIFIED="1402976795681" TEXT="doesn&apos;t stop"/>
+</node>
+<node CREATED="1398746272493" ID="ID_621665031" MODIFIED="1408234173614" TEXT="2">
+<node CREATED="1402976797412" ID="ID_343514505" MODIFIED="1407538834163" TEXT="act as intended"/>
+</node>
+</node>
+<node CREATED="1342230904781" ID="ID_1034361376" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1263095067" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" ID="ID_1604336206" MODIFIED="1366443609763" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1346728916" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1373724108974" ID="ID_956725031" MODIFIED="1401102408274" TEXT="TEMPLATE">
+<node CREATED="1407637576098" ID="ID_195570802" MODIFIED="1407637578867" TEXT="v-1.0">
+<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_1474933239" MODIFIED="1407534780772" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" ID="ID_1049357572" MODIFIED="1401600746988" TEXT="1"/>
+<node CREATED="1401588724779" ID="ID_911818466" MODIFIED="1401600746990" TEXT="2"/>
+<node CREATED="1401588725485" ID="ID_1377934164" MODIFIED="1401600746993" TEXT="3"/>
+<node CREATED="1401588726267" ID="ID_1075464011" MODIFIED="1401600746995" TEXT="4"/>
+</node>
+<node CREATED="1342048146168" ID="ID_929569562" MODIFIED="1398845257899" TEXT="ADMIN">
+<node CREATED="1366440780757" ID="ID_874874008" MODIFIED="1367382029947" TEXT="TEST">
+<node CREATED="1398746271533" ID="ID_529094921" MODIFIED="1398746273898" TEXT="1">
+<node CREATED="1402976788325" ID="ID_1044996052" MODIFIED="1402976795681" TEXT="doesn&apos;t stop"/>
+</node>
+<node CREATED="1398746272493" ID="ID_80848551" MODIFIED="1408234173614" TEXT="2">
+<node CREATED="1402976797412" ID="ID_1285962112" MODIFIED="1407538834163" TEXT="act as intended"/>
+</node>
+</node>
+<node CREATED="1342230904781" ID="ID_1727323872" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_476285314" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1344491413546" ID="ID_1012151560" MODIFIED="1366443609763" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_30467253" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1373723947342" ID="ID_1407188828" MODIFIED="1373724118225" TEXT="1">
+<node BACKGROUND_COLOR="#99ffff" CREATED="1373723949219" ID="ID_1095577041" MODIFIED="1377097885200" TEXT="CODES"/>
+</node>
+<node CREATED="1377097868627" ID="ID_1142106390" MODIFIED="1408238836933" TEXT="1">
+<node BACKGROUND_COLOR="#99ffff" CREATED="1377097869520" ID="ID_1096293559" MODIFIED="1377097885200" TEXT="FILES"/>
+</node>
+<node CREATED="1401588721596" ID="ID_185355689" MODIFIED="1401588723337" TEXT="numbers"/>
 </node>
 </node>
 <node CREATED="1349429429679" ID="ID_1097125234" MODIFIED="1367813822086" POSITION="right" TEXT="TODO">
@@ -425,7 +484,13 @@
 <node CREATED="1394633349900" ID="ID_933322887" MODIFIED="1394633350711" TEXT="4"/>
 </node>
 </node>
+<node CREATED="1408966906808" ID="ID_942905182" MODIFIED="1408966924582" TEXT="D-5">
+<node CREATED="1408966925304" ID="ID_180472206" MODIFIED="1408966927365" TEXT="re-setup"/>
 </node>
+</node>
+<node CREATED="1408966906808" ID="ID_1672857505" MODIFIED="1408966908169" TEXT="D-"/>
+<node CREATED="1408966906808" ID="ID_1382331769" MODIFIED="1408966908169" TEXT="D-"/>
+<node CREATED="1408966906808" ID="ID_1391485656" MODIFIED="1408966908169" TEXT="D-"/>
 </node>
 <node CREATED="1363619561045" ID="ID_442297896" MODIFIED="1363619563854" POSITION="left" TEXT="Links">
 <node CREATED="1349569185946" ID="ID_1282551431" LINK="../Activity_log.mm" MODIFIED="1349569194436" TEXT="UP"/>
