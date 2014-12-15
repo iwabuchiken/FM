@@ -1086,11 +1086,36 @@
 <node CREATED="1418092841420" ID="ID_1924764775" MODIFIED="1418092864258" TEXT="class">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418092845701" ID="ID_815989221" MODIFIED="1418092870527" TEXT="ControllerAdapter.EditAction"/>
+<node CREATED="1418622986562" ID="ID_1099752708" MODIFIED="1418622988709" TEXT="=&gt; freemind.modes.mindmapmode.actions"/>
 </node>
 <node CREATED="1418092892009" ID="ID_301497576" MODIFIED="1418092893916" TEXT="edit()">
 <node CREATED="1418092894935" ID="ID_187122677" MODIFIED="1418092908173" TEXT="? what it does">
+<node CREATED="1418623398118" ID="ID_219406305" MODIFIED="1418624472769" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1418623407087" ID="ID_810494734" MODIFIED="1418623428593" TEXT="void edit(final NodeView node, final NodeView prevSelected, final KeyEvent firstEvent, final boolean isNewNode, final boolean parentFolded, final boolean editLong)"/>
+<node CREATED="1418623430932" ID="ID_43288154" MODIFIED="1418623986147" TEXT="=&gt; inserting with &quot;insert&quot;, &quot;return&quot; keys">
+<node CREATED="1418623987317" ID="ID_1949784773" MODIFIED="1418623993610" TEXT=" --&gt; called; no MindMapController.edit() [EditAction.edit(6 params), only]"/>
+</node>
+<node CREATED="1418623774821" ID="ID_1630570576" MODIFIED="1418623789882" TEXT="=&gt; when editing an existing node">
+<node CREATED="1418623790328" ID="ID_539592007" MODIFIED="1418623910648">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      =&gt;&#160;MindMapController.edit() --&gt; EditAction.edit(3 params) --&gt; EditAction.edit(6 params)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1418624445846" ID="ID_1150152286" MODIFIED="1418624448569" TEXT="2">
+<node CREATED="1418624448571" ID="ID_535459434" MODIFIED="1418624468291" TEXT="EditAction.edit(6 params)"/>
 <node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" HGAP="34" ID="ID_946546871" MODIFIED="1418092872661" TEXT="N@" VSHIFT="19">
 <cloud/>
+</node>
 </node>
 </node>
 </node>
