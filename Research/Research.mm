@@ -1597,8 +1597,50 @@
 <node CREATED="1418868398792" ID="ID_534631372" MODIFIED="1418868407311" TEXT="S-4">
 <node CREATED="1418868408170" ID="ID_596066572" LINK="http://ja.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E5%A0%B4" MODIFIED="1418868422952" TEXT="&#x91cd;&#x529b;&#x5834;">
 <icon BUILTIN="full-1"/>
-<node CREATED="1418869129097" ID="ID_1330359694" LINK="http://ja.wikipedia.org/wiki/%E5%A0%B4" MODIFIED="1418869185172" TEXT="&#x5834;">
+<node CREATED="1418869129097" ID="ID_1330359694" LINK="http://ja.wikipedia.org/wiki/%E5%A0%B4" MODIFIED="1418912664867" TEXT="&#x5834; field">
 <icon BUILTIN="full-2"/>
+<node CREATED="1418912650768" ID="ID_488750951" LINK="http://ja.wikipedia.org/wiki/%E6%99%82%E7%A9%BA" MODIFIED="1418912670253" TEXT="&#x6642;&#x7a7a; spacetime">
+<icon BUILTIN="full-3"/>
+<node CREATED="1418967787933" ID="ID_1821826677" LINK="http://ja.wikipedia.org/wiki/%E5%A0%B4%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96" MODIFIED="1418967801407" TEXT="&#x5834;&#x306e;&#x7406;&#x8ad6;">
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1418968195176" ID="ID_1184214774" LINK="http://ja.wikipedia.org/wiki/%E4%BD%99%E5%89%B0%E6%AC%A1%E5%85%83" MODIFIED="1418968204459" TEXT="&#x4f59;&#x5270;&#x6b21;&#x5143;">
+<icon BUILTIN="full-5"/>
+</node>
+</node>
+</node>
+<node CREATED="1418968709694" ID="ID_1515059173" LINK="http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB" MODIFIED="1418968718645" TEXT="&#x30d9;&#x30af;&#x30c8;&#x30eb;">
+<icon BUILTIN="full-6"/>
+<node CREATED="1418968795431" ID="ID_564732036" LINK="http://ja.wikipedia.org/wiki/%E7%A9%BA%E9%96%93%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB" MODIFIED="1418968814116" TEXT="&#x7a7a;&#x9593;&#x30d9;&#x30af;&#x30c8;&#x30eb;&#xff08;&#x5e7e;&#x4f55;&#x30d9;&#x30af;&#x30c8;&#x30eb;&#xff09;">
+<icon BUILTIN="full-7"/>
+<node CREATED="1418968859583" ID="ID_1685063124" LINK="http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC_(%E7%89%A9%E7%90%86%E5%AD%A6)" MODIFIED="1418969145437" TEXT="&#x30b9;&#x30ab;&#x30e9;&#x30fc;">
+<icon BUILTIN="full-8"/>
+<node CREATED="1418969394039" ID="ID_1832524275" LINK="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3" MODIFIED="1418969409172" TEXT="&#x30a6;&#x30a3;&#x30ea;&#x30a2;&#x30e0;&#x30fb;&#x30ed;&#x30fc;&#x30ef;&#x30f3;&#x30fb;&#x30cf;&#x30df;&#x30eb;&#x30c8;&#x30f3;">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-0"/>
+</node>
+</node>
+<node CREATED="1418969131887" ID="ID_1183262107" LINK="http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E7%A9%BA%E9%96%93" MODIFIED="1418969147796" TEXT="&#x30d9;&#x30af;&#x30c8;&#x30eb;&#x7a7a;&#x9593;">
+<icon BUILTIN="full-9"/>
+<node CREATED="1418971241849" ID="ID_1021497088" LINK="http://ja.wikipedia.org/wiki/%E5%86%85%E7%A9%8D" MODIFIED="1418971250645" TEXT="&#x5185;&#x7a4d;">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-1"/>
+<node CREATED="1418971263200" ID="ID_817400523" LINK="http://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E7%A9%BA%E9%96%93" MODIFIED="1418971272701" TEXT="&#x5185;&#x7a4d;&#x7a7a;&#x9593;">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1418972025657" ID="ID_892137217" LINK="http://en.wikipedia.org/wiki/Norm_(mathematics)" MODIFIED="1418972044165" TEXT="&#x30ce;&#x30eb;&#x30e0; norm">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-3"/>
+<node CREATED="1418972074585" ID="ID_56788354" LINK="http://en.wikipedia.org/wiki/Homogeneous_function" MODIFIED="1418972099085" TEXT="Homogeneous function &#x6589;&#x6b21;&#x95a2;&#x6570;">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1418973123194" ID="ID_704254113" LINK="http://oshiete.goo.ne.jp/qa/1530413.html" MODIFIED="1418973130072" TEXT="explained"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1418868431881" ID="ID_760195289" MODIFIED="1418868438230" TEXT="18/12/2014 11:04:00"/>
