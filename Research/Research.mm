@@ -931,6 +931,14 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1424073584349" ID="ID_1125278773" MODIFIED="1424073584436" TEXT=" 15/02/16"/>
 </node>
+<node CREATED="1424345891017" ID="ID_781867616" MODIFIED="1424345893278" TEXT="S-6">
+<node CREATED="1424345894173" ID="ID_64775584" MODIFIED="1424345897885" TEXT="&#x30c9;&#x30c3;&#x30d7;&#x30e9;&#x30fc;&#x52b9;&#x679c;"/>
+<node CREATED="1424345898696" ID="ID_1170544173" MODIFIED="1424345900619" TEXT="REF">
+<node CREATED="1424345900620" ID="ID_921275619" MODIFIED="1424345901581" TEXT="1">
+<node CREATED="1424345901582" ID="ID_1029872361" LINK="http://doraneco.com/physics/lecture/wave/dop.html" MODIFIED="1424345908937" TEXT="explained"/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1417314046642" ID="ID_1274549532" MODIFIED="1424073587757" TEXT="D-66">
 <node CREATED="1417314049474" ID="ID_209234435" MODIFIED="1417314073501" TEXT="&#x6708;&#x306e;&#x9670;&#x967d;&#x7dda;"/>
@@ -2711,6 +2719,44 @@
 </node>
 <node CREATED="1401588725485" ID="ID_541767939" MODIFIED="1401600746993" TEXT="3"/>
 <node CREATED="1401588726267" ID="ID_460804836" MODIFIED="1401600746995" TEXT="4"/>
+</node>
+</node>
+<node CREATED="1424309855753" ID="ID_767539511" MODIFIED="1424312135623" TEXT="S-2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1424309858727" ID="ID_611597884" MODIFIED="1424309862956" TEXT="&#x81a8;&#x5f35;&#x5264;"/>
+<node CREATED="1424309865589" ID="ID_1585561107" MODIFIED="1424309865591" TEXT=" 15/02/19"/>
+<node CREATED="1424310366827" ID="ID_1065649448" MODIFIED="1424310368684" TEXT="REF">
+<node CREATED="1424310368685" ID="ID_1153742600" MODIFIED="1424310369256" TEXT="1">
+<node CREATED="1424310369257" ID="ID_1595724549" LINK="http://www.tokyo-eiken.go.jp/" MODIFIED="1424310388078" TEXT="&#x6771;&#x4eac;&#x90fd;&#x5065;&#x5eb7;&#x5b89;&#x5168;&#x7814;&#x7a76;&#x30bb;&#x30f3;&#x30bf;&#x30fc;"/>
+</node>
+</node>
+<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_1459936136" MODIFIED="1421021927487" TEXT="steps" VSHIFT="3">
+<node COLOR="#ff0000" CREATED="1401588724075" ID="ID_376307199" MODIFIED="1424313052292" TEXT="1">
+<node CREATED="1424309880720" ID="ID_573003524" LINK="https://ja.wikipedia.org/wiki/%E8%86%A8%E5%BC%B5%E5%89%A4" MODIFIED="1424310126920" TEXT="&#x81a8;&#x5f35;&#x5264; wiki">
+<icon BUILTIN="full-1"/>
+<node CREATED="1424309900044" ID="ID_688790340" LINK="http://websaku.sakura.ne.jp/tenkabutsu/cat0001/1000000010.html" MODIFIED="1424310128700" TEXT="&#x81a8;&#x5f35;&#x5264;&#x3000;&#x69cb;&#x6210;&#x7269;">
+<icon BUILTIN="full-2"/>
+<node CREATED="1424310000911" ID="ID_590823365" MODIFIED="1424310130332">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#30827;&#37240;&#12450;&#12523;&#12511;&#12491;&#12454;&#12512;&#12459;&#12522;&#12454;&#12512;<font face="sans-serif" color="rgb(37, 37, 37)" size="4">(AlK(SO<sub style="font-variant: normal; white-space: normal; word-spacing: 0px; text-align: left; font-family: sans-serif; text-transform: none; font-style: normal; text-indent: 0px; letter-spacing: normal; line-height: 1em; font-weight: normal; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255)">4</sub>)<sub style="font-variant: normal; white-space: normal; text-align: left; word-spacing: 0px; font-family: sans-serif; text-transform: none; font-weight: normal; line-height: 1em; letter-spacing: normal; text-indent: 0px; font-style: normal; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255)">2</sub>&#183;12H<sub style="font-variant: normal; white-space: normal; text-align: left; word-spacing: 0px; font-family: sans-serif; text-transform: none; font-weight: normal; line-height: 1em; letter-spacing: normal; text-indent: 0px; font-style: normal; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255)">2</sub>O)</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="full-3"/>
+<node CREATED="1424310114168" ID="ID_1842869227" LINK="https://duckduckgo.com/?q=(AlK(SO4)2%C2%B712H2O)" MODIFIED="1424310122827" TEXT="=&gt; search"/>
+</node>
+<node CREATED="1424310218760" ID="ID_385961514" LINK="http://blog.livedoor.jp/cosper/archives/13668543.html" MODIFIED="1424310239153" TEXT="&#x4f7f;&#x7528;&#x7269;&#x8cea;&#x3000;&#x30ea;&#x30b9;&#x30c8;">
+<icon BUILTIN="full-4"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
