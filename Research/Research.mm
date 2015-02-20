@@ -885,6 +885,11 @@
 <node CREATED="1423531085094" ID="ID_1132262734" MODIFIED="1423913442654" TEXT="D-100">
 <node CREATED="1423531087343" ID="ID_585955807" MODIFIED="1423531091489" TEXT="&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;"/>
 <node CREATED="1423531093676" ID="ID_926729892" MODIFIED="1423531106537" TEXT="=&gt;&#x3000;&#x300e;&#x9ad8;&#x6821;&#x6570;&#x5b66;&#x3067;&#x308f;&#x304b;&#x308b;&#x3001;&#x3001;&#x3001;&#x300f;"/>
+<node CREATED="1424416591442" ID="ID_85505917" MODIFIED="1424416592684" TEXT="REF">
+<node CREATED="1424416592693" ID="ID_1539803120" MODIFIED="1424416593270" TEXT="1">
+<node CREATED="1424416593272" ID="ID_505454725" LINK="https://docs.google.com/spreadsheets/d/1_9jHcRs-onRsSFT9cG1ep527LsbTo3XL9Fmwq_N_Lc8/edit#gid=0" MODIFIED="1424416596344" TEXT="sheet"/>
+</node>
+</node>
 <node CREATED="1407637576098" FOLDED="true" ID="ID_1493192286" MODIFIED="1423874466018" TEXT="S-1">
 <icon BUILTIN="button_ok"/>
 <node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_863862113" MODIFIED="1423874466018" TEXT="steps" VSHIFT="3">
@@ -2746,8 +2751,7 @@
       &#30827;&#37240;&#12450;&#12523;&#12511;&#12491;&#12454;&#12512;&#12459;&#12522;&#12454;&#12512;<font face="sans-serif" color="rgb(37, 37, 37)" size="4">(AlK(SO<sub style="font-variant: normal; white-space: normal; word-spacing: 0px; text-align: left; font-family: sans-serif; text-transform: none; font-style: normal; text-indent: 0px; letter-spacing: normal; line-height: 1em; font-weight: normal; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255)">4</sub>)<sub style="font-variant: normal; white-space: normal; text-align: left; word-spacing: 0px; font-family: sans-serif; text-transform: none; font-weight: normal; line-height: 1em; letter-spacing: normal; text-indent: 0px; font-style: normal; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255)">2</sub>&#183;12H<sub style="font-variant: normal; white-space: normal; text-align: left; word-spacing: 0px; font-family: sans-serif; text-transform: none; font-weight: normal; line-height: 1em; letter-spacing: normal; text-indent: 0px; font-style: normal; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255)">2</sub>O)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-3"/>
 <node CREATED="1424310114168" ID="ID_1842869227" LINK="https://duckduckgo.com/?q=(AlK(SO4)2%C2%B712H2O)" MODIFIED="1424310122827" TEXT="=&gt; search"/>
 </node>
