@@ -172,6 +172,7 @@
 <node CREATED="1424938067457" ID="ID_244050736" MODIFIED="1424938086725" TEXT="=&gt; &#x76f8;&#x5bfe;&#x6027; p.103 palabora"/>
 <node CREATED="1425106182467" ID="ID_1468959751" MODIFIED="1425170692828" TEXT="--&gt; plot y values which are of complex number"/>
 </node>
+<node CREATED="1425299160749" ID="ID_250034676" MODIFIED="1425299165071" TEXT="derivative"/>
 </node>
 </node>
 </node>
