@@ -3244,6 +3244,53 @@
 </node>
 </node>
 </node>
+<node CREATED="1426285039706" ID="ID_1586480760" MODIFIED="1426285041632" TEXT="S-8">
+<node CREATED="1426285043442" ID="ID_1689602330" MODIFIED="1426285043472" TEXT=" 15/03/14"/>
+<node CREATED="1426287821298" ID="ID_280214580" MODIFIED="1426287824782" TEXT="article">
+<node CREATED="1426285799083" ID="ID_708636016" LINK="http://en.wikipedia.org/wiki/Port_of_Mongla" MODIFIED="1426287433394" TEXT="&#x30e2;&#x30f3;&#x30b0;&#x30e9;">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1426285839011" ID="ID_1328005015" LINK="http://ja.wikipedia.org/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" MODIFIED="1426287435757" TEXT="&#x5fc3;&#x7b4b;&#x6897;&#x585e;">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1426287423579" ID="ID_680474567" LINK="http://health.goo.ne.jp/medical/emergency/oukyu003" MODIFIED="1426287437933" TEXT="&#x5fc3;&#x81d3;&#x30de;&#x30c3;&#x30b5;&#x30fc;&#x30b8;">
+<icon BUILTIN="full-3"/>
+<node CREATED="1426287409097" ID="ID_1906721183" LINK="http://www.fdma.go.jp/html/life/pdf/oukyu2.pdf" MODIFIED="1426287440171" TEXT="&#x5fc3;&#x80ba;&#x8607;&#x751f;&#x6cd5;">
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1426287456851" ID="ID_472151441" LINK="http://www.k-salad.com/dic_care/attention03_2.shtml" MODIFIED="1426287833871" TEXT="&#x5fc3;&#x81d3;&#x30de;&#x30c3;&#x30b5;&#x30fc;&#x30b8;&#x3000;&#x5225;&#x30b5;&#x30a4;&#x30c8;">
+<icon BUILTIN="full-5"/>
+</node>
+</node>
+<node CREATED="1426288095730" ID="ID_1119426887" LINK="http://ja.wikipedia.org/wiki/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E" MODIFIED="1426288103914" TEXT="&#x5fc3;&#x7b4b;&#x6897;&#x585e;">
+<icon BUILTIN="full-6"/>
+<node CREATED="1426287923186" ID="ID_928017983" LINK="http://www.weblio.jp/wkpja/content/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E_%E5%90%88%E4%BD%B5%E7%97%87" MODIFIED="1426288106317" TEXT="&#x5fc3;&#x7b4b;&#x6897;&#x585e;&#x5408;&#x4f75;&#x75c7;">
+<icon BUILTIN="full-7"/>
+<node CREATED="1426287842154" ID="ID_799126220" LINK="http://en.wikipedia.org/wiki/Dressler%27s_syndrome" MODIFIED="1426288109187" TEXT="Dressler&apos;s syndrome &#x5fc3;&#x7b4b;&#x6897;&#x585e;&#x5f8c;&#x75c7;&#x5019;&#x7fa4; ">
+<icon BUILTIN="full-8"/>
+<node CREATED="1426287901978" ID="ID_1928397420" LINK="http://meddic.jp/%E5%BF%83%E7%AD%8B%E6%A2%97%E5%A1%9E%E5%BE%8C%E7%97%87%E5%80%99%E7%BE%A4" MODIFIED="1426287907301" TEXT="other site"/>
+<node CREATED="1426287953018" ID="ID_1095498225" LINK="http://en.wikipedia.org/wiki/Pericardium" MODIFIED="1426288115931" TEXT="Pericardium &#x5fc3;&#x819c;">
+<icon BUILTIN="full-9"/>
+</node>
+</node>
+<node CREATED="1426288006251" ID="ID_92467881" LINK="http://ja.wikipedia.org/wiki/%E5%BF%83%E4%B8%8D%E5%85%A8" MODIFIED="1426288120856" TEXT="&#x5fc3;&#x4e0d;&#x5168; heart failure">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-0"/>
+<node CREATED="1426288068386" ID="ID_609582904" MODIFIED="1426288078336" TEXT="=&gt; unable to pump enough blood"/>
+</node>
+</node>
+<node CREATED="1426288135681" ID="ID_1116333706" MODIFIED="1426288153623" TEXT="=&gt; &#x5fc3;&#x7b4b;&#x3000;&#x58ca;&#x6b7b;"/>
+</node>
+<node CREATED="1426289211897" ID="ID_451269438" LINK="http://www.aurora-net.or.jp/life/heart/freeillust/a01.html" MODIFIED="1426289867474" TEXT="&#x5fc3;&#x81d3;&#x3000;&#x89e3;&#x5256;&#x56f3;&#x3000;&#x30a4;&#x30e9;&#x30b9;&#x30c8;">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1426289838793" ID="ID_1875100204" LINK="http://dogfame.com/dogtips/infectiousdisease/heartworm2.html" MODIFIED="1426289872440" TEXT="&#x30d5;&#x30a3;&#x30e9;&#x30ea;&#x30a2;&#x3000;&#x73fe;&#x8c61;">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1424591854471" ID="ID_496825596" MODIFIED="1425000264674" TEXT="D-107">
 <node CREATED="1424591857395" ID="ID_527892148" MODIFIED="1425103177718" TEXT="Read book 1"/>
@@ -3667,6 +3714,52 @@
 </node>
 <node CREATED="1426223939143" ID="ID_1504445082" MODIFIED="1426223945190" TEXT="S-11">
 <node CREATED="1426223948128" ID="ID_75854185" MODIFIED="1426223948181" TEXT=" 15/03/13"/>
+</node>
+<node CREATED="1426312039490" ID="ID_1783135194" MODIFIED="1426312044637" TEXT="s-12">
+<node CREATED="1426312049688" ID="ID_1867575395" MODIFIED="1426312049689" TEXT=" 15/03/14"/>
+<node CREATED="1426313021938" ID="ID_1704977025" LINK="https://www.google.co.jp/search?hl=ja&amp;site=imghp&amp;tbm=isch&amp;source=hp&amp;biw=1066&amp;bih=639&amp;q=%E6%A5%B5%E6%A5%BD%E9%B3%A5&amp;oq=%E6%A5%B5%E6%A5%BD%E9%B3%A5&amp;gs_l=img.3..0l10.464824.474706.0.476251.13.13.0.0.0.0.96.1059.13.13.0.msedr...0...1ac.1j4.62.img..0.13.1056.sLj7dpNTkX0" MODIFIED="1426316459287" TEXT="&#x6975;&#x697d;&#x9ce5;">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1426313226504" ID="ID_199484714" LINK="https://kotobank.jp/word/%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%AC%E3%82%A6%E3%83%B3-586347" MODIFIED="1426316460900" TEXT="&#x30c9;&#x30ec;&#x30c3;&#x30b7;&#x30f3;&#x30b0;&#x30fb;&#x30ac;&#x30a6;&#x30f3;">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1426313916984" ID="ID_1593501491" LINK="http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%E3%83%AB#.E8.8B.B1.E8.AA.9E.E5.9C.8F.E8.AB.B8.E5.9B.BD" MODIFIED="1426316462498" TEXT="&#x30d6;&#x30fc;&#x30eb;&#x30d0;&#x30fc;&#x30eb;">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1426313939352" ID="ID_1877228794" LINK="http://ja.wikipedia.org/wiki/%E7%A4%81%E6%B9%96" MODIFIED="1426316464383" TEXT="&#x7901;&#x6e56;">
+<icon BUILTIN="full-4"/>
+<node CREATED="1426314580833" ID="ID_1807139544" LINK="http://minamiyuki.seesaa.net/category/4510193-1.html" MODIFIED="1426316469418" TEXT="&#x88fe;&#x7901;">
+<icon BUILTIN="full-5"/>
+<node CREATED="1426314661753" ID="ID_675468449" LINK="http://ja.wikipedia.org/wiki/%E4%B9%85%E7%B1%B3%E5%B3%B6" MODIFIED="1426316471893" TEXT="&#x4e45;&#x7c73;&#x5cf6;">
+<icon BUILTIN="full-6"/>
+<node CREATED="1426314859489" ID="ID_73569657" MODIFIED="1426314866710" TEXT="=&gt;&#x3000;&#x4eba;&#x53e3;&#x3000;&#xff11;&#x4e07;&#x4eba;&#x5f31;"/>
+<node CREATED="1426314870528" ID="ID_931131327" MODIFIED="1426314880414" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;59.11 km2"/>
+<node CREATED="1426314903225" ID="ID_135682592" MODIFIED="1426314907070" TEXT="&#x5bae;&#x524d;&#x533a;">
+<node CREATED="1426314870528" ID="ID_514412518" MODIFIED="1426314917070" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;18.61 km2"/>
+</node>
+<node CREATED="1426314948409" ID="ID_1044369786" MODIFIED="1426314951622" TEXT="&#x6de1;&#x8def;&#x5cf6;">
+<node CREATED="1426314870528" ID="ID_1833025889" MODIFIED="1426314972550" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;592.26 km2"/>
+</node>
+<node CREATED="1426315010024" ID="ID_37626271" MODIFIED="1426315013022" TEXT="&#x591a;&#x6469;&#x533a;">
+<node CREATED="1426314870528" ID="ID_1046708741" MODIFIED="1426315024869" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;20.50 km2"/>
+</node>
+<node CREATED="1426315044368" ID="ID_1964829420" MODIFIED="1426315051199" TEXT="&#x30ab;&#x30ea;&#x30d5;&#x30a9;&#x30eb;&#x30cb;&#x30a2;&#x5dde;">
+<node CREATED="1426314870528" ID="ID_415131160" MODIFIED="1426315114053" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;403,932 km2"/>
+</node>
+<node CREATED="1426315188818" ID="ID_1903225115" MODIFIED="1426315193957" TEXT="&#x65e5;&#x672c;">
+<node CREATED="1426315130689" ID="ID_682001343" MODIFIED="1426315137070" TEXT="&#x672c;&#x5dde;">
+<node CREATED="1426314870528" ID="ID_1495892766" MODIFIED="1426315179302" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;227,976.10 km2"/>
+<node CREATED="1426315457009" ID="ID_230218665" MODIFIED="1426315472006" TEXT="=&gt;&#x3000;60.3 %"/>
+</node>
+<node CREATED="1426314870528" ID="ID_1160384487" MODIFIED="1426315332358" TEXT="=&gt;&#x3000;&#x9762;&#x7a4d;&#x3000;377,961.73 km2"/>
+<node CREATED="1426316142025" ID="ID_830146454" LINK="https://docs.google.com/spreadsheets/d/1_9jHcRs-onRsSFT9cG1ep527LsbTo3XL9Fmwq_N_Lc8/edit#gid=1418698655" MODIFIED="1426316152253" TEXT="&#x4eba;&#x53e3;&#x6bd4;"/>
+</node>
+</node>
+</node>
+<node CREATED="1426316448842" ID="ID_854896071" LINK="http://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%E5%B3%B6" MODIFIED="1426316474798" TEXT="&#x30c7;&#x30a3;&#x30a8;&#x30b4;&#x30ac;&#x30eb;&#x30b7;&#x30a2;&#x5cf6;">
+<icon BUILTIN="full-7"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1426112642624" ID="ID_346121444" MODIFIED="1426112656770" TEXT="D-123">
