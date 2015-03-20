@@ -1232,18 +1232,18 @@
 <node CREATED="1425889331436" ID="ID_613630040" MODIFIED="1425889331437" TEXT=" 15/03/09"/>
 <node CREATED="1425889332901" ID="ID_486629182" MODIFIED="1425889333449" TEXT="1"/>
 </node>
-<node CREATED="1426374548611" ID="ID_91022965" MODIFIED="1426374550287" TEXT="S-6">
+<node CREATED="1426374548611" FOLDED="true" ID="ID_91022965" MODIFIED="1426832911291" TEXT="S-6">
 <node CREATED="1426374552793" ID="ID_818632304" MODIFIED="1426374552794" TEXT=" 15/03/15"/>
 <node CREATED="1426374560579" ID="ID_253658559" LINK="http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%91%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB" MODIFIED="1426376635892" TEXT="&#x30cf;&#x30fc;&#x30d9;&#x30e9;&#x30fc;">
 <icon BUILTIN="full-1"/>
 </node>
-<node CREATED="1426375275121" ID="ID_1410308660" LINK="http://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3" MODIFIED="1426376638514" TEXT="&#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#xff08;&#x5358;&#x4f4d;&#xff09;">
+<node CREATED="1426375275121" FOLDED="true" ID="ID_1410308660" LINK="http://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3" MODIFIED="1426832911286" TEXT="&#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#xff08;&#x5358;&#x4f4d;&#xff09;">
 <icon BUILTIN="full-2"/>
 <node CREATED="1426375615130" ID="ID_209445358" LINK="http://ja.wikipedia.org/wiki/SI%E5%9F%BA%E6%9C%AC%E5%8D%98%E4%BD%8D" MODIFIED="1426376640429" TEXT="SI&#x57fa;&#x672c;&#x5358;&#x4f4d;">
 <icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1426376194505" ID="ID_1613757420" LINK="http://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%BF" MODIFIED="1426376642849" TEXT="&#x30da;&#x30bf;">
+<node CREATED="1426376194505" FOLDED="true" ID="ID_1613757420" LINK="http://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%BF" MODIFIED="1426832911288" TEXT="&#x30da;&#x30bf;">
 <icon BUILTIN="full-4"/>
 <node CREATED="1426376621978" ID="ID_1432921127" LINK="http://ja.wikipedia.org/wiki/2%E9%80%B2%E6%8E%A5%E9%A0%AD%E8%BE%9E" MODIFIED="1426376644816" TEXT="2&#x9032;&#x63a5;&#x982d;&#x8f9e;">
 <icon BUILTIN="full-5"/>
@@ -1252,22 +1252,22 @@
 <node CREATED="1426378163819" ID="ID_1406079307" LINK="https://ja.wikipedia.org/wiki/%E5%AD%AB%E5%9F%BA%E7%A6%8E" MODIFIED="1426382234884" TEXT="&#x5b6b;&#x57fa;&#x798e;">
 <icon BUILTIN="full-6"/>
 </node>
-<node CREATED="1426382226163" ID="ID_1917359402" MODIFIED="1426382263255" TEXT="&#x30b3;&#x30e1;&#x30c3;&#x30c8;">
+<node CREATED="1426382226163" FOLDED="true" ID="ID_1917359402" MODIFIED="1426832911290" TEXT="&#x30b3;&#x30e1;&#x30c3;&#x30c8;">
 <icon BUILTIN="full-7"/>
 <node CREATED="1426382237467" ID="ID_159194146" LINK="http://upload.wikimedia.org/wikipedia/commons/4/4c/Dh_Comet.jpg" MODIFIED="1426382260268" TEXT="window, square"/>
 <node CREATED="1426382237467" ID="ID_1982177573" LINK="http://blogs.yahoo.co.jp/tyopihapi/27541857.html" MODIFIED="1426382254618" TEXT="window, circle"/>
 </node>
 </node>
-<node CREATED="1426549873037" ID="ID_583844099" MODIFIED="1426549875203" TEXT="S-7">
+<node CREATED="1426549873037" FOLDED="true" ID="ID_583844099" MODIFIED="1426832912900" TEXT="S-7">
 <node CREATED="1426549877198" ID="ID_1339027710" MODIFIED="1426549877200" TEXT=" 15/03/17"/>
-<node CREATED="1426553204955" ID="ID_301575595" LINK="http://en.wikipedia.org/wiki/Thomas_Newcomen" MODIFIED="1426553704700" TEXT="&#x30cb;&#x30e5;&#x30fc;&#x30b3;&#x30e1;&#x30f3;">
+<node CREATED="1426553204955" FOLDED="true" ID="ID_301575595" LINK="http://en.wikipedia.org/wiki/Thomas_Newcomen" MODIFIED="1426832912879" TEXT="&#x30cb;&#x30e5;&#x30fc;&#x30b3;&#x30e1;&#x30f3;">
 <icon BUILTIN="full-1"/>
 <node CREATED="1426553216417" ID="ID_1363450100" MODIFIED="1426553707416" TEXT="&#x30b3;&#x30fc;&#x30f3;&#x30a6;&#x30a9;&#x30fc;&#x30eb;">
 <icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1426553672834" ID="ID_2023756" LINK="http://webkoukai-server.kumamoto-kmm.ed.jp/web/jyosetu/rikou/douryoku_01.htm" MODIFIED="1426553713883" TEXT="&#x30ef;&#x30c3;&#x30c8;&#x3000;&#x84b8;&#x6c17;&#x6a5f;&#x95a2;">
+<node CREATED="1426553672834" FOLDED="true" ID="ID_2023756" LINK="http://webkoukai-server.kumamoto-kmm.ed.jp/web/jyosetu/rikou/douryoku_01.htm" MODIFIED="1426832912878" TEXT="&#x30ef;&#x30c3;&#x30c8;&#x3000;&#x84b8;&#x6c17;&#x6a5f;&#x95a2;">
 <icon BUILTIN="full-3"/>
-<node CREATED="1426554160041" ID="ID_1104183447" LINK="http://ja.wikipedia.org/wiki/%E9%81%8A%E6%98%9F%E6%AD%AF%E8%BB%8A%E6%A9%9F%E6%A7%8B" MODIFIED="1426557464637" TEXT="&#x904a;&#x661f;&#x6b6f;&#x8eca;">
+<node CREATED="1426554160041" FOLDED="true" ID="ID_1104183447" LINK="http://ja.wikipedia.org/wiki/%E9%81%8A%E6%98%9F%E6%AD%AF%E8%BB%8A%E6%A9%9F%E6%A7%8B" MODIFIED="1426832912877" TEXT="&#x904a;&#x661f;&#x6b6f;&#x8eca;">
 <icon BUILTIN="full-4"/>
 <node CREATED="1426554656114" ID="ID_807464210" LINK="https://www.youtube.com/watch?v=Y1zbE21Pzl0" MODIFIED="1426557467124" TEXT="how it works">
 <icon BUILTIN="full-5"/>
@@ -1275,34 +1275,34 @@
 </node>
 </node>
 </node>
-<node CREATED="1426576780037" ID="ID_828787096" MODIFIED="1426576783361" TEXT="2">
-<node CREATED="1426576784109" ID="ID_342001436" LINK="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88" MODIFIED="1426631112778" TEXT="&#x30ef;&#x30c3;&#x30c8;">
+<node CREATED="1426576780037" FOLDED="true" ID="ID_828787096" MODIFIED="1426832912892" TEXT="2">
+<node CREATED="1426576784109" FOLDED="true" ID="ID_342001436" LINK="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88" MODIFIED="1426832912890" TEXT="&#x30ef;&#x30c3;&#x30c8;">
 <icon BUILTIN="full-1"/>
 <node CREATED="1426577709021" ID="ID_653249954" LINK="http://ja.wikipedia.org/wiki/%E6%BD%9C%E7%86%B1" MODIFIED="1426631115469" TEXT="&#x6f5c;&#x71b1;">
 <icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1426578209877" ID="ID_691411826" MODIFIED="1426629605877" TEXT="N">
+<node CREATED="1426578209877" FOLDED="true" ID="ID_691411826" MODIFIED="1426832912880" TEXT="N">
 <node CREATED="1426578212734" ID="ID_1167659805" MODIFIED="1426578215538" TEXT="&#x300c;&#x30ad;&#x30e3;&#x30ed;&#x30f3;&#x30fb;&#x30ab;&#x30f3;&#x30d1;&#x30cb;&#x30fc;(en)&#x5275;&#x8a2d;&#x8005;&#x306e;&#x300d;"/>
 </node>
-<node CREATED="1426630210488" ID="ID_177326722" LINK="http://en.wikipedia.org/wiki/Carron_Company" MODIFIED="1426631119385" TEXT="Carron Company">
+<node CREATED="1426630210488" FOLDED="true" ID="ID_177326722" LINK="http://en.wikipedia.org/wiki/Carron_Company" MODIFIED="1426832912881" TEXT="Carron Company">
 <icon BUILTIN="full-3"/>
 <node CREATED="1426630391073" ID="ID_151874612" LINK="http://en.wikipedia.org/wiki/John_Roebuck" MODIFIED="1426631122306" TEXT="John Roebuck">
 <icon BUILTIN="full-4"/>
 </node>
 </node>
-<node CREATED="1426631102753" ID="ID_1874898482" LINK="http://en.wikipedia.org/wiki/John_Wilkinson_(industrialist)" MODIFIED="1426631124596" TEXT="John Wilkinson">
+<node CREATED="1426631102753" FOLDED="true" ID="ID_1874898482" LINK="http://en.wikipedia.org/wiki/John_Wilkinson_(industrialist)" MODIFIED="1426832912882" TEXT="John Wilkinson">
 <icon BUILTIN="full-5"/>
 <node CREATED="1426631312433" ID="ID_113045979" LINK="http://en.wikipedia.org/wiki/Machine_tool" MODIFIED="1426631325644" TEXT="Machine tool"/>
 </node>
-<node CREATED="1426555118273" ID="ID_592172003" LINK="http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB" MODIFIED="1426741880124" TEXT="&#x306f;&#x305a;&#x307f;&#x8eca;&#xff08;&#x30d5;&#x30e9;&#x30a4;&#x30db;&#x30a4;&#x30fc;&#x30eb;&#xff09;">
+<node CREATED="1426555118273" FOLDED="true" ID="ID_592172003" LINK="http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB" MODIFIED="1426832912888" TEXT="&#x306f;&#x305a;&#x307f;&#x8eca;&#xff08;&#x30d5;&#x30e9;&#x30a4;&#x30db;&#x30a4;&#x30fc;&#x30eb;&#xff09;">
 <icon BUILTIN="full-6"/>
-<node CREATED="1426555141611" ID="ID_223524019" LINK="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF_(%E6%A9%9F%E6%A2%B0%E8%A6%81%E7%B4%A0)" MODIFIED="1426557471443" TEXT="&#x30af;&#x30e9;&#x30f3;&#x30af;">
+<node CREATED="1426555141611" FOLDED="true" ID="ID_223524019" LINK="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF_(%E6%A9%9F%E6%A2%B0%E8%A6%81%E7%B4%A0)" MODIFIED="1426832912887" TEXT="&#x30af;&#x30e9;&#x30f3;&#x30af;">
 <icon BUILTIN="full-7"/>
-<node CREATED="1426555157643" ID="ID_1721635802" LINK="http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%83%89" MODIFIED="1426557473597" TEXT="&#x30b3;&#x30cd;&#x30af;&#x30c6;&#x30a3;&#x30f3;&#x30b0;&#x30ed;&#x30c3;&#x30c9;">
+<node CREATED="1426555157643" FOLDED="true" ID="ID_1721635802" LINK="http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%83%89" MODIFIED="1426832912886" TEXT="&#x30b3;&#x30cd;&#x30af;&#x30c6;&#x30a3;&#x30f3;&#x30b0;&#x30ed;&#x30c3;&#x30c9;">
 <icon BUILTIN="full-8"/>
-<node CREATED="1426555249309" ID="ID_679071280" LINK="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88" MODIFIED="1426557477703" TEXT="&#x30af;&#x30e9;&#x30f3;&#x30af;&#x30b7;&#x30e3;&#x30d5;&#x30c8;">
+<node CREATED="1426555249309" FOLDED="true" ID="ID_679071280" LINK="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88" MODIFIED="1426832912885" TEXT="&#x30af;&#x30e9;&#x30f3;&#x30af;&#x30b7;&#x30e3;&#x30d5;&#x30c8;">
 <icon BUILTIN="full-9"/>
-<node CREATED="1426557393931" ID="ID_251066634" LINK="http://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B9%E3%83%88%E3%83%B3" MODIFIED="1426557481633" TEXT="&#x30d4;&#x30b9;&#x30c8;&#x30f3;">
+<node CREATED="1426557393931" FOLDED="true" ID="ID_251066634" LINK="http://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B9%E3%83%88%E3%83%B3" MODIFIED="1426832912884" TEXT="&#x30d4;&#x30b9;&#x30c8;&#x30f3;">
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="full-0"/>
 <node CREATED="1426557436027" ID="ID_1819579738" LINK="http://astamuse.com/ja/published/JP/No/2014031726" MODIFIED="1426557485253" TEXT="&#x30d4;&#x30b9;&#x30c8;&#x30f3;&#x4f4d;&#x7f6e;&#x3000;&#x6642;&#x9593;&#x5909;&#x5316;">
@@ -1315,30 +1315,30 @@
 </node>
 </node>
 <node CREATED="1426632330001" ID="ID_1728855231" LINK="http://en.wikipedia.org/wiki/Parallel_motion" MODIFIED="1426632345221" TEXT="Parallel motion"/>
-<node CREATED="1426633999860" ID="ID_420231718" LINK="http://en.wikipedia.org/wiki/Centrifugal_governor" MODIFIED="1426634005033" TEXT="Centrifugal governor">
+<node CREATED="1426633999860" FOLDED="true" ID="ID_420231718" LINK="http://en.wikipedia.org/wiki/Centrifugal_governor" MODIFIED="1426832912889" TEXT="Centrifugal governor">
 <node CREATED="1426634006824" ID="ID_542877704" LINK="https://www.youtube.com/watch?v=HS_YGZXP2xY" MODIFIED="1426634019088" TEXT="=&gt; video"/>
 <node CREATED="1426634260601" ID="ID_1494878733" LINK="https://www.youtube.com/watch?v=OG1AiaNTT6s" MODIFIED="1426634268290" TEXT="=&gt; video, explained"/>
 </node>
 </node>
 </node>
-<node CREATED="1426663912240" ID="ID_348278117" MODIFIED="1426663914291" TEXT="3">
-<node CREATED="1426663711919" ID="ID_1717861536" LINK="http://en.wikipedia.org/wiki/Benjamin_Thompson" MODIFIED="1426664825358" TEXT="&#x30e9;&#x30f3;&#x30d5;&#x30a9;&#x30fc;&#x30c9;">
+<node CREATED="1426663912240" FOLDED="true" ID="ID_348278117" MODIFIED="1426832912899" TEXT="3">
+<node CREATED="1426663711919" FOLDED="true" ID="ID_1717861536" LINK="http://en.wikipedia.org/wiki/Benjamin_Thompson" MODIFIED="1426832912898" TEXT="&#x30e9;&#x30f3;&#x30d5;&#x30a9;&#x30fc;&#x30c9;">
 <icon BUILTIN="full-1"/>
 <node CREATED="1426663720919" ID="ID_950838799" MODIFIED="1426663723132" TEXT="p.58"/>
-<node CREATED="1426664812087" ID="ID_20295718" LINK="http://en.wikipedia.org/wiki/Rumford%27s_Soup" MODIFIED="1426664827220" TEXT="Rumford&apos;s Soup">
+<node CREATED="1426664812087" FOLDED="true" ID="ID_20295718" LINK="http://en.wikipedia.org/wiki/Rumford%27s_Soup" MODIFIED="1426832912897" TEXT="Rumford&apos;s Soup">
 <icon BUILTIN="full-2"/>
-<node CREATED="1426665030736" ID="ID_676914286" MODIFIED="1426665032077" TEXT="N">
+<node CREATED="1426665030736" FOLDED="true" ID="ID_676914286" MODIFIED="1426832912892" TEXT="N">
 <node CREATED="1426665048704" ID="ID_1220377316" MODIFIED="1426665050589" TEXT="&quot;Count Rumford has been credited&quot;"/>
 </node>
-<node CREATED="1426764615349" ID="ID_1689728043" LINK="http://en.wikipedia.org/wiki/Pearl_barley" MODIFIED="1426765633785" TEXT="Pearl barley">
+<node CREATED="1426764615349" FOLDED="true" ID="ID_1689728043" LINK="http://en.wikipedia.org/wiki/Pearl_barley" MODIFIED="1426832912897" TEXT="Pearl barley">
 <icon BUILTIN="full-3"/>
-<node CREATED="1426764783330" ID="ID_1332622229" LINK="http://en.wikipedia.org/wiki/Bran" MODIFIED="1426765635987" TEXT="bran">
+<node CREATED="1426764783330" FOLDED="true" ID="ID_1332622229" LINK="http://en.wikipedia.org/wiki/Bran" MODIFIED="1426832912896" TEXT="bran">
 <icon BUILTIN="full-4"/>
-<node CREATED="1426764791479" ID="ID_1873963403" LINK="http://ja.wikipedia.org/wiki/%E7%B3%A0" MODIFIED="1426765637873" TEXT="&#x7ce0;">
+<node CREATED="1426764791479" FOLDED="true" ID="ID_1873963403" LINK="http://ja.wikipedia.org/wiki/%E7%B3%A0" MODIFIED="1426832912895" TEXT="&#x7ce0;">
 <icon BUILTIN="full-5"/>
-<node CREATED="1426764829361" ID="ID_292722406" LINK="http://ja.wikipedia.org/wiki/%E8%83%9A%E8%8A%BD" MODIFIED="1426765639837" TEXT="&#x80da;&#x82bd;">
+<node CREATED="1426764829361" FOLDED="true" ID="ID_292722406" LINK="http://ja.wikipedia.org/wiki/%E8%83%9A%E8%8A%BD" MODIFIED="1426832912894" TEXT="&#x80da;&#x82bd;">
 <icon BUILTIN="full-6"/>
-<node CREATED="1426765373735" ID="ID_1344928539" LINK="http://ja.wikipedia.org/wiki/%E7%B2%BE%E7%B1%B3" MODIFIED="1426765642005" TEXT="&#x7cbe;&#x7c73;">
+<node CREATED="1426765373735" FOLDED="true" ID="ID_1344928539" LINK="http://ja.wikipedia.org/wiki/%E7%B2%BE%E7%B1%B3" MODIFIED="1426832912893" TEXT="&#x7cbe;&#x7c73;">
 <icon BUILTIN="full-7"/>
 <node CREATED="1426765610553" ID="ID_699720388" LINK="https://www.youtube.com/watch?v=DDbfHyd9coo" MODIFIED="1426765649565" TEXT="&#x8131;&#x7a40; video">
 <icon BUILTIN="full-8"/>
@@ -1353,6 +1353,10 @@
 </node>
 <node CREATED="1426741889286" ID="ID_1965564864" MODIFIED="1426741894631" TEXT=" 15/03/18"/>
 </node>
+</node>
+<node CREATED="1426832725552" ID="ID_768726122" MODIFIED="1426832729506" TEXT="S-8">
+<node CREATED="1426832731400" ID="ID_648512762" MODIFIED="1426832731402" TEXT=" 15/03/20"/>
+<node CREATED="1426832732636" ID="ID_1716112050" LINK="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB" MODIFIED="1426832740619" TEXT="&#x30b8;&#x30e5;&#x30fc;&#x30eb;"/>
 </node>
 </node>
 <node CREATED="1425627335501" ID="ID_1388001436" MODIFIED="1425627337023" TEXT="D-120">
