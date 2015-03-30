@@ -122,58 +122,63 @@
 <node CREATED="1427243089334" ID="ID_348596053" MODIFIED="1427243090539" TEXT="&quot;Source Code&quot;"/>
 </node>
 </node>
+<node CREATED="1427694039821" ID="ID_1234626779" MODIFIED="1427694040506" TEXT="3">
+<node CREATED="1427586100271" ID="ID_1017130173" MODIFIED="1427693975374" TEXT="msys">
+<node CREATED="1427586102261" ID="ID_1794244628" LINK="C:\msys" MODIFIED="1427586105561" TEXT="C:\msys"/>
+</node>
+</node>
 </node>
 <node CREATED="1403578595143" ID="ID_20826003" MODIFIED="1405295373975" TEXT="v-1.0">
 <node CREATED="1427243028950" ID="ID_1492867810" MODIFIED="1427243030360" TEXT=" 15/03/25"/>
-<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_1336135652" MODIFIED="1423357696856" TEXT="steps" VSHIFT="3">
-<node CREATED="1401588724075" ID="ID_1058616394" MODIFIED="1427244403338" TEXT="1">
+<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_1336135652" MODIFIED="1427694053294" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_1058616394" MODIFIED="1427694045743" TEXT="1">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1427243169270" ID="ID_1092421867" MODIFIED="1427243171115" TEXT="MSYS">
+<node CREATED="1427243169270" FOLDED="true" ID="ID_1092421867" MODIFIED="1427694045736" TEXT="MSYS">
 <node CREATED="1427243171902" ID="ID_1617219161" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Installing_the_MSYS_environment" MODIFIED="1427243174083" TEXT="install"/>
 </node>
-<node CREATED="1401588724075" ID="ID_1221644360" MODIFIED="1427243958178" TEXT="1">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_1221644360" MODIFIED="1427694045740" TEXT="1">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1427243820646" ID="ID_1179901310" MODIFIED="1427243822675" TEXT="extract">
+<node CREATED="1427243820646" FOLDED="true" ID="ID_1179901310" MODIFIED="1427694045737" TEXT="extract">
 <node CREATED="1427244005891" ID="ID_1408430108" MODIFIED="1427244005891" TEXT="msys+7za+wget+svn+git+mercurial+cvs-rev13.7z"/>
 </node>
-<node CREATED="1427243824366" ID="ID_202596994" MODIFIED="1427243825646" TEXT="REF">
-<node CREATED="1427243825647" ID="ID_1461589472" MODIFIED="1427243826342" TEXT="1">
+<node CREATED="1427243824366" FOLDED="true" ID="ID_202596994" MODIFIED="1427694045739" TEXT="REF">
+<node CREATED="1427243825647" FOLDED="true" ID="ID_1461589472" MODIFIED="1427694045738" TEXT="1">
 <node CREATED="1427243826342" ID="ID_1981560614" LINK="http://7zextractor.com/" MODIFIED="1427243840265" TEXT="unzip 7z"/>
 </node>
 </node>
 </node>
-<node CREATED="1401588724779" ID="ID_531302421" MODIFIED="1427243958180" TEXT="2">
+<node CREATED="1401588724779" FOLDED="true" ID="ID_531302421" MODIFIED="1427694045741" TEXT="2">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1427243885631" ID="ID_1824450497" MODIFIED="1427243888739" TEXT="copy to">
+<node CREATED="1427243885631" FOLDED="true" ID="ID_1824450497" MODIFIED="1427694045741" TEXT="copy to">
 <node CREATED="1427243894180" MODIFIED="1427243894180" TEXT="C:\MinGW"/>
 </node>
 </node>
-<node CREATED="1401588725485" ID="ID_1555871252" MODIFIED="1427244113263" TEXT="3">
+<node CREATED="1401588725485" FOLDED="true" ID="ID_1555871252" MODIFIED="1427694045742" TEXT="3">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1427243911606" ID="ID_756183146" MODIFIED="1427244099891" TEXT="move the folder to the upper folder">
+<node CREATED="1427243911606" FOLDED="true" ID="ID_756183146" MODIFIED="1427694045742" TEXT="move the folder to the upper folder">
 <node CREATED="1427243913191" ID="ID_960156127" MODIFIED="1427243915226" TEXT="=&gt; msys"/>
 </node>
 </node>
 </node>
-<node CREATED="1401588724779" FOLDED="true" ID="ID_1030358672" MODIFIED="1427594789159" TEXT="2">
+<node CREATED="1401588724779" ID="ID_1030358672" MODIFIED="1427694059998" TEXT="2">
 <node CREATED="1427244353583" FOLDED="true" ID="ID_1245881247" MODIFIED="1427594789133" TEXT="MinGW">
 <node CREATED="1427244358694" FOLDED="true" ID="ID_1025951736" MODIFIED="1427594789133" TEXT="=&gt;re-install">
 <node CREATED="1427244386999" ID="ID_617697289" MODIFIED="1427244396108" TEXT="both 64 and 32 bits"/>
 </node>
 <node CREATED="1427244364958" ID="ID_890605976" MODIFIED="1427244377499" TEXT="--&gt; with &quot;win32&quot; as the thread model"/>
 </node>
-<node CREATED="1427244421158" FOLDED="true" ID="ID_1268017431" MODIFIED="1427594789158" TEXT="REF">
-<node CREATED="1427244478302" FOLDED="true" ID="ID_52728443" MODIFIED="1427594789156" TEXT="1">
-<node CREATED="1427244422088" FOLDED="true" ID="ID_1753654208" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Installing_the_MSYS_environment" MODIFIED="1427594789134" TEXT="tut">
+<node CREATED="1427244421158" FOLDED="true" ID="ID_1268017431" MODIFIED="1427694045746" TEXT="REF">
+<node CREATED="1427244478302" FOLDED="true" ID="ID_52728443" MODIFIED="1427694045744" TEXT="1">
+<node CREATED="1427244422088" FOLDED="true" ID="ID_1753654208" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Installing_the_MSYS_environment" MODIFIED="1427694045743" TEXT="tut">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1753654208" ENDARROW="Default" ENDINCLINATION="240;0;" ID="Arrow_ID_14107388" SOURCE="ID_1401644303" STARTARROW="None" STARTINCLINATION="240;0;"/>
 <node CREATED="1427244444598" ID="ID_1016810434" MODIFIED="1427244445787" TEXT="&quot;Select i686 as architecture&quot;"/>
 </node>
 </node>
-<node CREATED="1427244480022" FOLDED="true" ID="ID_1676091481" MODIFIED="1427594789156" TEXT="2">
+<node CREATED="1427244480022" FOLDED="true" ID="ID_1676091481" MODIFIED="1427694045744" TEXT="2">
 <node CREATED="1427244481478" ID="ID_146981705" LINK="C:\WORKS\Downloads\mingw-w64-install.exe" MODIFIED="1427244496831" TEXT="installer"/>
 </node>
-<node CREATED="1427586098909" FOLDED="true" ID="ID_204335988" MODIFIED="1427594789158" TEXT="3">
-<node CREATED="1427586100271" FOLDED="true" ID="ID_1521946966" MODIFIED="1427594789157" TEXT="msys">
+<node CREATED="1427586098909" FOLDED="true" ID="ID_204335988" MODIFIED="1427694045745" TEXT="3">
+<node CREATED="1427586100271" FOLDED="true" ID="ID_1521946966" MODIFIED="1427694045745" TEXT="msys">
 <node CREATED="1427586102261" ID="ID_460980834" LINK="C:\msys" MODIFIED="1427586105561" TEXT="C:\msys"/>
 </node>
 </node>
@@ -262,77 +267,233 @@
 </node>
 </node>
 </node>
-<node CREATED="1401588725485" ID="ID_51813912" MODIFIED="1427594694026" TEXT="3">
+<node CREATED="1401588725485" FOLDED="true" ID="ID_51813912" MODIFIED="1427695888999" TEXT="3">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427588072764" ID="ID_830609554" MODIFIED="1427588073330" TEXT="Install GMP"/>
-<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_808880984" MODIFIED="1427594720483" TEXT="steps" VSHIFT="3">
-<node CREATED="1401588724075" ID="ID_237266492" MODIFIED="1427594720485" TEXT="1">
+<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_808880984" MODIFIED="1427695888998" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_237266492" MODIFIED="1427695888990" TEXT="1">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427588091110" ID="ID_1760659607" MODIFIED="1427588091627" TEXT="cd ~"/>
 </node>
-<node CREATED="1401588724779" ID="ID_1550052904" MODIFIED="1427594720486" TEXT="2">
+<node CREATED="1401588724779" FOLDED="true" ID="ID_1550052904" MODIFIED="1427695888990" TEXT="2">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427588099485" ID="ID_550341963" MODIFIED="1427588100002" TEXT="curl -O https://gmplib.org/download/gmp/gmp-6.0.0a.tar.xz"/>
 </node>
-<node CREATED="1401588725485" ID="ID_770461220" MODIFIED="1427594720487" TEXT="3">
+<node CREATED="1401588725485" FOLDED="true" ID="ID_770461220" MODIFIED="1427695888991" TEXT="3">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427588175325" ID="ID_1836386754" MODIFIED="1427588176121" TEXT="tar xvaf gmp-6.0.0a.tar.xz"/>
 </node>
-<node CREATED="1401588726267" ID="ID_316049878" MODIFIED="1427594720489" TEXT="4">
+<node CREATED="1401588726267" FOLDED="true" ID="ID_316049878" MODIFIED="1427695888992" TEXT="4">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427588186629" ID="ID_1466017412" MODIFIED="1427588187890" TEXT="cd gmp-6.0.0"/>
 </node>
-<node CREATED="1427588215181" ID="ID_1167039526" MODIFIED="1427594720494" TEXT="5">
+<node CREATED="1427588215181" FOLDED="true" ID="ID_1167039526" MODIFIED="1427695888995" TEXT="5">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427588217821" ID="ID_720280385" MODIFIED="1427588218459" TEXT="./configure --enable-static --disable-shared"/>
-<node COLOR="#ff0000" CREATED="1427588765902" ID="ID_118423623" MODIFIED="1427594720497" TEXT="PROB">
+<node COLOR="#ff0000" CREATED="1427588765902" FOLDED="true" ID="ID_118423623" MODIFIED="1427695888993" TEXT="PROB">
 <icon BUILTIN="idea"/>
-<node CREATED="1427588768957" ID="ID_178610552" MODIFIED="1427594720498" TEXT="stops at">
+<node CREATED="1427588768957" FOLDED="true" ID="ID_178610552" MODIFIED="1427695888992" TEXT="stops at">
 <node CREATED="1427588771710" ID="ID_1420820351" MODIFIED="1427588777635" TEXT="&quot;checking for struct pst_processor.psp_iticksperclktick... no&quot;"/>
 </node>
 <node CREATED="1427588814439" ID="ID_999918777" MODIFIED="1427588821898" TEXT="started again"/>
 <node CREATED="1427588822229" ID="ID_914942940" MODIFIED="1427588827930" TEXT="=&gt; 3 minutes, at least"/>
 </node>
-<node CREATED="1427588877455" ID="ID_133770488" MODIFIED="1427594720500" TEXT="stops at">
+<node CREATED="1427588877455" FOLDED="true" ID="ID_133770488" MODIFIED="1427695888994" TEXT="stops at">
 <node CREATED="1427588881382" ID="ID_1000100316" MODIFIED="1427588882483" TEXT="&quot;configure: creating ./config.status&quot;"/>
 <node CREATED="1427588946637" ID="ID_1701952795" MODIFIED="1427588952171" TEXT="=&gt; less than: 1:16"/>
 </node>
-<node COLOR="#990000" CREATED="1427589336630" ID="ID_1506728672" MODIFIED="1427594720576" TEXT="RESULT">
+<node COLOR="#990000" CREATED="1427589336630" FOLDED="true" ID="ID_1506728672" MODIFIED="1427695888994" TEXT="RESULT">
 <node CREATED="1427589340630" ID="ID_76169538" MODIFIED="1427589341314" TEXT="config.status: executing libtool commands configure: summary of build options:    Version:           GNU MP 6.0.0   Host type:         piledriver-pc-mingw32   ABI:               64   Install prefix:    /usr/local   Compiler:          gcc -std=gnu99   Static libraries:  yes   Shared libraries:  no"/>
 </node>
 </node>
-<node CREATED="1427588216093" ID="ID_210464702" MODIFIED="1427594720578" TEXT="6">
+<node CREATED="1427588216093" FOLDED="true" ID="ID_210464702" MODIFIED="1427695888996" TEXT="6">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427589152270" ID="ID_1967498580" MODIFIED="1427589152707" TEXT="make"/>
 <node CREATED="1427592180798" ID="ID_339675697" MODIFIED="1427592203957" TEXT="=&gt; l.t. 55 min (from 1~6)"/>
 </node>
-<node CREATED="1427589153941" ID="ID_1216650040" MODIFIED="1427594720579" TEXT="7">
+<node CREATED="1427589153941" FOLDED="true" ID="ID_1216650040" MODIFIED="1427694416008" TEXT="7">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427589160558" ID="ID_1332576640" MODIFIED="1427589161099" TEXT="make install"/>
 </node>
-<node CREATED="1427592145430" ID="ID_872459913" MODIFIED="1427594720580" TEXT="8">
+<node CREATED="1427592145430" FOLDED="true" ID="ID_872459913" MODIFIED="1427695888997" TEXT="8">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1427592146974" ID="ID_127755971" MODIFIED="1427592152932" TEXT="make check"/>
 </node>
 </node>
 <node CREATED="1427594695951" ID="ID_817758293" MODIFIED="1427594695952" TEXT=" 15/03/29"/>
 </node>
-<node CREATED="1401588726267" ID="ID_158028081" MODIFIED="1401600746995" TEXT="4">
-<node CREATED="1427594806648" ID="ID_674757304" MODIFIED="1427594814403" TEXT="Install">
+<node CREATED="1401588726267" FOLDED="true" ID="ID_158028081" MODIFIED="1427695886847" TEXT="4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427594806648" FOLDED="true" ID="ID_674757304" MODIFIED="1427695886839" TEXT="Install">
 <node CREATED="1427594810904" ID="ID_82382299" MODIFIED="1427594810904" TEXT="Nettle"/>
 </node>
 <node CREATED="1427594795432" ID="ID_1286914157" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Install_Nettle" MODIFIED="1427594832170" TEXT="&quot;Install Nettle&quot;"/>
-<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_1045650796" MODIFIED="1423357696856" TEXT="steps" VSHIFT="3">
-<node CREATED="1401588724075" ID="ID_395172293" MODIFIED="1401600746988" TEXT="1">
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_822836227" MODIFIED="1427594824155" TEXT="N@">
+<node COLOR="#669900" CREATED="1401600740073" FOLDED="true" HGAP="23" ID="ID_1045650796" MODIFIED="1427695886847" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" FOLDED="true" ID="ID_395172293" MODIFIED="1427695886839" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427694074253" ID="ID_1060684131" MODIFIED="1427694074794" TEXT="cd ~"/>
+</node>
+<node CREATED="1401588724779" FOLDED="true" ID="ID_551317213" MODIFIED="1427695886840" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427694088101" ID="ID_1291321178" MODIFIED="1427694088546" TEXT="wget http://www.lysator.liu.se/~nisse/archive/nettle-2.7.1.tar.gz"/>
+</node>
+<node CREATED="1401588725485" FOLDED="true" ID="ID_1644937243" MODIFIED="1427695886840" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427694192653" ID="ID_950638680" MODIFIED="1427694193279" TEXT="tar xvaf nettle-2.7.1.tar.gz"/>
+</node>
+<node CREATED="1401588726267" FOLDED="true" ID="ID_986881559" MODIFIED="1427695886841" TEXT="4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427694198557" ID="ID_85289513" MODIFIED="1427694198962" TEXT="cd nettle-2.7.1"/>
+</node>
+<node CREATED="1427694217037" FOLDED="true" ID="ID_1795826372" MODIFIED="1427695886841" TEXT="5">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427694218270" ID="ID_1606726997" MODIFIED="1427694218593" TEXT="./configure --enable-static --disable-shared --with-lib-path=/usr/local/lib/ --with-include-path=/usr/local/include"/>
+<node CREATED="1427694384933" FOLDED="true" ID="ID_222816378" MODIFIED="1427694395627" TEXT="RESULT">
+<node CREATED="1427694389965" ID="ID_1437915008" MODIFIED="1427694390360" TEXT="configure: summary of build options:    Version:           nettle 2.7.1   Host type:         i686-pc-mingw32   ABI:               standard   Assembly files:    x86   Install prefix:    /usr/local   Library directory: ${exec_prefix}/lib   Compiler:          gcc   Static libraries:  yes   Shared libraries:  no   Public key crypto: yes   Documentation:     yes "/>
+</node>
+</node>
+<node CREATED="1427588216093" FOLDED="true" ID="ID_1960500032" MODIFIED="1427695886845" TEXT="6">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427589152270" ID="ID_1353041004" MODIFIED="1427589152707" TEXT="make"/>
+<node COLOR="#ff0000" CREATED="1427695015190" FOLDED="true" ID="ID_407516948" MODIFIED="1427695886845" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1427695045702" FOLDED="true" ID="ID_1906547527" MODIFIED="1427695050254" TEXT="line">
+<node CREATED="1427695047837" ID="ID_3399927" MODIFIED="1427695048285" TEXT="gcc -I. -I/usr/local/include -DHAVE_CONFIG_H -g -O2 -ggdb3 -Wno-pointer-sign -Wa ll -W   -Wmissing-prototypes -Wmissing-declarations -Wstrict-prototypes   -Wpoin ter-arith -Wbad-function-cast -Wnested-externs  -MT aes-decrypt-internal.o -MD - MP -MF aes-decrypt-internal.o.d  -c aes-decrypt-internal.s aes-decrypt-internal.s: Assembler messages: aes-decrypt-internal.s:79: Error: invalid instruction suffix for `push&apos; aes-decrypt-internal.s:80: Error: invalid instruction suffix for `push&apos; aes-decrypt-internal.s:81: Error: invalid instruction suffix for `push&apos; aes-decrypt-internal.s:82: Error: invalid instruction suffix for `push&apos; aes-decrypt-internal.s:299: Error: invalid instruction suffix for `pop&apos; aes-decrypt-internal.s:300: Error: invalid instruction suffix for `pop&apos; aes-decrypt-internal.s:301: Error: invalid instruction suffix for `pop&apos; aes-decrypt-internal.s:302: Error: invalid instruction suffix for `pop&apos; Makefile:332: recipe for target `aes-decrypt-internal.o&apos; failed"/>
+</node>
+<node CREATED="1427695056157" FOLDED="true" ID="ID_31571140" MODIFIED="1427695886844" TEXT="REF">
+<node CREATED="1427695058023" FOLDED="true" ID="ID_946630053" MODIFIED="1427695886843" TEXT="1">
+<node CREATED="1427695058695" FOLDED="true" ID="ID_1033311028" LINK="http://stackoverflow.com/questions/6268745/invalid-instruction-suffix-for-push-when-assembling-with-gas" MODIFIED="1427695886842" TEXT="QA">
+<node CREATED="1427695748317" ID="ID_321520443" MODIFIED="1427695754322" TEXT="&quot;.code32&quot;"/>
+</node>
+</node>
+<node CREATED="1427695071213" FOLDED="true" ID="ID_157611070" MODIFIED="1427695886843" TEXT="2">
+<node CREATED="1427695072533" ID="ID_570189445" LINK="C:\msys\home\kbuchi\nettle-2.7.1\aes-decrypt-internal.s" MODIFIED="1427695131840" TEXT="aes-decrypt-internal.s">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1427695112854" ID="ID_542391408" LINK="C:\msys\home\kbuchi\nettle-2.7.1\aes-encrypt-internal.s" MODIFIED="1427695206784" TEXT="aes-encrypt-internal.s">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1427695204430" ID="ID_1747624682" MODIFIED="1427695205034" TEXT="arcfour-crypt.s"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1427589153941" FOLDED="true" ID="ID_1112197227" MODIFIED="1427695886846" TEXT="7">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427589160558" ID="ID_68541444" MODIFIED="1427589161099" TEXT="make install"/>
+</node>
+</node>
+<node CREATED="1427695869182" ID="ID_5228162" MODIFIED="1427695869198" TEXT=" 15/03/30"/>
+</node>
+<node CREATED="1427695560038" ID="ID_1200422633" MODIFIED="1427695561122" TEXT="5">
+<node CREATED="1427695562421" ID="ID_1343582174" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Install_GnuTLS" MODIFIED="1427695566609" TEXT="Install GnuTLS"/>
+<node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_1629341777" MODIFIED="1423357696856" TEXT="steps" VSHIFT="3">
+<node CREATED="1401588724075" ID="ID_632039562" MODIFIED="1427696076167" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_822836227" MODIFIED="1427695894807" TEXT="N@">
 <cloud/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1427695937550" ID="ID_1880680029" MODIFIED="1427695961066" TEXT="cd ~"/>
 </node>
-<node CREATED="1401588724779" ID="ID_551317213" MODIFIED="1401600746990" TEXT="2"/>
-<node CREATED="1401588725485" ID="ID_1644937243" MODIFIED="1401600746993" TEXT="3"/>
-<node CREATED="1401588726267" ID="ID_986881559" MODIFIED="1401600746995" TEXT="4"/>
+<node CREATED="1401588724779" ID="ID_1770259128" MODIFIED="1427696320030" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427695962894" ID="ID_1080677983" MODIFIED="1427695974114" TEXT="wget ftp://ftp.gnutls.org/gcrypt/gnutls/v3.3/gnutls-3.3.13.tar.xz"/>
 </node>
+<node CREATED="1401588725485" ID="ID_1122706758" MODIFIED="1427696598001" TEXT="3">
+<icon BUILTIN="flag-blue"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427695975998" ID="ID_1456284314" MODIFIED="1427696550924" TEXT="tar xvaf gnutls-3.3.13.tar.xz"/>
+<node COLOR="#ff0000" CREATED="1427696461935" ID="ID_200854241" MODIFIED="1427696605287" TEXT="ERROR">
+<icon BUILTIN="idea"/>
+<node CREATED="1427696474598" FOLDED="true" ID="ID_543645001" MODIFIED="1427696481959" TEXT="line">
+<node CREATED="1427696479823" ID="ID_608746421" MODIFIED="1427696480188" TEXT="gnutls-3.3.13/guile/modules/gnutls/build/enums.scm gnutls-3.3.13/guile/modules/gnutls/build/utils.scm gnutls-3.3.13/guile/modules/gnutls/build/tests.scm gnutls-3.3.13/guile/modules/gnutls/build/smobs.scm gnutls-3.3.13/gtk-doc.make tar: cd: Not found in archive tar: Exiting with failure status due to previous errors"/>
+</node>
+</node>
+</node>
+<node CREATED="1427696525887" ID="ID_758301659" MODIFIED="1427698445616" TEXT="3-2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427696552839" ID="ID_1625228132" MODIFIED="1427696552839" TEXT="cd gnutls-3.3.13"/>
+</node>
+<node CREATED="1401588726267" ID="ID_36829936" MODIFIED="1401600746995" TEXT="4">
+<node CREATED="1427695989438" ID="ID_1835191630" MODIFIED="1427696016610" TEXT="./configure --enable-static --disable-shared GMP_LIBS=&quot;-L/usr/local/lib -lgmp&quot; --disable-guile --disable-doc CPPFLAGS=&apos;-I/usr/local/include&apos; LDFLAGS=&apos;-L/usr/local/lib&apos;"/>
+<node COLOR="#990000" CREATED="1427697999344" ID="ID_1325322440" MODIFIED="1427698002310" TEXT="RESULT">
+<node CREATED="1427698003182" FOLDED="true" ID="ID_593153746" MODIFIED="1427698454115" TEXT="line">
+<node CREATED="1427698005191" ID="ID_784342232" MODIFIED="1427698005603" TEXT="configure: summary of build options:    version:              3.3.13 shared 69:5:41   Host/Target system:   i686-pc-mingw32   Build system:         i686-pc-mingw32   Install prefix:       /usr/local   Compiler:             gcc   CFlags:               -g -O2   Library types:        Shared=no, Static=yes   Local libopts:        yes   Local libtasn1:       yes   Use nettle-mini:      no  configure: External hardware support:    /dev/crypto:          no   Hardware accel:       x86   Padlock accel:        yes   PKCS#11 support:      no   TPM support:          no  configure: Optional features: (note that included applications might not compile properly if features are disabled)    DTLS-SRTP support:    yes   ALPN support:         yes   OCSP support:         yes   Ses. ticket support:  yes   OpenPGP support:      yes   SRP support:          yes   PSK support:          yes   DHE support:          yes   ECDHE support:        yes   RSA-EXPORT support:   yes   Anon auth support:    yes   Heartbeat support:    yes   Unicode support:      yes   Self checks:          no   Non-SuiteB curves:    yes   FIPS140 mode:         no  configure: Optional applications:    crywrap app:  configure: Optional libraries:    Guile wrappers:       no   C++ library:          yes   DANE library:         no   OpenSSL compat:       yes  configure: System files:    Trust store pkcs11:   Trust store dir:   Trust store file:   Blacklist file:   CRL file:   Priority file:        /etc/gnutls/default-priorities   DNSSEC root key file: C:\Program Files\Unbound\root.key  configure: WARNING: *** *** The DNSSEC root key file in C:\Program Files\Unbound\root.key was not found. *** This file is needed for the verification of DNSSEC responses. *** Use the command: unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot; *** to generate or update it. *** "/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1427698455127" ID="ID_753526872" MODIFIED="1427698457566" TEXT="PROB">
+<node CREATED="1427698466311" ID="ID_255560844" MODIFIED="1427698466788" TEXT="$ unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot; sh: unbound-anchor: command not found"/>
+<node CREATED="1427698470783" ID="ID_100513329" MODIFIED="1427698937864" TEXT="TRY">
+<node CREATED="1427698482534" ID="ID_22112714" MODIFIED="1427698484352" TEXT="install">
+<node CREATED="1427698484354" ID="ID_1623291537" LINK="https://unbound.net/download.html" MODIFIED="1427698489373" TEXT="=&gt; Unbound"/>
+</node>
+<node CREATED="1427699080023" ID="ID_897293718" MODIFIED="1427699080912" TEXT="REF">
+<node CREATED="1427699080913" ID="ID_1220182773" MODIFIED="1427699081281" TEXT="1">
+<node CREATED="1427699081282" ID="ID_970057463" LINK="C:\msys\home\kbuchi\unbound-1.5.3\README" MODIFIED="1427699087864" TEXT="README"/>
+</node>
+</node>
+<node CREATED="1427698496446" ID="ID_300006570" MODIFIED="1427698942377" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427698497599" ID="ID_1277009431" MODIFIED="1427698502180" TEXT="wget https://unbound.net/downloads/unbound-latest.tar.gz"/>
+<node COLOR="#ff0000" CREATED="1427698771480" ID="ID_1722422991" MODIFIED="1427698861251" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1427698783383" FOLDED="true" ID="ID_1710038279" MODIFIED="1427698787344" TEXT="line">
+<node CREATED="1427698781431" ID="ID_602653342" MODIFIED="1427698781806" TEXT="$ wget https://unbound.net/downloads/unbound-1.5.3.tar.gz --2015-03-30 15:59:04--  https://unbound.net/downloads/unbound-1.5.3.tar.gz Resolving unbound.net... 185.49.140.10 Connecting to unbound.net|185.49.140.10|:443... connected. ERROR: cannot verify unbound.net&apos;s certificate, issued by `/C=BE/O=GlobalSign nv   Unable to locally verify the issuer&apos;s authority. ERROR: certificate common name `*.nlnetlabs.nl&apos; doesn&apos;t match requested host nam To connect to unbound.net insecurely, use `--no-check-certificate&apos;. "/>
+</node>
+<node CREATED="1427698791334" ID="ID_963108885" MODIFIED="1427698792388" TEXT="TRY">
+<node CREATED="1427698792856" ID="ID_368169725" MODIFIED="1427698799180" TEXT="download via browser"/>
+</node>
+</node>
+</node>
+<node CREATED="1427698864782" ID="ID_304198063" MODIFIED="1427698942376" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427698866150" ID="ID_1500436236" MODIFIED="1427698883635" TEXT="tar xvf unbound-1.5.3.tar.gz"/>
+</node>
+<node CREATED="1427698920455" ID="ID_1486134194" MODIFIED="1427699552123" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427698956463" ID="ID_956939962" MODIFIED="1427698958180" TEXT="cd unbound-1.5.3"/>
+</node>
+<node CREATED="1427698959903" ID="ID_1415536863" MODIFIED="1427698960876" TEXT="3-2">
+<node CREATED="1427698923624" ID="ID_1355754298" MODIFIED="1427698923624" TEXT="./configure"/>
+<node COLOR="#ff0000" CREATED="1427699555159" ID="ID_738094285" MODIFIED="1427699557186" TEXT="PROB">
+<node CREATED="1427699580760" FOLDED="true" ID="ID_540685378" MODIFIED="1427699586439" TEXT="line">
+<node CREATED="1427699584310" ID="ID_1323920959" MODIFIED="1427699584741" TEXT="checking for SSL... configure: error: Cannot find the SSL libraries in /usr/local/ssl /usr/lib/ssl /usr/ssl /usr/pkg /usr/local /opt/local /usr/sfw /usr"/>
+</node>
+<node CREATED="1427699587392" ID="ID_1210335690" MODIFIED="1427699588516" TEXT="TRY">
+<node CREATED="1427699589999" ID="ID_1368243063" MODIFIED="1427699593723" TEXT="install openssl"/>
+<node CREATED="1427699594367" ID="ID_369960295" MODIFIED="1427699595332" TEXT="REF"/>
+<node CREATED="1427699599159" ID="ID_1124475813" MODIFIED="1427699600599" TEXT="1">
+<node CREATED="1427699600600" ID="ID_983953929" LINK="http://qt-project.org/wiki/Compiling-OpenSSL-with-MinGW" MODIFIED="1427699604458" TEXT="how to install"/>
+</node>
+<node CREATED="1427699610327" ID="ID_857762233" MODIFIED="1427699611090" TEXT="2">
+<node CREATED="1427699611091" ID="ID_17091575" LINK="https://www.openssl.org/source/" MODIFIED="1427699614203" TEXT="get tar"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1427698921439" ID="ID_1521902289" MODIFIED="1427698921869" TEXT="4">
+<node CREATED="1427698931834" ID="ID_929519758" MODIFIED="1427698931834" TEXT="make"/>
+</node>
+<node CREATED="1427698922095" ID="ID_1527041671" MODIFIED="1427698922636" TEXT="5">
+<node CREATED="1427698935531" MODIFIED="1427698935531" TEXT="make install"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1427696022550" ID="ID_518897515" MODIFIED="1427696023667" TEXT="5">
+<node CREATED="1427696024180" ID="ID_230545184" MODIFIED="1427696027162" TEXT="make"/>
+</node>
+<node CREATED="1427696027950" ID="ID_734796200" MODIFIED="1427696028666" TEXT="6">
+<node CREATED="1427696029199" MODIFIED="1427696029199" TEXT="make install"/>
+</node>
+</node>
+</node>
+<node CREATED="1427695569158" ID="ID_1887193195" MODIFIED="1427695569635" TEXT="6">
+<node CREATED="1427695581326" ID="ID_1583158605" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Install_SQLite" MODIFIED="1427695584859" TEXT="Install SQLite"/>
+</node>
+<node CREATED="1427695624007" ID="ID_1338212307" MODIFIED="1427695625722" TEXT="7">
+<node CREATED="1427695612213" ID="ID_310635679" LINK="https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows#Install_wxWidgets" MODIFIED="1427695630258" TEXT="Install wxWidgets"/>
 </node>
 </node>
 </node>
