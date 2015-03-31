@@ -418,7 +418,7 @@
 <node CREATED="1401588726267" ID="ID_36829936" MODIFIED="1401600746995" TEXT="4">
 <node CREATED="1427695989438" ID="ID_1835191630" MODIFIED="1427696016610" TEXT="./configure --enable-static --disable-shared GMP_LIBS=&quot;-L/usr/local/lib -lgmp&quot; --disable-guile --disable-doc CPPFLAGS=&apos;-I/usr/local/include&apos; LDFLAGS=&apos;-L/usr/local/lib&apos;"/>
 <node COLOR="#990000" CREATED="1427697999344" ID="ID_1325322440" MODIFIED="1427698002310" TEXT="RESULT">
-<node CREATED="1427698003182" FOLDED="true" ID="ID_593153746" MODIFIED="1427698454115" TEXT="line">
+<node CREATED="1427698003182" FOLDED="true" ID="ID_593153746" MODIFIED="1427800028725" TEXT="line">
 <node CREATED="1427698005191" ID="ID_784342232" MODIFIED="1427698005603" TEXT="configure: summary of build options:    version:              3.3.13 shared 69:5:41   Host/Target system:   i686-pc-mingw32   Build system:         i686-pc-mingw32   Install prefix:       /usr/local   Compiler:             gcc   CFlags:               -g -O2   Library types:        Shared=no, Static=yes   Local libopts:        yes   Local libtasn1:       yes   Use nettle-mini:      no  configure: External hardware support:    /dev/crypto:          no   Hardware accel:       x86   Padlock accel:        yes   PKCS#11 support:      no   TPM support:          no  configure: Optional features: (note that included applications might not compile properly if features are disabled)    DTLS-SRTP support:    yes   ALPN support:         yes   OCSP support:         yes   Ses. ticket support:  yes   OpenPGP support:      yes   SRP support:          yes   PSK support:          yes   DHE support:          yes   ECDHE support:        yes   RSA-EXPORT support:   yes   Anon auth support:    yes   Heartbeat support:    yes   Unicode support:      yes   Self checks:          no   Non-SuiteB curves:    yes   FIPS140 mode:         no  configure: Optional applications:    crywrap app:  configure: Optional libraries:    Guile wrappers:       no   C++ library:          yes   DANE library:         no   OpenSSL compat:       yes  configure: System files:    Trust store pkcs11:   Trust store dir:   Trust store file:   Blacklist file:   CRL file:   Priority file:        /etc/gnutls/default-priorities   DNSSEC root key file: C:\Program Files\Unbound\root.key  configure: WARNING: *** *** The DNSSEC root key file in C:\Program Files\Unbound\root.key was not found. *** This file is needed for the verification of DNSSEC responses. *** Use the command: unbound-anchor -a &quot;C:\Program Files\Unbound\root.key&quot; *** to generate or update it. *** "/>
 </node>
 </node>
@@ -438,7 +438,7 @@
 <node CREATED="1427698497599" ID="ID_1277009431" MODIFIED="1427698502180" TEXT="wget https://unbound.net/downloads/unbound-latest.tar.gz"/>
 <node COLOR="#ff0000" CREATED="1427698771480" ID="ID_1722422991" MODIFIED="1427698861251" TEXT="PROB">
 <icon BUILTIN="idea"/>
-<node CREATED="1427698783383" FOLDED="true" ID="ID_1710038279" MODIFIED="1427698787344" TEXT="line">
+<node CREATED="1427698783383" ID="ID_1710038279" MODIFIED="1427803186415" TEXT="line">
 <node CREATED="1427698781431" ID="ID_602653342" MODIFIED="1427698781806" TEXT="$ wget https://unbound.net/downloads/unbound-1.5.3.tar.gz --2015-03-30 15:59:04--  https://unbound.net/downloads/unbound-1.5.3.tar.gz Resolving unbound.net... 185.49.140.10 Connecting to unbound.net|185.49.140.10|:443... connected. ERROR: cannot verify unbound.net&apos;s certificate, issued by `/C=BE/O=GlobalSign nv   Unable to locally verify the issuer&apos;s authority. ERROR: certificate common name `*.nlnetlabs.nl&apos; doesn&apos;t match requested host nam To connect to unbound.net insecurely, use `--no-check-certificate&apos;. "/>
 </node>
 <node CREATED="1427698791334" ID="ID_963108885" MODIFIED="1427698792388" TEXT="TRY">
@@ -456,18 +456,178 @@
 </node>
 <node CREATED="1427698959903" ID="ID_1415536863" MODIFIED="1427698960876" TEXT="3-2">
 <node CREATED="1427698923624" ID="ID_1355754298" MODIFIED="1427698923624" TEXT="./configure"/>
-<node COLOR="#ff0000" CREATED="1427699555159" ID="ID_738094285" MODIFIED="1427699557186" TEXT="PROB">
-<node CREATED="1427699580760" FOLDED="true" ID="ID_540685378" MODIFIED="1427699586439" TEXT="line">
+<node COLOR="#ff0000" CREATED="1427699555159" ID="ID_738094285" MODIFIED="1427800308185" TEXT="PROB">
+<node CREATED="1427699580760" ID="ID_540685378" MODIFIED="1427800303017" TEXT="line">
 <node CREATED="1427699584310" ID="ID_1323920959" MODIFIED="1427699584741" TEXT="checking for SSL... configure: error: Cannot find the SSL libraries in /usr/local/ssl /usr/lib/ssl /usr/ssl /usr/pkg /usr/local /opt/local /usr/sfw /usr"/>
 </node>
-<node CREATED="1427699587392" ID="ID_1210335690" MODIFIED="1427699588516" TEXT="TRY">
+<node CREATED="1427699587392" ID="ID_1210335690" MODIFIED="1427803199202" TEXT="TRY">
+<icon BUILTIN="idea"/>
 <node CREATED="1427699589999" ID="ID_1368243063" MODIFIED="1427699593723" TEXT="install openssl"/>
 <node CREATED="1427699594367" ID="ID_369960295" MODIFIED="1427699595332" TEXT="REF"/>
-<node CREATED="1427699599159" ID="ID_1124475813" MODIFIED="1427699600599" TEXT="1">
+<node CREATED="1427699599159" FOLDED="true" ID="ID_1124475813" MODIFIED="1427800015447" TEXT="1">
+<icon BUILTIN="button_ok"/>
 <node CREATED="1427699600600" ID="ID_983953929" LINK="http://qt-project.org/wiki/Compiling-OpenSSL-with-MinGW" MODIFIED="1427699604458" TEXT="how to install"/>
 </node>
-<node CREATED="1427699610327" ID="ID_857762233" MODIFIED="1427699611090" TEXT="2">
+<node CREATED="1427699610327" FOLDED="true" ID="ID_857762233" MODIFIED="1427800015456" TEXT="2">
+<icon BUILTIN="button_ok"/>
 <node CREATED="1427699611091" ID="ID_17091575" LINK="https://www.openssl.org/source/" MODIFIED="1427699614203" TEXT="get tar"/>
+</node>
+<node CREATED="1427786164525" FOLDED="true" ID="ID_1324458416" MODIFIED="1427800015456" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786167251" ID="ID_928959235" MODIFIED="1427786173165" TEXT="cd openssl-1.0.1m"/>
+</node>
+<node CREATED="1427786165512" FOLDED="true" ID="ID_635628506" MODIFIED="1427800015457" TEXT="4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786198852" ID="ID_1871374936" MODIFIED="1427786199517" TEXT="./Configure --prefix=$PWD/dist no-idea no-mdc2 no-rc5 shared mingw64"/>
+</node>
+<node CREATED="1427786245046" FOLDED="true" ID="ID_1348661014" MODIFIED="1427800015459" TEXT="5">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786247774" ID="ID_1276697468" MODIFIED="1427786248296" TEXT="make depend"/>
+<node CREATED="1427786582081" FOLDED="true" ID="ID_926005956" MODIFIED="1427800015458" TEXT="RESULT">
+<node CREATED="1427786583890" FOLDED="true" ID="ID_1429066136" MODIFIED="1427786590744" TEXT="line">
+<node CREATED="1427786585411" ID="ID_1377724798" MODIFIED="1427786586197" TEXT="making depend in tools... make[1]: Entering directory `/home/kbuchi/openssl-1.0.1m/tools&apos; make[1]: Nothing to be done for `depend&apos;. make[1]: Leaving directory `/home/kbuchi/openssl-1.0.1m/tools&apos; "/>
+</node>
+</node>
+</node>
+<node CREATED="1427786246204" ID="ID_182449717" MODIFIED="1427800316171" TEXT="6">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786293614" ID="ID_916679746" MODIFIED="1427786294100" TEXT="make &amp;&amp; make install"/>
+<node COLOR="#ff0000" CREATED="1427787969232" ID="ID_1074501516" MODIFIED="1427800507493" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1427788010927" ID="ID_309155770" MODIFIED="1427788140595" TEXT=" 15/03/31"/>
+<node CREATED="1427787972424" ID="ID_1801603487" MODIFIED="1427800507500" TEXT="line">
+<node CREATED="1427787973953" ID="ID_591305989" MODIFIED="1427787974412" TEXT="make[2]: Leaving directory `/home/kbuchi/openssl-1.0.1m/test&apos; gcc -I.. -I../include  -D_WINDLL -DOPENSSL_PIC -DOPENSSL_THREADS -D_MT -DDSO_WI SM -DBSAES_ASM -DWHIRLPOOL_ASM -DGHASH_ASM   -c -o ideatest.o ideatest.c make[2]: Entering directory `/home/kbuchi/openssl-1.0.1m/test&apos; C:/msys/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86 collect2.exe: error: ld returned 1 exit status ../Makefile.shared:308: recipe for target `link_app.cygwin&apos; failed make[2]: *** [link_app.cygwin] Error 1 make[2]: Leaving directory `/home/kbuchi/openssl-1.0.1m/test&apos; Makefile:403: recipe for target `ideatest.exe&apos; failed make[1]: *** [ideatest.exe] Error 2 make[1]: Leaving directory `/home/kbuchi/openssl-1.0.1m/test&apos; Makefile:286: recipe for target `build_tests&apos; failed make: *** [build_tests] Error 1"/>
+</node>
+<node CREATED="1427787991041" ID="ID_984479731" MODIFIED="1427800507505" TEXT="TRY">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1427787994928" ID="ID_1687127424" MODIFIED="1427788007533" TEXT="configure with mingw32"/>
+<node CREATED="1427786198852" ID="ID_988735845" MODIFIED="1427788159782" TEXT="./Configure --prefix=$PWD/dist no-idea no-mdc2 no-rc5 shared mingw"/>
+<node COLOR="#ff0000" CREATED="1427788271992" ID="ID_205596215" MODIFIED="1427800507507" TEXT="PROB">
+<node CREATED="1427788275088" ID="ID_216579293" MODIFIED="1427800507507" TEXT="line">
+<node CREATED="1427788276697" ID="ID_414321886" MODIFIED="1427788277389" TEXT="cc1.exe: error: CPU you selected does not support x86-64 instruction set"/>
+</node>
+</node>
+</node>
+<node CREATED="1427788195369" ID="ID_261738091" MODIFIED="1427800507511" TEXT="TRY">
+<icon BUILTIN="idea"/>
+<node CREATED="1427788197744" ID="ID_186144133" MODIFIED="1427788198238" TEXT="openssl-1.0.0r"/>
+<node CREATED="1427788436136" ID="ID_1311622325" MODIFIED="1427800507512" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427788197744" ID="ID_1042992095" MODIFIED="1427788442315" TEXT="cd openssl-1.0.0r"/>
+</node>
+<node CREATED="1427788436944" ID="ID_1430841799" MODIFIED="1427800507513" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786198852" ID="ID_54832431" MODIFIED="1427788440770" TEXT="./Configure --prefix=$PWD/dist no-idea no-mdc2 no-rc5 shared mingw64"/>
+</node>
+<node CREATED="1427788437776" ID="ID_123904829" MODIFIED="1427800507514" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786247774" ID="ID_312002518" MODIFIED="1427786248296" TEXT="make depend"/>
+</node>
+<node CREATED="1427788438976" ID="ID_106297268" MODIFIED="1427803212478" TEXT="4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427788677936" ID="ID_663998638" MODIFIED="1427788680428" TEXT="make"/>
+<node COLOR="#ff0000" CREATED="1427789336726" ID="ID_392360795" MODIFIED="1427803214133" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1427789348829" ID="ID_1529528246" MODIFIED="1427803216140" TEXT="line">
+<node CREATED="1427789350435" ID="ID_226888329" MODIFIED="1427789413189" TEXT="make[2]: Entering directory `/home/kbuchi/openssl-1.0.0r/test&apos;&#xa;C:/msys/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x25): undefined reference to `WinMain&apos;&#xa;collect2.exe: error: ld returned 1 exit status&#xa;../Makefile.shared:308: recipe for target `link_app.cygwin&apos; failed&#xa;make[2]: *** [link_app.cygwin] Error 1&#xa;make[2]: Leaving directory `/home/kbuchi/openssl-1.0.0r/test&apos;&#xa;Makefile:368: recipe for target `ideatest.exe&apos; failed&#xa;make[1]: *** [ideatest.exe] Error 2&#xa;make[1]: Leaving directory `/home/kbuchi/openssl-1.0.0r/test&apos;&#xa;Makefile:255: recipe for target `build_tests&apos; failed&#xa;make: *** [build_tests] Error 1"/>
+</node>
+<node CREATED="1427789576700" ID="ID_617249972" MODIFIED="1427803216141" TEXT="REF">
+<node CREATED="1427789577873" ID="ID_405562830" MODIFIED="1427803216144" TEXT="1">
+<node CREATED="1427789578338" ID="ID_841477960" LINK="http://sourceforge.net/p/mingw-w64/mailman/message/26039659/" MODIFIED="1427803216145" TEXT="QA">
+<node CREATED="1427789593768" ID="ID_1517999528" MODIFIED="1427789595781" TEXT="&quot;I remember this problem: it is caused by&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1427789694049" ID="ID_1041771758" MODIFIED="1427803216149" TEXT="TRY">
+<node CREATED="1427789696697" ID="ID_67878981" MODIFIED="1427803216151" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427789700105" ID="ID_472061760" MODIFIED="1427789706537" TEXT="tar xvzf openssl-1.0.1m.tar.gz"/>
+</node>
+<node CREATED="1427789697616" ID="ID_1788359020" MODIFIED="1427803216152" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786167251" ID="ID_1810378064" MODIFIED="1427786173165" TEXT="cd openssl-1.0.1m"/>
+</node>
+<node CREATED="1427789698264" ID="ID_1888340630" MODIFIED="1427803216154" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786198852" ID="ID_48992373" MODIFIED="1427786199517" TEXT="./Configure --prefix=$PWD/dist no-idea no-mdc2 no-rc5 shared mingw64"/>
+</node>
+<node CREATED="1427789797904" ID="ID_1331906335" MODIFIED="1427803216155" TEXT="4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427786247774" ID="ID_362584522" MODIFIED="1427786248296" TEXT="make depend"/>
+</node>
+<node CREATED="1427795131096" ID="ID_977294937" MODIFIED="1427803216156" TEXT="5">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427795132535" ID="ID_1757980154" MODIFIED="1427795133596" TEXT="make"/>
+</node>
+</node>
+<node CREATED="1427795562312" ID="ID_799260337" MODIFIED="1427803216157" TEXT="TRY">
+<icon BUILTIN="flag-blue"/>
+<node CREATED="1427788197744" ID="ID_92444280" MODIFIED="1427788198238" TEXT="openssl-1.0.0r"/>
+</node>
+</node>
+</node>
+<node CREATED="1427796697864" ID="ID_1745219627" MODIFIED="1427800507553" TEXT="5">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1427796699800" ID="ID_518271784" MODIFIED="1427796702220" TEXT="make install"/>
+<node CREATED="1427798140144" ID="ID_1824289296" MODIFIED="1427800507555" TEXT="RESULT">
+<node CREATED="1427798142602" ID="ID_926946817" MODIFIED="1427803221993" TEXT="line">
+<node CREATED="1427798144145" ID="ID_1288289024" MODIFIED="1427798145155" TEXT="make[1]: Leaving directory `/home/kbuchi/openssl-1.0.1m/dist/lib&apos; OpenSSL shared libraries have been installed in:   /home/kbuchi/openssl-1.0.1m/dist  If this directory is not in a standard system path for dynamic/shared libraries, then you will have problems linking and executing applications that use OpenSSL libraries UNLESS:  * you link with static (archive) libraries.  If you are truly   paranoid about security, you should use static libraries. * you use the GNU libtool code during linking   (http://www.gnu.org/software/libtool/libtool.html) * you use pkg-config during linking (this requires that   PKG_CONFIG_PATH includes the path to the OpenSSL shared   library directory), and make use of -R or -rpath.   (http://www.freedesktop.org/software/pkgconfig/) * you specify the system-wide link path via a command such   as crle(1) on Solaris systems. * you add the OpenSSL shared library directory to /etc/ld.so.conf   and run ldconfig(8) on Linux systems. * you define the LD_LIBRARY_PATH, LIBPATH, SHLIB_PATH (HP),   DYLD_LIBRARY_PATH (MacOS X) or PATH (Cygwin and DJGPP)   environment variable and add the OpenSSL shared library   directory to it.  One common tool to check the dynamic dependencies of an executable or dynamic library is ldd(1) on most UNIX systems.  See any operating system documentation and manpages about shared libraries for your version of UNIX.  The following manpages may be helpful: ld(1), ld.so(1), ld.so.1(1) [Solaris], dld.sl(1) [HP], ldd(1), crle(1) [Solaris], pldd(1) [Solaris], ldconfig(8) [Linux], chatr(1) [HP]. cp libcrypto.pc /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig chmod 644 /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig/libcrypto.pc cp libssl.pc /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig chmod 644 /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig/libssl.pc cp openssl.pc /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig chmod 644 /home/kbuchi/openssl-1.0.1m/dist/lib/pkgconfig/openssl.pc "/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1427800323011" ID="ID_292566964" MODIFIED="1427800324754" TEXT="TRY">
+<node CREATED="1427800331962" ID="ID_954518838" MODIFIED="1427800333304" TEXT=" 15/03/31"/>
+<node CREATED="1427800324755" ID="ID_1858783621" MODIFIED="1427800328479" TEXT="=&gt; re-configure"/>
+<node COLOR="#ff0000" CREATED="1427800422993" ID="ID_409416193" MODIFIED="1427803855210" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1427800425209" FOLDED="true" ID="ID_345898969" MODIFIED="1427803125517" TEXT="line">
+<node CREATED="1427800439737" ID="ID_271069882" MODIFIED="1427800440190" TEXT="checking for ranlib... ranlib checking for gawk... gawk checking command to parse /mingw64/mingw64/bin//nm -B output from gcc object... failed checking for sysroot... no checking for mt... no checking if : is a manifest tool... no checking for dlfcn.h... no checking for objdir... .libs checking if gcc supports -fno-rtti -fno-exceptions... no checking for gcc option to produce PIC... -DDLL_EXPORT -DPIC checking if gcc PIC flag -DDLL_EXPORT -DPIC works... yes checking if gcc static flag -static works... yes checking if gcc supports -c -o file.o... yes checking if gcc supports -c -o file.o... (cached) yes checking whether the gcc linker (C:/msys/mingw64/mingw64/x86_64-w64-mingw32/bin/ld.exe) supports shared libraries... yes checking whether -lc should be explicitly linked in... yes checking dynamic linker characteristics... Win32 ld.exe checking how to hardcode library paths into programs... immediate checking whether stripping libraries is possible... yes checking if libtool supports shared libraries... yes checking whether to build shared libraries... yes checking whether to build static libraries... yes checking for stdarg.h... yes checking for stdbool.h... yes checking for netinet/in.h... no checking for sys/param.h... yes checking for sys/socket.h... no checking for sys/un.h... no checking for sys/uio.h... no checking for sys/resource.h... no checking for arpa/inet.h... no checking for syslog.h... no checking for netdb.h... no checking for sys/wait.h... no checking for pwd.h... no checking for glob.h... no checking for grp.h... no checking for login_cap.h... no checking for winsock2.h... yes checking for ws2tcpip.h... yes checking for endian.h... no checking for int8_t... yes checking for int16_t... yes checking for int32_t... yes checking for int64_t... yes checking for uint8_t... yes checking for uint16_t... yes checking for uint32_t... yes checking for uint64_t... yes checking for size_t... yes checking for ssize_t... yes checking for uid_t in sys/types.h... no checking for pid_t... yes checking for off_t... yes checking for u_char... yes checking for rlim_t... no checking for socklen_t... yes checking for in_addr_t... no checking for in_port_t... no checking if memcmp compares unsigned... yes checking size of time_t... 8 checking for library containing inet_pton... no checking for library containing socket... no checking for unistd.h... (cached) yes checking for working chown... no checking vfork.h usability... no checking vfork.h presence... no checking for vfork.h... no checking for fork... no checking for vfork... no checking return type of signal handlers... void checking for _LARGEFILE_SOURCE value needed for large files... no checking for special C compiler options needed for large files... no checking for _FILE_OFFSET_BITS value needed for large files... 64 checking whether we need -D_LARGEFILE_SOURCE=1 as a flag for gcc... no checking if nonblocking sockets work... no checking whether mkdir has one arg... yes checking for strptime... no checking for GNU libc compatible malloc... yes checking for windows.h... yes checking for CreateThread... yes checking for SSL... configure: error: Cannot find the SSL libraries in /usr/local/ssl /usr/lib/ssl /usr/ssl /usr/pkg /usr/local /opt/local /usr/sfw /usr"/>
+</node>
+<node CREATED="1427800708713" ID="ID_1770504221" MODIFIED="1427801876634" TEXT="TRY">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1427800713858" ID="ID_39748784" MODIFIED="1427800717263" TEXT="/etc/profile"/>
+<node CREATED="1427800718298" ID="ID_1515003025" MODIFIED="1427800720126" TEXT="REF">
+<node CREATED="1427800724577" ID="ID_870516613" MODIFIED="1427800725101" TEXT="1">
+<node CREATED="1427800725103" ID="ID_487187821" LINK="http://forums.fedoraforum.org/showthread.php?t=157488" MODIFIED="1427800727458" TEXT="QA">
+<node CREATED="1427800733632" ID="ID_521840534" MODIFIED="1427800734126" TEXT=" 9th June 2007, 05:59 PM"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1427801877041" ID="ID_1415096716" MODIFIED="1427801878602" TEXT="TRY">
+<node CREATED="1427801878603" ID="ID_658677472" MODIFIED="1427801880721" TEXT="add path">
+<node CREATED="1427801880722" ID="ID_879708834" MODIFIED="1427801881790" TEXT="C:\msys\lib\openssl\engines-1.0.0"/>
+</node>
+<node CREATED="1427802070235" ID="ID_1531956375" MODIFIED="1427802072731" TEXT="$LD_LIBRARY_PATH">
+<node CREATED="1427802056857" ID="ID_820370409" MODIFIED="1427802077502" TEXT="=&gt; /home/kbuchi/openssl-1.0.1m/dist/lib:/home/kbuchi/openssl-1.0.1m/dist/lib"/>
+</node>
+</node>
+<node CREATED="1427802776474" ID="ID_1260361127" MODIFIED="1427803580970" TEXT="TRY">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1427802778777" ID="ID_1631921968" MODIFIED="1427802797272" TEXT="./configure --with-ssl=/home/kbuchi/openssl-1.0.1m/dist/lib"/>
+<node CREATED="1427802838394" ID="ID_498517975" MODIFIED="1427802839675" TEXT="REF">
+<node CREATED="1427802839676" ID="ID_718506266" MODIFIED="1427802840187" TEXT="1">
+<node CREATED="1427802840188" ID="ID_196454639" LINK="http://buildroot-busybox.2317881.n4.nabble.com/PATCH-nsd-new-package-td79305.html" MODIFIED="1427802857577" TEXT="QA">
+<node CREATED="1427802852506" ID="ID_186691795" MODIFIED="1427802853237" TEXT="You probably need to pass --with-{libevent,ssl}=/some/path"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1427803581441" ID="ID_1888127345" MODIFIED="1427803844944" TEXT="TRY">
+<icon BUILTIN="idea"/>
+<node CREATED="1427802778777" ID="ID_1034357180" MODIFIED="1427803590671" TEXT="./configure --with-ssl=/home/kbuchi/openssl-1.0.1m/dist">
+<node CREATED="1427803592338" ID="ID_319986688" MODIFIED="1427803597400" TEXT="=&gt; no &quot;lib&quot;"/>
+</node>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1427803852002" ID="ID_971875077" MODIFIED="1427803854634" TEXT="PROB">
+<node CREATED="1427803856786" ID="ID_1671220791" MODIFIED="1427803857743" TEXT="line">
+<node CREATED="1427803858354" ID="ID_1810866721" MODIFIED="1427803858858" TEXT="checking whether sk_SSL_COMP_pop_free is declared... yes checking for EVP_PKEY_set_type_str... yes checking for EC_KEY_new... yes checking if GOST works... no checking for ECDSA_sign... yes checking for SHA384_Init... yes checking whether NID_X9_62_prime256v1 is declared... yes checking whether NID_secp384r1 is declared... yes checking if openssl supports SHA2 and ECDSA with EVP... yes checking for libexpat... configure: error: Could not find libexpat, expat.h "/>
+</node>
 </node>
 </node>
 </node>
