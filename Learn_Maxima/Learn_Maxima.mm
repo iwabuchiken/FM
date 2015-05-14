@@ -329,7 +329,7 @@
 <node CREATED="1430702436277" ID="ID_206965032" LINK="http://www.jaxa.jp/article/special/explore/mori01_j.html" MODIFIED="1430702441081" TEXT="7">
 <node CREATED="1430702437254" ID="ID_131410565" MODIFIED="1430702439601" TEXT="solar sail"/>
 </node>
-<node CREATED="1431297192110" FOLDED="true" ID="ID_1396164547" LINK="https://www.ma.utexas.edu/pipermail/maxima/2006/000023.html" MODIFIED="1431319027034" TEXT="8">
+<node CREATED="1431297192110" ID="ID_1396164547" LINK="https://www.ma.utexas.edu/pipermail/maxima/2006/000023.html" MODIFIED="1431558024605" TEXT="8">
 <node CREATED="1431297193852" ID="ID_764777110" MODIFIED="1431297204331" TEXT="vector: cross product"/>
 </node>
 <node CREATED="1431319027649" ID="ID_1974223435" LINK="http://web.csulb.edu/~woollett/mbe2plotfit.pdf" MODIFIED="1431319036877" TEXT="9">
