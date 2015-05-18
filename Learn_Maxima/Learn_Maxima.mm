@@ -337,6 +337,11 @@
 <node CREATED="1431319052609" ID="ID_698894217" MODIFIED="1431319053779" TEXT="&quot;Here is an example of using the gnuplot preamble options&quot;"/>
 </node>
 </node>
+<node CREATED="1431914177288" ID="ID_372782835" LINK="http://maxima.sourceforge.net/docs/tutorial/en/gaertner-tutorial-revision/Pages/Programming0001.htm" MODIFIED="1431914184277" TEXT="10">
+<node CREATED="1431914179479" ID="ID_1886162123" MODIFIED="1431914182132" TEXT="for statement">
+<node CREATED="1431914193030" ID="ID_967455162" MODIFIED="1431914194002" TEXT="&quot;Here we use the language element&quot;"/>
+</node>
+</node>
 </node>
 <node CREATED="1403738268658" ID="ID_1640677828" MODIFIED="1425163682987" TEXT="v-1.0">
 <node COLOR="#669900" CREATED="1401600740073" HGAP="23" ID="ID_423310034" MODIFIED="1409376759987" TEXT="steps" VSHIFT="3">
