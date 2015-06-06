@@ -5421,6 +5421,18 @@
 </node>
 </node>
 </node>
+<node CREATED="1433572366161" ID="ID_732641618" MODIFIED="1433572367598" TEXT="#3">
+<node CREATED="1433572369565" ID="ID_89634562" MODIFIED="1433572369612" TEXT=" 15/06/06"/>
+<node CREATED="1433572372140" ID="ID_1368662808" MODIFIED="1433572381092" TEXT="&#x30a2;&#x30eb;&#x30ab;&#x30f3;"/>
+<node CREATED="1433573416083" ID="ID_925586850" LINK="http://okwave.jp/qa/q1534009.html" MODIFIED="1433573454643" TEXT="HOMO, LUMO"/>
+<node CREATED="1433573639728" ID="ID_779805829" LINK="http://hyper-chemistry.blog.so-net.ne.jp/2011-03-05" MODIFIED="1433573661205" TEXT="&#x3c0;&#x8ecc;&#x9053;">
+<node CREATED="1433573664050" ID="ID_1489166339" LINK="http://pcat.cat.hokudai.ac.jp/class/pcs_2006/20060626_BO_Sapporo.files/frame.htm" MODIFIED="1433573673735" TEXT="also"/>
+<node CREATED="1433573706029" ID="ID_465960338" LINK="http://kusuri-jouhou.com/chemistry/ketugou.html" MODIFIED="1433573758419" TEXT="also: &#x30a8;&#x30cd;&#x30eb;&#x30ae;&#x30fc;&#x6e96;&#x4f4d;&#x56f3;&#x3042;&#x308a;"/>
+</node>
+<node CREATED="1433574309735" ID="ID_1162724656" LINK="http://rikanet2.jst.go.jp/contents/cp0200a/contents/20103.html " MODIFIED="1433574395522" TEXT="&#x7d50;&#x5408;&#x6027;&#x3001;&#x53cd;&#x7d50;&#x5408;&#x6027;&#x8ecc;&#x9053;"/>
+<node CREATED="1433576294386" ID="ID_1283156688" LINK="http://chemeng.in.coocan.jp/ce/heatcomb.html" MODIFIED="1433576323199" TEXT="&#x751f;&#x6210;&#x71b1;&#x3000;&#x4e00;&#x89a7;"/>
+<node CREATED="1433576491321" ID="ID_1949626156" LINK="http://calc-site.com/units/energy" MODIFIED="1433576506179" TEXT="&#x5909;&#x63db;&#x3000;&#x30b8;&#x30e5;&#x30fc;&#x30eb;&#x3000;&#x30ab;&#x30ed;&#x30ea;&#x30fc;"/>
+</node>
 </node>
 </node>
 <node CREATED="1431843235161" FOLDED="true" ID="ID_350787755" MODIFIED="1432607118759" TEXT="D-139">
