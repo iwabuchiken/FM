@@ -2995,6 +2995,9 @@
 <node CREATED="1435216971878" ID="ID_555153365" MODIFIED="1435314118600" TEXT="8">
 <node CREATED="1435216973288" ID="ID_928298756" LINK="https://docs.google.com/spreadsheets/d/12TCzl3_i0GSjwmjo6BiGKO2NlTn05ODUNzX_H2y2xXQ/edit#gid=0" MODIFIED="1435216980506" TEXT="sheet"/>
 </node>
+<node CREATED="1435388385415" ID="ID_247955206" MODIFIED="1435388386674" TEXT="9">
+<node CREATED="1435388387229" ID="ID_1231121197" LINK="C:\WORKS\WS\WS_Research\R.1-49\R.22-1" MODIFIED="1435388496618" TEXT="folder"/>
+</node>
 </node>
 <node CREATED="1391061712230" ID="ID_1604323397" MODIFIED="1391061719590" TEXT="v-1.0">
 <icon BUILTIN="button_ok"/>
@@ -3016,7 +3019,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1435126129048" ID="ID_25079352" MODIFIED="1435314118613" TEXT="s-2">
+<node CREATED="1435126129048" ID="ID_25079352" MODIFIED="1435390309584" TEXT="s-2">
+<icon BUILTIN="stop-sign"/>
 <node CREATED="1435126132056" ID="ID_764860086" MODIFIED="1435126132057" TEXT=" 15/06/24"/>
 <node CREATED="1435125958568" ID="ID_1339848531" MODIFIED="1435125982045" TEXT="&#x300e;&#x5024;&#x5e45;&#x306e;&#x7814;&#x7a76;&#x300f;&#x3000;&#x56db;&#x65b9;&#x7530;"/>
 <node CREATED="1435126195008" ID="ID_1201075696" MODIFIED="1435314118615" TEXT="#1">
@@ -3030,6 +3034,16 @@
 </node>
 </node>
 </node>
+<node CREATED="1435386952124" ID="ID_1169871293" MODIFIED="1435386953322" TEXT="#2">
+<node CREATED="1435386955762" ID="ID_1212542927" MODIFIED="1435386956012" TEXT=" 15/06/27"/>
+</node>
+<node CREATED="1435390311891" ID="ID_248146943" MODIFIED="1435390332508" TEXT="=&gt;&#x3000;&#x982d;&#x304c;&#x75db;&#x304f;&#x306a;&#x3063;&#x3066;&#x308b;">
+<node CREATED="1435390336615" ID="ID_1649917026" MODIFIED="1435390336618" TEXT=" 15/06/27"/>
+</node>
+</node>
+<node CREATED="1435392600184" ID="ID_1456855900" MODIFIED="1435392602083" TEXT="s-3">
+<node CREATED="1435392610911" ID="ID_432893095" MODIFIED="1435392612279" TEXT=" 15/06/27"/>
+<node CREATED="1435392603454" ID="ID_1837298485" MODIFIED="1435392607387" TEXT="stocks search"/>
 </node>
 </node>
 <node CREATED="1414465040368" ID="ID_869197450" MODIFIED="1435306973380" TEXT="D-51">
@@ -3246,46 +3260,46 @@
 </node>
 </node>
 </node>
-<node CREATED="1435049057141" ID="ID_1665337162" MODIFIED="1435179334961" TEXT="D-158-1">
+<node CREATED="1435049057141" ID="ID_1665337162" MODIFIED="1435405537861" TEXT="D-158-1">
 <node CREATED="1435049070587" ID="ID_831998916" MODIFIED="1435049073809" TEXT="Book 32"/>
 <node CREATED="1435049083699" ID="ID_866032393" MODIFIED="1435049112345" TEXT="&#x300e;&#x91d1;&#x306e;&#x5024;&#x6bb5;&#x306e;&#x88cf;&#x306e;&#x30a6;&#x30e9;&#x300f;&#x3000;&#x9b3c;&#x585a;&#x82f1;&#x662d;"/>
-<node CREATED="1435049114748" ID="ID_223300584" MODIFIED="1435180030330" TEXT="s-1">
+<node CREATED="1435049114748" ID="ID_223300584" MODIFIED="1435405537871" TEXT="s-1">
 <node CREATED="1435049118004" ID="ID_1275862886" MODIFIED="1435049118006" TEXT=" 15/06/23"/>
 <node CREATED="1435049896948" ID="ID_1181143989" LINK="http://lets-gold.net/chart_gallery/chart_gold_demand2.php" MODIFIED="1435049907761" TEXT="&#x4e2d;&#x592e;&#x9280;&#x884c;&#x3000;&#x91d1;&#x3000;&#x4fdd;&#x6709;&#x91cf;"/>
 <node CREATED="1435051351214" ID="ID_1903352375" LINK="http://www.multpl.com/us-gdp-inflation-adjusted/table" MODIFIED="1435051361400" TEXT="USA GDP 1933"/>
 <node CREATED="1435051611318" ID="ID_662744786" LINK="http://ecodb.net/country/JP/imf_gdp.html" MODIFIED="1435051621553" TEXT="&#x65e5;&#x672c;&#x3000;GDP&#x3000;2014"/>
 <node CREATED="1435052657653" ID="ID_1606880640" LINK="http://www.gold.org/research/latest-world-official-gold-reserves" MODIFIED="1435052670241" TEXT="World Official Gold Reserves"/>
-<node CREATED="1435109799181" ID="ID_1389447560" MODIFIED="1435180564509" TEXT="#2">
+<node CREATED="1435109799181" ID="ID_1389447560" MODIFIED="1435405537871" TEXT="#2">
 <node CREATED="1435109803466" ID="ID_7046265" MODIFIED="1435109803479" TEXT=" 15/06/24"/>
-<node CREATED="1435109805826" ID="ID_267470653" LINK="http://repo.lib.hosei.ac.jp/bitstream/10114/1742/1/71-1fujikawa.pdf" MODIFIED="1435180592418" TEXT="">
+<node CREATED="1435109805826" ID="ID_267470653" LINK="http://repo.lib.hosei.ac.jp/bitstream/10114/1742/1/71-1fujikawa.pdf" MODIFIED="1435405537881" TEXT="">
 <node CREATED="1435109814098" ID="ID_808543372" MODIFIED="1435109822479" TEXT="&#x300c;&#x30d6;&#x30ec;&#x30c8;&#x30f3;&#x30a6;&#x30c3;&#x30ba;&#x578b;&#x901a;&#x8ca8;&#x5236;&#x5ea6;&#x300d;"/>
 </node>
-<node CREATED="1435112354890" ID="ID_861736356" LINK="http://www.gold-eagle.com/article/us-currency-circulation-us-gold-reserves" MODIFIED="1435180592418" TEXT="US &#x91d1;&#x4fdd;&#x6709;&#x9ad8;&#x3000;&#x63a8;&#x79fb;">
+<node CREATED="1435112354890" ID="ID_861736356" LINK="http://www.gold-eagle.com/article/us-currency-circulation-us-gold-reserves" MODIFIED="1435405537881" TEXT="US &#x91d1;&#x4fdd;&#x6709;&#x9ad8;&#x3000;&#x63a8;&#x79fb;">
 <node CREATED="1435112377418" ID="ID_608562945" MODIFIED="1435112380191" TEXT="&quot;where all that gold came from in the 1930s!&quot;"/>
 </node>
 <node CREATED="1435113796643" ID="ID_1598954963" LINK="http://electronic-journal.seesaa.net/article/101976558.html" MODIFIED="1435113807258" TEXT="&#x30b1;&#x30cd;&#x30c7;&#x30a3;&#x3000;&#x91d1;&#x30d7;&#x30fc;&#x30eb;"/>
 </node>
-<node CREATED="1435180566641" ID="ID_287310404" MODIFIED="1435192840230" TEXT="#3">
+<node CREATED="1435180566641" ID="ID_287310404" MODIFIED="1435405537881" TEXT="#3">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1435180570214" ID="ID_1168517935" MODIFIED="1435180570216" TEXT=" 15/06/25"/>
 <node CREATED="1435180571548" ID="ID_817551796" LINK="http://www.meti.go.jp/report/tsuhaku2007/2007honbun/html/i1220000.html" MODIFIED="1435180587030" TEXT="US &#x7d4c;&#x5e38;&#x53ce;&#x652f;&#x3000;&#xff11;&#xff19;&#xff16;&#xff10;&#x5e74;&#x4ee3;&#xff5e;"/>
-<node CREATED="1435183189202" ID="ID_1875233070" MODIFIED="1435183199190" TEXT="&#x30d5;&#x30e9;&#x30f3;&#x30b9;&#x3000;&#x91d1;&#x30d7;&#x30fc;&#x30eb;&#x3000;&#x8131;&#x9000;">
+<node CREATED="1435183189202" ID="ID_1875233070" MODIFIED="1435405537891" TEXT="&#x30d5;&#x30e9;&#x30f3;&#x30b9;&#x3000;&#x91d1;&#x30d7;&#x30fc;&#x30eb;&#x3000;&#x8131;&#x9000;">
 <node CREATED="1435183203298" ID="ID_1811633480" LINK="http://electronic-journal.seesaa.net/article/102046461.html" MODIFIED="1435183206143" TEXT="1"/>
-<node CREATED="1435183283073" ID="ID_584237329" LINK="http://ocw.kyoto-u.ac.jp/ja/05-faculty-of-economics-jp/economic-history-2/pdf/keizaishi2-13-1.pdf" MODIFIED="1435183284870" TEXT="2">
+<node CREATED="1435183283073" ID="ID_584237329" LINK="http://ocw.kyoto-u.ac.jp/ja/05-faculty-of-economics-jp/economic-history-2/pdf/keizaishi2-13-1.pdf" MODIFIED="1435405537891" TEXT="2">
 <node CREATED="1435183285391" ID="ID_812720344" MODIFIED="1435183316813" TEXT="&#x5e74;&#x8868;&#x3000;&#x3042;&#x308a; (1967,1968)"/>
 </node>
 </node>
 <node CREATED="1435185650405" ID="ID_1958315367" LINK="http://www.kanekashi.com/blog/2009/05/909.html" MODIFIED="1435185667212" TEXT="&#x7c73;&#x56fd;&#x3000;&#x56fd;&#x50b5;&#x6b8b;&#x9ad8;&#x3000;&#x63a8;&#x79fb;&#x3000;&#x30b0;&#x30e9;&#x30d5;"/>
 </node>
-<node CREATED="1435306986735" ID="ID_494523855" MODIFIED="1435306990090" TEXT="#4">
+<node CREATED="1435306986735" ID="ID_494523855" MODIFIED="1435405537901" TEXT="#4">
 <node CREATED="1435306993125" ID="ID_284862418" MODIFIED="1435306993127" TEXT=" 15/06/26"/>
 <node CREATED="1435306994557" ID="ID_627350344" LINK="D-158-1     Book 32     &#x300e;&#x91d1;&#x306e;&#x5024;&#x6bb5;&#x306e;&#x88cf;&#x306e;&#x30a6;&#x30e9;&#x300f;&#x3000;&#x9b3c;&#x585a;&#x82f1;&#x662d;     s-1          15/06/23         &#x4e2d;&#x592e;&#x9280;&#x884c;&#x3000;&#x91d1;&#x3000;&#x4fdd;&#x6709;&#x91cf; &lt;http://lets-gold.net/chart_gallery/chart_gold_demand2.php&gt;         USA GDP 1933 &lt;http://www.multpl.com/us-gdp-inflation-adjusted/table&gt;         &#x65e5;&#x672c;&#x3000;GDP&#x3000;2014 &lt;http://ecodb.net/country/JP/imf_gdp.html&gt;         World Official Gold Reserves &lt;http://www.gold.org/research/latest-world-official-gold-reserves&gt;         #2              15/06/24             o                 &#x300c;&#x30d6;&#x30ec;&#x30c8;&#x30f3;&#x30a6;&#x30c3;&#x30ba;&#x578b;&#x901a;&#x8ca8;&#x5236;&#x5ea6;&#x300d;             US &#x91d1;&#x4fdd;&#x6709;&#x9ad8;&#x3000;&#x63a8;&#x79fb; &lt;http://www.gold-eagle.com/article/us-currency-circulation-us-gold-reserves&gt;                 &quot;where all that gold came from in the 1930s!&quot;             &#x30b1;&#x30cd;&#x30c7;&#x30a3;&#x3000;&#x91d1;&#x30d7;&#x30fc;&#x30eb; &lt;http://electronic-journal.seesaa.net/article/101976558.html&gt;         #3              15/06/25             US &#x7d4c;&#x5e38;&#x53ce;&#x652f;&#x3000;&#xff11;&#xff19;&#xff16;&#xff10;&#x5e74;&#x4ee3;&#xff5e; &lt;http://www.meti.go.jp/report/tsuhaku2007/2007honbun/html/i1220000.html&gt;             &#x30d5;&#x30e9;&#x30f3;&#x30b9;&#x3000;&#x91d1;&#x30d7;&#x30fc;&#x30eb;&#x3000;&#x8131;&#x9000;                 1 &lt;http://electronic-journal.seesaa.net/article/102046461.html&gt;                 2 &lt;http://ocw.kyoto-u.ac.jp/ja/05-faculty-of-economics-jp/economic-history-2/pdf/keizaishi2-13-1.pdf&gt;                     &#x5e74;&#x8868;&#x3000;&#x3042;&#x308a; (1967,1968)             &#x7c73;&#x56fd;&#x3000;&#x56fd;&#x50b5;&#x6b8b;&#x9ad8;&#x3000;&#x63a8;&#x79fb;&#x3000;&#x30b0;&#x30e9;&#x30d5; &lt;http://www.kanekashi.com/blog/2009/05/909.html&gt; " MODIFIED="1435307006031" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x63a8;&#x79fb;&#x3000;&#x904e;&#x53bb;&#xff14;&#xff10;&#x5e74;"/>
 <node CREATED="1435307030102" ID="ID_681785420" LINK="http://gold.tanaka.co.jp/commodity/souba/d-gold.php" MODIFIED="1435307041475" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x63a8;&#x79fb;&#x3000;&#x904e;&#x53bb;&#xff11;&#x30f6;&#x6708;"/>
 <node CREATED="1435307184014" ID="ID_301737236" LINK="http://allabout.co.jp/gm/gc/387813/" MODIFIED="1435307191426" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x70ba;&#x66ff;"/>
-<node CREATED="1435307265414" ID="ID_1790445620" LINK="http://gold.mmc.co.jp/market/g_data/2014.html" MODIFIED="1435307282173" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x63a8;&#x79fb;">
+<node CREATED="1435307265414" ID="ID_1790445620" LINK="http://gold.mmc.co.jp/market/g_data/2014.html" MODIFIED="1435405537901" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x63a8;&#x79fb;">
 <node CREATED="1435307271261" ID="ID_1815128835" MODIFIED="1435307279059" TEXT="=&gt;&#x3000;&#x6570;&#x5024;&#x8868;&#x793a;&#x3001;&#x3042;&#x308a;"/>
 </node>
-<node CREATED="1435307265414" ID="ID_1971030355" LINK="http://chartpark.com/gold.html" MODIFIED="1435307365161" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x63a8;&#x79fb;">
+<node CREATED="1435307265414" ID="ID_1971030355" LINK="http://chartpark.com/gold.html" MODIFIED="1435405537901" TEXT="&#x91d1;&#x4fa1;&#x683c;&#x3000;&#x63a8;&#x79fb;">
 <node CREATED="1435307368711" ID="ID_457300094" MODIFIED="1435307374532" TEXT="&#x65e5;&#x8db3;&#x3000;&#xff13;&#x30f6;&#x6708;"/>
 <node CREATED="1435307402686" ID="ID_372643629" MODIFIED="1435307406914" TEXT="&#x9031;&#x8db3;&#x3000;&#xff12;&#x5e74;"/>
 </node>
@@ -3636,6 +3650,22 @@
 <node CREATED="1435287500122" ID="ID_532713355" MODIFIED="1435287501715" TEXT="s-2">
 <node CREATED="1435287503294" ID="ID_210284899" MODIFIED="1435287503395" TEXT=" 15/06/26"/>
 <node CREATED="1435287504806" ID="ID_1104401277" MODIFIED="1435287514668" TEXT="&#x30e6;&#x30fc;&#x30af;&#x30ea;&#x30c3;&#x30c9;&#x306e;&#x4e92;&#x9664;&#x6cd5;&#x3000;programming"/>
+</node>
+<node CREATED="1435368598236" ID="ID_1110375309" MODIFIED="1435368599266" TEXT="s-4">
+<node CREATED="1435368600211" ID="ID_1343425141" MODIFIED="1435368605936" TEXT="&#x6700;&#x5927;&#x516c;&#x7d04;&#x6570;&#x3000;&#x8868;&#x793a;&#x5f0f;">
+<node CREATED="1435368661929" ID="ID_778664603" MODIFIED="1435368663496" TEXT="1">
+<node CREATED="1435368608316" ID="ID_98958079" LINK="http://www.geisya.or.jp/~mwm48961/math/m3gcm1.htm" MODIFIED="1435368623667" TEXT="&#x4e92;&#x9664;&#x6cd5;"/>
+</node>
+</node>
+</node>
+<node CREATED="1435405553130" ID="ID_893525946" MODIFIED="1435405555842" TEXT="s-5">
+<node CREATED="1435405557023" ID="ID_859914459" MODIFIED="1435405562967" TEXT="&#x6574;&#x6570;&#x306e;&#x5408;&#x540c;"/>
+<node CREATED="1435405565264" ID="ID_986899415" LINK="http://www2.cc.niigata-u.ac.jp/~takeuchi/tbasic/BackGround/Cong.html" MODIFIED="1435405571829" TEXT="&#x8aac;&#x660e;"/>
+<node CREATED="1435406445231" ID="ID_1581686878" LINK="http://www.econ.hit-u.ac.jp/~yamada/algebra_pdf/1_1_integer.pdf" MODIFIED="1435406448113" TEXT="also">
+<node CREATED="1435406452265" ID="ID_375782494" MODIFIED="1435406460961" TEXT="=&gt; &#x96c6;&#x5408;&#x306e;&#x6982;&#x5ff5;&#x3001;&#x5229;&#x7528;"/>
+</node>
+<node CREATED="1435405614308" ID="ID_914490105" LINK="http://aozoragakuen.sakura.ne.jp/suuronintro/suuronintro.html" MODIFIED="1435405625607" TEXT="&#x6559;&#x79d1;&#x66f8;&#x7684;doc"/>
+<node CREATED="1435406263237" ID="ID_829126037" LINK="http://akademeia.info/index.php?%C0%B0%BF%F4%A4%CE%B9%E7%C6%B1" MODIFIED="1435406267637" TEXT="&#x5408;&#x540c;&#x5f0f;"/>
 </node>
 </node>
 </node>
