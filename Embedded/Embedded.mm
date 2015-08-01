@@ -16045,6 +16045,22 @@
 <node CREATED="1433413929578" ID="ID_1602183633" MODIFIED="1433413932344" TEXT="assembly"/>
 </node>
 <node CREATED="1433413909955" ID="ID_1581481340" LINK="http://d.hatena.ne.jp/seinzumtode/20120725/1343212957" MODIFIED="1433413911795" TEXT="2"/>
+<node CREATED="1438437017477" ID="ID_1622003836" LINK="https://www.google.co.jp/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C+PIC+USART&amp;start=10" MODIFIED="1438437023042" TEXT="3">
+<node CREATED="1438437019125" ID="ID_1583696863" MODIFIED="1438437020734" TEXT="search"/>
+</node>
+<node CREATED="1438437481712" ID="ID_1600013189" LINK="https://www.google.co.jp/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=pic16f887+eusart" MODIFIED="1438437485864" TEXT="4">
+<node CREATED="1438437483520" ID="ID_18535919" MODIFIED="1438437484427" TEXT="QA"/>
+</node>
+<node CREATED="1438437688482" ID="ID_1979229211" LINK="https://www.google.co.jp/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=pic%20mikroc%20usart" MODIFIED="1438437702291" TEXT="5">
+<node CREATED="1438437689946" ID="ID_248715257" MODIFIED="1438437692011" TEXT="search">
+<node CREATED="1438437692012" ID="ID_1616048396" MODIFIED="1438437696398" TEXT="mikroc + uart"/>
+</node>
+</node>
+<node CREATED="1438437885586" ID="ID_1310121920" LINK="https://www.google.co.jp/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=mplabide+usart" MODIFIED="1438437887970" TEXT="6">
+<node CREATED="1438437689946" ID="ID_1461869672" MODIFIED="1438437692011" TEXT="search">
+<node CREATED="1438437692012" ID="ID_1303729292" MODIFIED="1438437896031" TEXT="mplab + uart"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1433428822496" ID="ID_1265700703" MODIFIED="1434003624196" TEXT="D-122-">
