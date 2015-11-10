@@ -3287,7 +3287,8 @@
 </node>
 <node CREATED="1446947818676" ID="ID_1463368165" MODIFIED="1446947818678" TEXT=" 15/11/08"/>
 </node>
-<node CREATED="1446948157020" ID="ID_1627314716" MODIFIED="1446948165304" TEXT="s-19">
+<node CREATED="1446948157020" ID="ID_1627314716" MODIFIED="1447108812237" TEXT="s-19">
+<icon BUILTIN="button_ok"/>
 <node CREATED="1446948160661" ID="ID_1941980414" MODIFIED="1446948167916" TEXT="ref">
 <node CREATED="1446948167917" ID="ID_1407726000" LINK="http://www.re-adworks.com/ir/library/" MODIFIED="1446948170210" TEXT="1">
 <node CREATED="1446948171828" ID="ID_1702708296" MODIFIED="1446948177404" TEXT="IR lib">
@@ -3307,10 +3308,6 @@
 <node CREATED="1447047496406" ID="ID_485027157" LINK="http://stocks.finance.yahoo.co.jp/stocks/detail/?code=8918.T" MODIFIED="1447047498679" TEXT="YF"/>
 <node CREATED="1447047591479" ID="ID_52279340" LINK="https://disclosure.edinet-fsa.go.jp/E01EW/BLMainController.jsp?uji.verb=W00Z1010initialize&amp;uji.bean=ek.bean.EKW00Z1010Bean&amp;PID=W1E63021&amp;TID=W00Z1010&amp;SESSIONKEY=1447047574081&amp;lgKbn=2&amp;pkbn=0&amp;skbn=1&amp;dskb=&amp;askb=&amp;dflg=0&amp;iflg=0&amp;preId=1&amp;sec=&amp;scc=8918&amp;snm=&amp;spf1=1&amp;spf2=1&amp;iec=&amp;icc=&amp;inm=&amp;spf3=1&amp;fdc=&amp;fnm=&amp;spf4=1&amp;spf5=2&amp;otd=120&amp;cal=1&amp;era=H&amp;yer=&amp;mon=&amp;psr=1&amp;pfs=4&amp;row=100&amp;idx=0&amp;str=&amp;kbn=1&amp;flg=&amp;syoruiKanriNo=S1004TAX" MODIFIED="1447047594366" TEXT="EDI"/>
 </node>
-<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1918989405" MODIFIED="1440572844652" TEXT="N@">
-<cloud/>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
 </node>
 <node CREATED="1446947739411" ID="ID_1227618398" MODIFIED="1446947743119" TEXT="NEXT">
 <node CREATED="1447050321928" ID="ID_699071202" MODIFIED="1447050323288" TEXT="1">
@@ -3329,6 +3326,28 @@
 </node>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1447108781716" ID="ID_1622926101" MODIFIED="1447108783808" TEXT="s-20">
+<node CREATED="1447108808116" ID="ID_829706447" MODIFIED="1447108809078" TEXT=" 15/11/10"/>
+<node CREATED="1447108784683" ID="ID_604456429" MODIFIED="1447108786028" TEXT="ref">
+<node CREATED="1447108786029" ID="ID_1160657592" MODIFIED="1447108786756" TEXT="1">
+<node CREATED="1447108786758" ID="ID_787036131" LINK="https://docs.google.com/spreadsheets/d/1QQSYyWiFr_eOCN1tofCUjIbB42vY1mZDSW4-YsjfTBE/edit#gid=213658272" MODIFIED="1447108800142" TEXT="sheet">
+<node CREATED="1447108788773" ID="ID_305451959" MODIFIED="1447108796313" TEXT="&#x30a2;&#x30fc;&#x30d0;&#x30f3;&#x4ed6;&#x3001;&#xff13;&#x793e;&#x6bd4;&#x8f03;"/>
+</node>
+</node>
+<node CREATED="1447108843484" ID="ID_1560761565" MODIFIED="1447108844372" TEXT="2">
+<node CREATED="1447108844373" ID="ID_1020680587" MODIFIED="1447108847208" TEXT="&#x30a2;&#x30fc;&#x30d0;&#x30f3;&#x3000;8851">
+<node CREATED="1447108848811" ID="ID_14264216" LINK="http://minkabu.jp/stock/8851/research" MODIFIED="1447108867127" TEXT="&#x307f;&#x3093;&#x304b;&#x3076;"/>
+<node CREATED="1447108853435" ID="ID_750915617" LINK="https://disclosure.edinet-fsa.go.jp/E01EW/BLMainController.jsp?uji.verb=W00Z1010initialize&amp;uji.bean=ek.bean.EKW00Z1010Bean&amp;PID=W1E63021&amp;TID=W00Z1010&amp;SESSIONKEY=1447108895478&amp;lgKbn=2&amp;pkbn=0&amp;skbn=1&amp;dskb=&amp;askb=&amp;dflg=0&amp;iflg=0&amp;preId=1&amp;sec=&amp;scc=8851&amp;snm=&amp;spf1=1&amp;spf2=1&amp;iec=&amp;icc=&amp;inm=&amp;spf3=1&amp;fdc=&amp;fnm=&amp;spf4=1&amp;spf5=2&amp;otd=120&amp;cal=1&amp;era=H&amp;yer=&amp;mon=&amp;psr=1&amp;pfs=4&amp;row=100&amp;idx=0&amp;str=&amp;kbn=1&amp;flg=&amp;syoruiKanriNo=S10053O5" MODIFIED="1447108908483" TEXT="EDI">
+<node CREATED="1447108935884" ID="ID_635267633" MODIFIED="1447108940312" TEXT="SR"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0033ff" COLOR="#ffffff" CREATED="1350079757054" ID="ID_1918989405" MODIFIED="1440572844652" TEXT="N@">
+<cloud/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1443943289878" ID="ID_1818554613" MODIFIED="1446948154674" TEXT="s-">
